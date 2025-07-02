@@ -1,6 +1,6 @@
 <div align="center">
 
-# Some Stars
+# Cyril2007's Stars
 
 ⭐ <a href="https://github.com/cyril2007?tab=stars"  target="_blank">Cyril2007</a>的star列表，每周自动更新 ⭐
 
