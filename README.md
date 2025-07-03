@@ -4,8 +4,6 @@
 
 ⭐ <a href="https://github.com/cyril2007?tab=stars"  target="_blank">Cyril2007</a>的star列表，定期自动更新 ⭐
 
-<a href="https://rsshub.app/github/starred_repos/Cyril2007"  target="_blank" title="基于rsshub的订阅">RSS订阅</a>
-
 </div><br>
 
 ## Table of Contents
