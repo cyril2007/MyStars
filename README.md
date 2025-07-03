@@ -2,7 +2,7 @@
 
 # Cyril2007's Stars
 
-⭐ <a href="https://github.com/cyril2007?tab=stars"  target="_blank">Cyril2007</a>的star列表，每周自动更新 ⭐
+⭐ <a href="https://github.com/cyril2007?tab=stars"  target="_blank">Cyril2007</a>的star列表，定期自动更新 ⭐
 
 <a href="https://rsshub.app/github/starred_repos/Cyril2007"  target="_blank" title="基于rsshub的订阅">RSS订阅</a>
 
@@ -10,18 +10,18 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
 *   [GDScript](#gdscript)
-*   [C#](#c)
-*   [C++](#c-1)
+*   [C#](#c-1)
+*   [C++](#c-2)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Kotlin](#kotlin)
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
-*   [C](#c-2)
 *   [Vue](#vue)
 *   [Shell](#shell)
 *   [AutoHotkey](#autohotkey)
@@ -59,6 +59,30 @@
 *   [Objective-C](#objective-c)
 *   [Stylus](#stylus)
 *   [Clojure](#clojure)
+
+## C
+
+*   [MikeWang000000/FakeHTTP](https://github.com/MikeWang000000/FakeHTTP) - Obfuscate all your TCP connections into HTTP protocol.
+
+*   [espressif/esp-sr](https://github.com/espressif/esp-sr) - Speech recognition
+
+*   [winscp/winscp](https://github.com/winscp/winscp) - WinSCP is a popular free file manager for Windows supporting SFTP, FTP, FTPS, SCP, S3, WebDAV and local-to-local file transfers. A powerful tool to enhance your productivity with a user-friendly interface and automation options like .NET assembly.
+
+*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
+
+*   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+
+*   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
+
+*   [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+
+*   [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
+
+*   [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
+
+*   [cpp-labs/ffmpeg](https://github.com/cpp-labs/ffmpeg) -
+
+*   [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 
 ## Dart
 
@@ -227,8 +251,6 @@
 *   [kaiheila/api-docs](https://github.com/kaiheila/api-docs) - KOOK开发者中心文档
 
 *   [jinl1874/e-book](https://github.com/jinl1874/e-book) - 个人制作的一些epub格式的电子书。
-
-*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 
 ## GDScript
 
@@ -1453,28 +1475,6 @@
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 *   [Kieaer/Anti-Ripper](https://github.com/Kieaer/Anti-Ripper) - Detect Avatar ripper user using VRCX Database
-
-## C
-
-*   [espressif/esp-sr](https://github.com/espressif/esp-sr) - Speech recognition
-
-*   [winscp/winscp](https://github.com/winscp/winscp) - WinSCP is a popular free file manager for Windows supporting SFTP, FTP, FTPS, SCP, S3, WebDAV and local-to-local file transfers. A powerful tool to enhance your productivity with a user-friendly interface and automation options like .NET assembly.
-
-*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
-
-*   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
-
-*   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
-
-*   [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-
-*   [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
-
-*   [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
-
-*   [cpp-labs/ffmpeg](https://github.com/cpp-labs/ffmpeg) -
-
-*   [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 
 ## Vue
 
