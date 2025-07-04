@@ -8,11 +8,11 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [Python](#python)
 *   [Go](#go)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
-*   [HTML](#html)
 *   [Vue](#vue)
 *   [C](#c)
 *   [Dart](#dart)
@@ -54,6 +54,52 @@
 *   [Makefile](#makefile)
 *   [MATLAB](#matlab)
 *   [PowerShell](#powershell)
+
+## HTML
+
+*   [The-Pocket/PocketFlow-Tutorial-Website-Chatbot](https://github.com/The-Pocket/PocketFlow-Tutorial-Website-Chatbot) - "Set & Forget" AI Chatbot for Your Website - It Learns Your Website Automatically
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [CMBill/lxgw-wenkai-web](https://github.com/CMBill/lxgw-wenkai-web) - LXGW WenKai / 霞鹜文楷 网络字体仓库
+
+*   [Suxiaoqinx/Netease\_url](https://github.com/Suxiaoqinx/Netease_url) - 网易云无损解析
+
+*   [tansuotv/IPTVindex](https://github.com/tansuotv/IPTVindex) - Enjoy IPTV !
+
+*   [lucasbordeau/obsidian-tiddlywiki](https://github.com/lucasbordeau/obsidian-tiddlywiki) - Import/export TiddlyWiki tiddler files with Obsidian
+
+*   [BannyLon/DifyAIA](https://github.com/BannyLon/DifyAIA) - 基于Dify自主创建的AI应用DSL工作流，你可以免费获取，无论是出于个人需求还是学习目的，它都能为您开启一段充满无限可能的智能之旅。
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [RyanKruse/Andrea](https://github.com/RyanKruse/Andrea) - A Tablet for Reading Books in Virtual Reality.
+
+*   [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
+
+*   [kurodaak1ra/u2-user-invite-search-system-light](https://github.com/kurodaak1ra/u2-user-invite-search-system-light) - U2 邀请树查询系统 - Golang轻量重制版
+
+*   [SnowyWalk/iwaSyncTitle](https://github.com/SnowyWalk/iwaSyncTitle) - Retrieve iwaSync video's title (For VRChat)
+
+*   [niwaniwa/vpm.niri.la](https://github.com/niwaniwa/vpm.niri.la) - vpm
+
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
+*   [Sonic853/Bilibili-Live-Profile-853-style](https://github.com/Sonic853/Bilibili-Live-Profile-853-style) - 这是853的个人简介的源码的说~
+
+*   [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
+
+*   [oxyry/qireader](https://github.com/oxyry/qireader) - A Modern Web RSS Reader
+
+*   [weqoocu/weqoocu.com](https://github.com/weqoocu/weqoocu.com) - 实践卡片盒笔记法，案例:weqoocu.com
+
+*   [lanbao2021/share](https://github.com/lanbao2021/share) - 分享蓝同学收集的软件资源、使用心得...
+
+*   [VitexThorn/Anime-Avatar-Generating\_With-DCGAN](https://github.com/VitexThorn/Anime-Avatar-Generating_With-DCGAN) - 本科期间毕业设计项目，基于Pytorch框架，搭建DCGAN实现二次元头像自动生成系统，包括了前后端。水平有限，比较粗糙
+
+*   [mmyo456/template-package-listing](https://github.com/mmyo456/template-package-listing) - VCC 包列表模板存储库
+
+*   [mmyo456/events-calendar](https://github.com/mmyo456/events-calendar) -
 
 ## Python
 
@@ -401,8 +447,6 @@
 
 *   [apprenticeharper/DeDRM\_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
 ## Go
 
 *   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
@@ -650,50 +694,6 @@
 *   [Archmage83/tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
 
 *   [kaiheila/api-docs](https://github.com/kaiheila/api-docs) - KOOK开发者中心文档
-
-## HTML
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [CMBill/lxgw-wenkai-web](https://github.com/CMBill/lxgw-wenkai-web) - LXGW WenKai / 霞鹜文楷 网络字体仓库
-
-*   [Suxiaoqinx/Netease\_url](https://github.com/Suxiaoqinx/Netease_url) - 网易云无损解析
-
-*   [tansuotv/IPTVindex](https://github.com/tansuotv/IPTVindex) - Enjoy IPTV !
-
-*   [lucasbordeau/obsidian-tiddlywiki](https://github.com/lucasbordeau/obsidian-tiddlywiki) - Import/export TiddlyWiki tiddler files with Obsidian
-
-*   [BannyLon/DifyAIA](https://github.com/BannyLon/DifyAIA) - 基于Dify自主创建的AI应用DSL工作流，你可以免费获取，无论是出于个人需求还是学习目的，它都能为您开启一段充满无限可能的智能之旅。
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [RyanKruse/Andrea](https://github.com/RyanKruse/Andrea) - A Tablet for Reading Books in Virtual Reality.
-
-*   [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
-
-*   [kurodaak1ra/u2-user-invite-search-system-light](https://github.com/kurodaak1ra/u2-user-invite-search-system-light) - U2 邀请树查询系统 - Golang轻量重制版
-
-*   [SnowyWalk/iwaSyncTitle](https://github.com/SnowyWalk/iwaSyncTitle) - Retrieve iwaSync video's title (For VRChat)
-
-*   [niwaniwa/vpm.niri.la](https://github.com/niwaniwa/vpm.niri.la) - vpm
-
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
-*   [Sonic853/Bilibili-Live-Profile-853-style](https://github.com/Sonic853/Bilibili-Live-Profile-853-style) - 这是853的个人简介的源码的说~
-
-*   [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
-
-*   [oxyry/qireader](https://github.com/oxyry/qireader) - A Modern Web RSS Reader
-
-*   [weqoocu/weqoocu.com](https://github.com/weqoocu/weqoocu.com) - 实践卡片盒笔记法，案例:weqoocu.com
-
-*   [lanbao2021/share](https://github.com/lanbao2021/share) - 分享蓝同学收集的软件资源、使用心得...
-
-*   [VitexThorn/Anime-Avatar-Generating\_With-DCGAN](https://github.com/VitexThorn/Anime-Avatar-Generating_With-DCGAN) - 本科期间毕业设计项目，基于Pytorch框架，搭建DCGAN实现二次元头像自动生成系统，包括了前后端。水平有限，比较粗糙
-
-*   [mmyo456/template-package-listing](https://github.com/mmyo456/template-package-listing) - VCC 包列表模板存储库
-
-*   [mmyo456/events-calendar](https://github.com/mmyo456/events-calendar) -
 
 ## Vue
 
