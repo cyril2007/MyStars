@@ -962,7 +962,7 @@
 
 *   [Ryson-32/AI-Magnet-Assistant](https://github.com/Ryson-32/AI-Magnet-Assistant) -
 
-*   [LuSrackhall/KeyTone](https://github.com/LuSrackhall/KeyTone) - KeyTone is a ready-to-use software that can simulate the sound of keyboard strokes in real-time. 「KeyTone 是一款即用型软件，可以实时模拟按键敲击的声音。」
+*   [LuSrackhall/KeyTone](https://github.com/LuSrackhall/KeyTone) - KeyTone is a software with Go as its core, capable of simulating the sound of key presses in real-time. 「KeyTone 是一款以golang为核心的软件，可以实时模拟按键敲击的声音。」
 
 *   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
@@ -1082,7 +1082,7 @@
 
 *   [LorisYounger/ChatVPet](https://github.com/LorisYounger/ChatVPet) - 桌宠语言模型. 基于桌宠聊天数据训练而来
 
-*   [trueai-org/midjourney-proxy](https://github.com/trueai-org/midjourney-proxy) - 🦄 全球最大的 Midjourney 绘图 API，日绘图 100万+ 🐂！
+*   [trueai-org/midjourney-proxy](https://github.com/trueai-org/midjourney-proxy) - 🦄 The world's largest Midjourney drawing API, generating over 1 million drawings daily, supporting Discord Youchuan Midjourney 🐂！
 
 *   [z3y/Graphlit](https://github.com/z3y/Graphlit) - A node shader editor for Toon and PBR shaders
 
