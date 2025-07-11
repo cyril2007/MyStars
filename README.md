@@ -20,9 +20,9 @@
 *   [C](#c)
 *   [C#](#c-1)
 *   [Go](#go)
-*   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [HTML](#html)
+*   [miscellaneous](#miscellaneous)
 *   [Markdown](#markdown)
 *   [Dart](#dart)
 *   [GDScript](#gdscript)
@@ -328,7 +328,7 @@
 
 *   [CodeBoy2006/falProxy](https://github.com/CodeBoy2006/falProxy) - A high-performance, self-hosted Deno proxy that makes Fal.ai's powerful models (Flux, SDXL, etc.) compatible with the standard OpenAI image generation API. Use any OpenAI client seamlessly.
 
-*   [senshinya/MoonTV](https://github.com/senshinya/MoonTV) -
+*   [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
 
 *   [zimplexing/OrionTV](https://github.com/zimplexing/OrionTV) - 一个基于 React Native TVOS 和 Expo 构建的跨平台电视应用，旨在提供流畅的视频观看体验。
 
@@ -934,6 +934,8 @@
 
 *   [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
+*   [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
+
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
 *   [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) -  This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.
@@ -1490,9 +1492,89 @@
 
 *   [jsopn/vrc-lyrics](https://github.com/jsopn/vrc-lyrics) - Display the track and its lyrics in a VRChat's chatbox using the OSC
 
-## miscellaneous
+## Java
 
-*   [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
+*   [kknifer7/TVBoxOS-K](https://github.com/kknifer7/TVBoxOS-K) - 与 FreeBox 搭配使用的安卓端 TVBox
+
+*   [kknifer7/FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
+
+*   [CandyDream6/tgmeng-api](https://github.com/CandyDream6/tgmeng-api) - 糖果梦热搜-后端
+
+*   [itning/yunshu-nas](https://github.com/itning/yunshu-nas) - 自建NAS系统，实现本地视频音频点播，文件存储等功能。自动视频转码，在线观看下载视频！
+
+*   [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+
+*   [flyun/chatAir](https://github.com/flyun/chatAir) - ☁️A native Android app for ChatGPT, Gemini, Claude, and DeepSeek  ☁️ChatGPT、Gemini、Claude 和 DeepSeek 的原生安卓应用程序
+
+*   [sylvainhalle/textidote](https://github.com/sylvainhalle/textidote) - Spelling, grammar and style checking on LaTeX documents
+
+*   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
+
+*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
+
+*   [overmind1980/oeasy-linux-tutorial](https://github.com/overmind1980/oeasy-linux-tutorial) - oeasy教您玩转linux教程。从命令行零基础 入门。逐个介绍LINUX查看系统版本、常用命令、基础知识、涵盖多种命令与原理。带您玩转linux的世界。😄
+
+*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+
+*   [RinLovesYou/Stream-Soundboard](https://github.com/RinLovesYou/Stream-Soundboard) - A soundboard that doesn't store files.
+
+*   [michaelliao/itranswarp](https://github.com/michaelliao/itranswarp) - Full-featured CMS including blog, wiki, discussion, etc. Cloud native application that powered by SpringBoot.
+
+*   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
+
+*   [opensourceBIM/BIMserver](https://github.com/opensourceBIM/BIMserver) - The open source BIMserver platform
+
+## HTML
+
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个中文平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，1分钟部署完毕。⭐ 让算法为你服务，而非被算法绑架
+
+*   [The-Pocket/PocketFlow-Tutorial-Website-Chatbot](https://github.com/The-Pocket/PocketFlow-Tutorial-Website-Chatbot) - "Set & Forget" AI Chatbot for Your Website - It Learns Your Website Automatically
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [CMBill/lxgw-wenkai-web](https://github.com/CMBill/lxgw-wenkai-web) - LXGW WenKai / 霞鹜文楷 网络字体仓库
+
+*   [Suxiaoqinx/Netease\_url](https://github.com/Suxiaoqinx/Netease_url) - 网易云无损解析
+
+*   [tansuotv/IPTVindex](https://github.com/tansuotv/IPTVindex) - Enjoy IPTV !
+
+*   [lucasbordeau/obsidian-tiddlywiki](https://github.com/lucasbordeau/obsidian-tiddlywiki) - Import/export TiddlyWiki tiddler files with Obsidian
+
+*   [BannyLon/DifyAIA](https://github.com/BannyLon/DifyAIA) - 基于Dify自主创建的AI应用DSL工作流，你可以免费获取，无论是出于个人需求还是学习目的，它都能为您开启一段充满无限可能的智能之旅。
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [RyanKruse/Andrea](https://github.com/RyanKruse/Andrea) - A Tablet for Reading Books in Virtual Reality.
+
+*   [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
+
+*   [kurodaak1ra/u2-user-invite-search-system-light](https://github.com/kurodaak1ra/u2-user-invite-search-system-light) - U2 邀请树查询系统 - Golang轻量重制版
+
+*   [SnowyWalk/iwaSyncTitle](https://github.com/SnowyWalk/iwaSyncTitle) - Retrieve iwaSync video's title (For VRChat)
+
+*   [niwaniwa/vpm.niri.la](https://github.com/niwaniwa/vpm.niri.la) - vpm
+
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
+*   [Sonic853/Bilibili-Live-Profile-853-style](https://github.com/Sonic853/Bilibili-Live-Profile-853-style) - 这是853的个人简介的源码的说~
+
+*   [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
+
+*   [oxyry/qireader](https://github.com/oxyry/qireader) - A Modern Web RSS Reader
+
+*   [weqoocu/weqoocu.com](https://github.com/weqoocu/weqoocu.com) - 实践卡片盒笔记法，案例:weqoocu.com
+
+*   [lanbao2021/share](https://github.com/lanbao2021/share) - 分享蓝同学收集的软件资源、使用心得...
+
+*   [VitexThorn/Anime-Avatar-Generating\_With-DCGAN](https://github.com/VitexThorn/Anime-Avatar-Generating_With-DCGAN) - 本科期间毕业设计项目，基于Pytorch框架，搭建DCGAN实现二次元头像自动生成系统，包括了前后端。水平有限，比较粗糙
+
+*   [mmyo456/template-package-listing](https://github.com/mmyo456/template-package-listing) - VCC 包列表模板存储库
+
+*   [mmyo456/events-calendar](https://github.com/mmyo456/events-calendar) -
+
+## miscellaneous
 
 *   [devdacian/ai-auditor-primers](https://github.com/devdacian/ai-auditor-primers) - Primers for Specialist AI Smart Contract Auditors
 
@@ -1649,88 +1731,6 @@
 *   [Archmage83/tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
 
 *   [kaiheila/api-docs](https://github.com/kaiheila/api-docs) - KOOK开发者中心文档
-
-## Java
-
-*   [kknifer7/TVBoxOS-K](https://github.com/kknifer7/TVBoxOS-K) - 与 FreeBox 搭配使用的安卓端 TVBox
-
-*   [kknifer7/FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
-
-*   [CandyDream6/tgmeng-api](https://github.com/CandyDream6/tgmeng-api) - 糖果梦热搜-后端
-
-*   [itning/yunshu-nas](https://github.com/itning/yunshu-nas) - 自建NAS系统，实现本地视频音频点播，文件存储等功能。自动视频转码，在线观看下载视频！
-
-*   [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-
-*   [flyun/chatAir](https://github.com/flyun/chatAir) - ☁️A native Android app for ChatGPT, Gemini, Claude, and DeepSeek  ☁️ChatGPT、Gemini、Claude 和 DeepSeek 的原生安卓应用程序
-
-*   [sylvainhalle/textidote](https://github.com/sylvainhalle/textidote) - Spelling, grammar and style checking on LaTeX documents
-
-*   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
-
-*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-
-*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
-
-*   [overmind1980/oeasy-linux-tutorial](https://github.com/overmind1980/oeasy-linux-tutorial) - oeasy教您玩转linux教程。从命令行零基础 入门。逐个介绍LINUX查看系统版本、常用命令、基础知识、涵盖多种命令与原理。带您玩转linux的世界。😄
-
-*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-
-*   [RinLovesYou/Stream-Soundboard](https://github.com/RinLovesYou/Stream-Soundboard) - A soundboard that doesn't store files.
-
-*   [michaelliao/itranswarp](https://github.com/michaelliao/itranswarp) - Full-featured CMS including blog, wiki, discussion, etc. Cloud native application that powered by SpringBoot.
-
-*   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
-
-*   [opensourceBIM/BIMserver](https://github.com/opensourceBIM/BIMserver) - The open source BIMserver platform
-
-## HTML
-
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个中文平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，1分钟部署完毕。⭐ 让算法为你服务，而非被算法绑架
-
-*   [The-Pocket/PocketFlow-Tutorial-Website-Chatbot](https://github.com/The-Pocket/PocketFlow-Tutorial-Website-Chatbot) - "Set & Forget" AI Chatbot for Your Website - It Learns Your Website Automatically
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [CMBill/lxgw-wenkai-web](https://github.com/CMBill/lxgw-wenkai-web) - LXGW WenKai / 霞鹜文楷 网络字体仓库
-
-*   [Suxiaoqinx/Netease\_url](https://github.com/Suxiaoqinx/Netease_url) - 网易云无损解析
-
-*   [tansuotv/IPTVindex](https://github.com/tansuotv/IPTVindex) - Enjoy IPTV !
-
-*   [lucasbordeau/obsidian-tiddlywiki](https://github.com/lucasbordeau/obsidian-tiddlywiki) - Import/export TiddlyWiki tiddler files with Obsidian
-
-*   [BannyLon/DifyAIA](https://github.com/BannyLon/DifyAIA) - 基于Dify自主创建的AI应用DSL工作流，你可以免费获取，无论是出于个人需求还是学习目的，它都能为您开启一段充满无限可能的智能之旅。
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [RyanKruse/Andrea](https://github.com/RyanKruse/Andrea) - A Tablet for Reading Books in Virtual Reality.
-
-*   [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
-
-*   [kurodaak1ra/u2-user-invite-search-system-light](https://github.com/kurodaak1ra/u2-user-invite-search-system-light) - U2 邀请树查询系统 - Golang轻量重制版
-
-*   [SnowyWalk/iwaSyncTitle](https://github.com/SnowyWalk/iwaSyncTitle) - Retrieve iwaSync video's title (For VRChat)
-
-*   [niwaniwa/vpm.niri.la](https://github.com/niwaniwa/vpm.niri.la) - vpm
-
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
-*   [Sonic853/Bilibili-Live-Profile-853-style](https://github.com/Sonic853/Bilibili-Live-Profile-853-style) - 这是853的个人简介的源码的说~
-
-*   [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
-
-*   [oxyry/qireader](https://github.com/oxyry/qireader) - A Modern Web RSS Reader
-
-*   [weqoocu/weqoocu.com](https://github.com/weqoocu/weqoocu.com) - 实践卡片盒笔记法，案例:weqoocu.com
-
-*   [lanbao2021/share](https://github.com/lanbao2021/share) - 分享蓝同学收集的软件资源、使用心得...
-
-*   [VitexThorn/Anime-Avatar-Generating\_With-DCGAN](https://github.com/VitexThorn/Anime-Avatar-Generating_With-DCGAN) - 本科期间毕业设计项目，基于Pytorch框架，搭建DCGAN实现二次元头像自动生成系统，包括了前后端。水平有限，比较粗糙
-
-*   [mmyo456/template-package-listing](https://github.com/mmyo456/template-package-listing) - VCC 包列表模板存储库
-
-*   [mmyo456/events-calendar](https://github.com/mmyo456/events-calendar) -
 
 ## Markdown
 
