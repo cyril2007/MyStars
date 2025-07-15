@@ -698,7 +698,7 @@
 
 *   [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 
-*   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能的OpenAI格式API多密钥轮询代理服务器，支持负载均衡，使用 Go 语言开发。A high-performance OpenAI-compatible API proxy server with multi-key rotation and load balancing, built with Go.
+*   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - 高性能 AI 网关，为多种大模型服务提供统一的负载均衡和密钥管理。High-performance AI gateway providing unified load balancing and key management for various LLM services.
 
 *   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 
