@@ -792,8 +792,6 @@
 
 *   [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 
-*   [nekohy/duck2api](https://github.com/nekohy/duck2api) - Duckduckgo to OpenAI API Proxy
-
 *   [bycszzz/pansou-ui](https://github.com/bycszzz/pansou-ui) - pansou的前端页面
 
 *   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
@@ -1013,6 +1011,8 @@
 *   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 
 *   [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
+
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## miscellaneous
 
