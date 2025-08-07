@@ -9,10 +9,10 @@
 ## Table of Contents
 
 *   [Python](#python)
-*   [miscellaneous](#miscellaneous)
+*   [TypeScript](#typescript)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
-*   [TypeScript](#typescript)
+*   [miscellaneous](#miscellaneous)
 *   [C#](#c)
 *   [C](#c-1)
 *   [Go](#go)
@@ -119,6 +119,8 @@
 *   [QwenLM/Qwen3-Embedding](https://github.com/QwenLM/Qwen3-Embedding) -
 
 *   [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG System"
+
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，1分钟部署完毕， 支持 docker 部署。⭐ 让算法为你服务，而非被算法绑架
 
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
@@ -512,197 +514,253 @@
 
 *   [mezum/vrcwatch](https://github.com/mezum/vrcwatch) - Supply the local time to VRChat as Avatar Parameters through OSC.
 
-## miscellaneous
+## TypeScript
 
 *   [kamjin3086/chatless](https://github.com/kamjin3086/chatless) - 💻一款简洁实用轻量级的本地AI对话客户端，采用Tauri2.0和Next.js编写  A simple, practical, and lightweight local AI chat client, written in Tauri 2.0 & Next.js.
 
-*   [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents) - An orchestrated sub agent dev team powered by claude code
+*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
 
-*   [OpenBuddy/OpenBuddy](https://github.com/OpenBuddy/OpenBuddy) - Open Multilingual Chatbot for Everyone
+*   [other-blowsnow/n8n-nodes-wechat-work](https://github.com/other-blowsnow/n8n-nodes-wechat-work) - n8n 企业微信
 
-*   [lxc00215/claudia](https://github.com/lxc00215/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+*   [other-blowsnow/n8n-nodes-wechat-offiaccount](https://github.com/other-blowsnow/n8n-nodes-wechat-offiaccount) - n8n 微信公众号
 
-*   [devdacian/ai-auditor-primers](https://github.com/devdacian/ai-auditor-primers) - Primers for Specialist AI Smart Contract Auditors
+*   [deluxebear/n8n](https://github.com/deluxebear/n8n) - 持续跟进官方最新版本
 
-*   [jixserver/free-for-dev](https://github.com/jixserver/free-for-dev) -  A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+*   [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 
-*   [RaiDrive/RaiDrive.Translation](https://github.com/RaiDrive/RaiDrive.Translation) - RaiDrive Translation
+*   [egoist/chatwise-releases](https://github.com/egoist/chatwise-releases) - The fastest AI Chatbot for any LLM
 
-*   [xgit01/sgkrank](https://github.com/xgit01/sgkrank) - 2024最新免费社工库排行
+*   [yeahhe365/All-Model-Chat](https://github.com/yeahhe365/All-Model-Chat) - All Model Chat 是一款功能强大、支持多模态输入的聊天机器人界面，旨在提供与 Google Gemini API 家族无缝交互的极致体验。它集成了动态模型选择、多模态文件输入、流式响应、全面的聊天历史管理以及广泛的自定义选项，为您带来无与伦比的 AI 互动体验。
 
-*   [XihOfFy/FYSG\_Pub](https://github.com/XihOfFy/FYSG_Pub) - 封叶三国
+*   [Narratium/Narratium.ai](https://github.com/Narratium/Narratium.ai) - Open-source platform for AI-driven storytelling, worldbuilding, and immersive roleplay
 
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
+*   [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 
-*   [HoloISO/releases](https://github.com/HoloISO/releases) - To whom shall install
+*   [bycszzz/pansou-ui](https://github.com/bycszzz/pansou-ui) - pansou的前端页面
 
-*   [tesseract-ocr/tessdata\_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
+*   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 
-*   [tesseract-ocr/tessdata\_fast](https://github.com/tesseract-ocr/tessdata_fast) - Fast integer versions of trained LSTM models
+*   [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 
-*   [nonwill/GoldenDict-OCR](https://github.com/nonwill/GoldenDict-OCR) - GoldenDict++：内置大量的官方版本问题的修正；先期添加了一个简单的插件机制，并基于该机制接入了多个 OCR 划词 和 音频播放 引擎；后期在增强易用性的基础上为提高查询效率、减少运行时 CPU 及 内存 占用、降低代码维护难度，完全重构了所有的实现；将来的目标是将功能扩展和词典格式处理抽象为完整的插件实现，以进一步增强应用的扩展性和可维护性。
+*   [linux-do/cdk](https://github.com/linux-do/cdk) - LINUX DO CD key
 
-*   [Axlax336/Iptv\_m3u](https://github.com/Axlax336/Iptv_m3u) - 仓库不定期更新。
+*   [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 
-*   [CMBill/lxgw-wenkai-screen-web](https://github.com/CMBill/lxgw-wenkai-screen-web) - LXGW WenKai Screen / 霞鹜文楷屏幕阅读版 网络字体仓库
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 
-*   [sooooooooooooooooootheby/NeteaseCloudMusicApi](https://github.com/sooooooooooooooooootheby/NeteaseCloudMusicApi) - Binaryify/NeteaseCloudMusicApi
+*   [Coooolfan/UniBoard](https://github.com/Coooolfan/UniBoard) - 个人介绍，导航页、笔记、短链、文件分享，私有化部署。Profile、Note、ShortURL、FileSharing…… with self-host
 
-*   [eeacks/ToNSaveGenerator](https://github.com/eeacks/ToNSaveGenerator) - Save Generator for Terrors of Nowhere ( online: https://ton.eeacks.cc )
+*   [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 
-*   [din4e/DifyDSL4RedTeam](https://github.com/din4e/DifyDSL4RedTeam) - 收集一些红队 Dify Workflow。
+*   [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
 
-*   [Winson-030/dify-DSL](https://github.com/Winson-030/dify-DSL) - dify DSL files collections
+*   [HiMeditator/auto-caption](https://github.com/HiMeditator/auto-caption) - A cross-platform real-time subtitle display software. 一个跨平台的实时字幕显示软件。
 
-*   [aircrushin/awesome-dify-workflow](https://github.com/aircrushin/awesome-dify-workflow) - awesome-dify-workflow as DSL file
+*   [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper) - 浸入式学语言助手 (Immersive Language Learning Assistant)
 
-*   [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
+*   [CharlieLZ/flux-kontext-template](https://github.com/CharlieLZ/flux-kontext-template) - 生财有术特供，flux-kontext开源仓库，套壳模板
 
-*   [zhangnanchao/ChatTTS\_colab](https://github.com/zhangnanchao/ChatTTS_colab) - 🚀 一键部署！基于 ChatTTS ，支持音色抽卡、长音频生成和分角色朗读。简单易用，无需复杂安装。
+*   [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 
-*   [zhangnanchao/Deep-Live-Cam](https://github.com/zhangnanchao/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+*   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 
-*   [zhangnanchao/VideoChat](https://github.com/zhangnanchao/VideoChat) - 实时语音交互数字人，支持端到端语音方案（GLM-4-Voice - THG）和级联方案（ASR-LLM-TTS-THG）。可自定义形象与音色，无须训练，支持音色克隆，首包延迟低至3s。Real-time voice interactive digital human, supporting end-to-end voice solutions (GLM-4-Voice - THG) and cascaded solutions (ASR-LLM-TTS-THG). Customizable appearance and voice, supporting voice cloning, with initial package delay as low as 3s.
+*   [iebb/NekokoLPA](https://github.com/iebb/NekokoLPA) - NekokoLPA
 
-*   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+*   [CodeBoy2006/falProxy](https://github.com/CodeBoy2006/falProxy) - A high-performance, self-hosted Deno proxy that makes Fal.ai's powerful models (Flux, SDXL, etc.) compatible with the standard OpenAI image generation API. Use any OpenAI client seamlessly.
 
-*   [zhaoyun0071/roop-windows-GUI](https://github.com/zhaoyun0071/roop-windows-GUI) - 什么环境不用配置，解压直接用的roop换脸工具
+*   [LunaTechLab/MoonTV](https://github.com/LunaTechLab/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
 
-*   [Keldos-Li/typora-latex-theme-fonts](https://github.com/Keldos-Li/typora-latex-theme-fonts) -
+*   [zimplexing/OrionTV](https://github.com/zimplexing/OrionTV) - 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。
 
-*   [SBCV/Bookstack-Windows-Docker-Desktop](https://github.com/SBCV/Bookstack-Windows-Docker-Desktop) - Tutorial to run Bookstack under Windows using Docker Desktop
+*   [14790897/paper-ai](https://github.com/14790897/paper-ai) - 搜索真实文献并生成引用对应文献的AI论文
 
-*   [star0319/docker-easyconnect](https://github.com/star0319/docker-easyconnect) - # 在linux（centos）上使用VPN翻墙进校内  ### 通过将运行在 docker 的 深信服（Sangfor）非自由的代理软件 EasyConnect 作为网关 并添加路由表 实现资源访问
+*   [LLM-Red-Team/minimax-free-api](https://github.com/LLM-Red-Team/minimax-free-api) - 🚀 MiniMax大模型海螺AI逆向API【特长：超自然语音】，支持MiniMax Text-01、MiniMax-VL-01模型，支持高速流式输出、语音合成、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
 
-*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
+*   [maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat) - AI机器人群聊
 
-*   [vrchat-community/creator-docs](https://github.com/vrchat-community/creator-docs) -
+*   [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client built with Expo
 
-*   [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
+*   [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.
 
-*   [langgptai/wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
+*   [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 
-*   [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
+*   [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension that syncs and manages your cookies to your cloudflare
 
-*   [vcb-s/guides](https://github.com/vcb-s/guides) - VCB-Studio 公开教程（新版）
+*   [NativeMindBrowser/NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension) - NativeMind: Your fully private, open-source, on-device AI assistant
 
-*   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-*   [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) - :books: 极客时间电子书
+*   [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
 
-*   [luolin-ai/Dify-Enterprise-WeChat-bot](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot) - 基于Dify的企业微信知识库机器人，基于企微gpt知识库的bot机器人，能够自动回复企业微信中收到的消息。这个机器人能够处理私聊和群聊，还可以记住与用户的聊天内容，从而做出更加贴合上下文的回应。此外，您还可以设置白名单来控制机器人与哪些用户或群组交互。如需自己dify网站版的机器人
+*   [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
 
-*   [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
+*   [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat with multi-model integration, extensibility, and various output formats
 
-*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
+*   [wizardAEI/Gomoon](https://github.com/wizardAEI/Gomoon) - Gomoon 基于大模型的桌面端效率工具
 
-*   [overmind1980/oeasy\_history](https://github.com/overmind1980/oeasy_history) - 各种历史的搜集与整理
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
-*   [overmind1980/oeasy-postgres-tutorial](https://github.com/overmind1980/oeasy-postgres-tutorial) - 实验楼地址https://www.lanqiao.cn/courses/2782 ，邀请码CHD6PJZ1，从零开始带您玩转数据库
+*   [xyTom/snippai](https://github.com/xyTom/snippai) - Snip Anything Solve Everything​
 
-*   [diana7127/mpv.net-DW](https://github.com/diana7127/mpv.net-DW) - mpv.net\_CM的DW版本，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器
+*   [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
 
-*   [hooke007/mpv.net\_CM](https://github.com/hooke007/mpv.net_CM) - 🎞 mpv.net\_CM 是中文分支模组
+*   [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 
-*   [cloud-fs/cloud-fs.github.io](https://github.com/cloud-fs/cloud-fs.github.io) -
+*   [pt-plugins/PT-depiler](https://github.com/pt-plugins/PT-depiler) - PT-depiler 是在原 PT-Plugin-Plus 基础上， 基于浏览器最新的 Manifest v3 标准开发的一款浏览器插件（Web Extensions）， 一个可以提升 PT 站点使用效率的工具。
 
-*   [yukaiji/buildVpn](https://github.com/yukaiji/buildVpn) - 图文教程搭建一个vpn翻墙
+*   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 
-*   [kysdm/u2\_api](https://github.com/kysdm/u2_api) -
+*   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 
-*   [burpheart/Palworld-Reverse-Note](https://github.com/burpheart/Palworld-Reverse-Note) - Palworld SAVE Reverse Note  / 幻兽帕鲁逆向笔记
+*   [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
 
-*   [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+*   [trueai-org/grok](https://github.com/trueai-org/grok) - 使用 Deno 免费代理马斯克 Grok3，免登录，国内直连，不限地区/不限网络/不限设备，打开即用。
 
-*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+*   [fmaclen/hollama](https://github.com/fmaclen/hollama) - A minimal LLM chat app that runs entirely in your browser
 
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+*   [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
 
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [celerforge/freenote](https://github.com/celerforge/freenote) - Freenote is an open-source AI journal app with Markdown support. You can freely record your notes, and with AI assistance, easily search and summarize past entries, enhancing creativity capture and management. All data is stored locally on your device, ensuring privacy and security.
 
-*   [TensoRaws/VSET](https://github.com/TensoRaws/VSET) -
+*   [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 
-*   [josStorer/sgm\_plus](https://github.com/josStorer/sgm_plus) -
+*   [ShayneP/local-voice-ai](https://github.com/ShayneP/local-voice-ai) - Local voice AI powered by Ollama, Kokoro, Whisper, and LiveKit.
 
-*   [liut14/my-hypersnip-setting](https://github.com/liut14/my-hypersnip-setting) - my hypersnip setting in vscode
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 
-*   [aardio/wubi-lex](https://github.com/aardio/wubi-lex) - WIN10/11 自带微软五笔码表与短语替换与管理工具( 可将系统五笔一键替换为郑码、小鹤音形、表形码等 )，软件仅930KB( 绿色免安装 )，已自带郑码、小鹤音形、表形码、五笔86、98、091、新世纪等输入法的各种流行码表。
+*   [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react-native.
 
-*   [JustSleightly/ThrowaBall](https://github.com/JustSleightly/ThrowaBall) -
+*   [Wangxs404/video2ppt](https://github.com/Wangxs404/video2ppt) - Convert videos to Slides, including local, online videos, screen recording.
 
-*   [sobotka/filmic-blender](https://github.com/sobotka/filmic-blender) - Film Emulsion-Like Camera Rendering Transforms for Blender
+*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
 
-*   [Thingey/thingey.github.io](https://github.com/Thingey/thingey.github.io) - YouTube to VRChat Video Player List
+*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
-*   [Jesvid/VRC-QuestLinkConverter](https://github.com/Jesvid/VRC-QuestLinkConverter) - Vrchat prefab convertidor de links de youtube para quest.
+*   [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 
-*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+*   [ximu3/vnite](https://github.com/ximu3/vnite) - A unified platform to organize your game collection, track gameplay, with real-time cloud sync across devices and detailed gameplay reports.
 
-*   [Quorafind/Obsidian-Thino](https://github.com/Quorafind/Obsidian-Thino) - A quick capture plugin for Obsidian, all data from your notes.
+*   [magicdawn/yun-playlist-downloader](https://github.com/magicdawn/yun-playlist-downloader) - 网易云音乐 - 歌单/专辑/电台 - 下载器
 
-*   [teamneoneko/Cats-Blender-Plugin-Unofficial-](https://github.com/teamneoneko/Cats-Blender-Plugin-Unofficial-) - A continuation of the Cats Blender Plugin which is tool designed to shorten steps needed to import and optimize models into VRChat. Compatible models are: MMD, XNALara, Mixamo, DAZ/Poser, Blender Rigify, Sims 2, Motion Builder, 3DS Max and potentially more, originally by absolute-quantum. Not Official.
+*   [boilcy/CherryCSS](https://github.com/boilcy/CherryCSS) - Cherry Studio 主题库
 
-*   [AcChosen/Club-Orion](https://github.com/AcChosen/Club-Orion) -
+*   [AlistGo/desktop-release](https://github.com/AlistGo/desktop-release) -
 
-*   [zhihaofans/Server-Chan-Android](https://github.com/zhihaofans/Server-Chan-Android) - Server酱第三方安卓客户端
+*   [buqiyuan/vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具
 
-*   [sekift/so-vits-models](https://github.com/sekift/so-vits-models) - 收集有关so-vits-svc、TTS、SD、LLMs的各种模型、应用以及文字、声音、图片、视频有关的model。
+*   [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 
-*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
+*   [TheresaQWQ/Web2Article](https://github.com/TheresaQWQ/Web2Article) - 网页正文提取
 
-*   [Purple420/Hashes-of-Safe-Scripts](https://github.com/Purple420/Hashes-of-Safe-Scripts) - Collection of hashes from safe unity scripts from my collection
+*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 
-*   [mage-tianxie/Anime4K](https://github.com/mage-tianxie/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
+*   [tiddly-gittly/TidGi-Mobile](https://github.com/tiddly-gittly/TidGi-Mobile) - A Note App that is local-first, uses tid/md pure text file, all-in-one with calendar/todo/diary widget, lazy-loading, backlink & outline & Zettelkasten, and syncs with the open-source TidGi-Desktop.
 
-*   [RYANFAN113/AAS-Latex](https://github.com/RYANFAN113/AAS-Latex) - 《自动化学报》/AAS 中文期刊模板在texlive下的latex模板。
+*   [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details)
 
-*   [akkarinnw/Dress](https://github.com/akkarinnw/Dress) - 好耶  是女装
+*   [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi) - 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
 
-*   [PolygonalMind/100Avatars](https://github.com/PolygonalMind/100Avatars) - 100Avatars - 200 open-source Avatars
+*   [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io
 
-*   [madjin/awesome-vrchat](https://github.com/madjin/awesome-vrchat) - One-stop shop for people interested in developing content for VRchat
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
-*   [eeacks/VRChat-MapDumps](https://github.com/eeacks/VRChat-MapDumps) - UdonSharp dump of maps
+*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
-*   [guygodin/VirtualDesktop](https://github.com/guygodin/VirtualDesktop) - Connect wirelessly to your computer(s) to watch movies, browse the web, play games on a giant virtual screen or stream PCVR games. Virtual Desktop is a highly optimized, native application developed for low latency, high quality streaming.
+*   [typst-community/setup-typst](https://github.com/typst-community/setup-typst) - 📑 Install Typst and add it to the PATH with package management
 
-*   [michaelliao/learn-python3](https://github.com/michaelliao/learn-python3) - Learn Python 3 Sample Code
+*   [jayzcoder/TrguiNG](https://github.com/jayzcoder/TrguiNG) - Transmission WebUI 基于 openscopeproject/TrguiNG 汉化和改进
 
-*   [easychen/rsspush](https://github.com/easychen/rsspush) - 监测RSS变动，并发送最新内容到微信、Webhook 和 Telegram, Discord, Slack, Amazon SNS, Gotify 等数十个消息通道。
+*   [Raphiiko/OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - 🥽 VR Sleeping Utilities
 
-*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
+*   [239573049/FastGateway](https://github.com/239573049/FastGateway) - FastGateway 一个超级简单方便的网关，基于Kestrel+Yarp实现的网关。 支持动态配置路由，支持动态配置集群，支持动态配置HTTPS证书，无需重启即可使用。
 
-*   [VRLabs/Ragdoll-System](https://github.com/VRLabs/Ragdoll-System) - Turn yourself into a floppy ragdoll or falling statue.
+*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 
-*   [mmyo456/NeteaseCloudMusicApi](https://github.com/mmyo456/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+*   [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端网页。
 
-*   [Archmage83/tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
+*   [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 
-*   [kaiheila/api-docs](https://github.com/kaiheila/api-docs) - KOOK开发者中心文档
+*   [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
 
-*   [jinl1874/e-book](https://github.com/jinl1874/e-book) - 个人制作的一些epub格式的电子书。
+*   [likun7981/hlink](https://github.com/likun7981/hlink) - 批量、快速硬链工具(The batch, fast hard link toolkit)
 
-*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
+*   [OrangeX4/hsnips](https://github.com/OrangeX4/hsnips) - HyperSnips: a powerful snippet engine for VS Code, inspired by vim's UltiSnips
 
-*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+*   [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 
-*   [weinihou/RMSBS](https://github.com/weinihou/RMSBS) - 小说翻译练手。原作韩文《귀환자의 마법은 특별해야 합니다》，英译《A Returner's Magic Should Be Special》，中译（哔哩哔哩漫画）《归还者的魔法要特别》
+*   [vrcd-community/vrchat-docs-localization](https://github.com/vrcd-community/vrchat-docs-localization) - 一个 VRChat 文档汉化项目
 
-*   [TheBlackArms/TheBlackArmsSDX](https://github.com/TheBlackArms/TheBlackArmsSDX) - The reminisce of it all
+*   [Yaozhuwa/easy-typing-obsidian](https://github.com/Yaozhuwa/easy-typing-obsidian) - This is a plugin of obsidian for users writing in an easy way.
 
-*   [Sonic853/VRChat-Creator-Companion-zh-CN](https://github.com/Sonic853/VRChat-Creator-Companion-zh-CN) - VCC 界面文本汉化包
+*   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
-*   [Pawdroid/shadowrocket\_for\_android](https://github.com/Pawdroid/shadowrocket_for_android) - A V2Ray client for Android, builtin lots of available servers, 安卓小火箭官方库，内置大量免费节点，欢迎下载体验。
+*   [MelohubAI/suno-ai-proxy](https://github.com/MelohubAI/suno-ai-proxy) - Unofficial Suno AI nodejs API
 
-*   [xzonepiece/rss\_for\_everything](https://github.com/xzonepiece/rss_for_everything) - 在一个RSS阅读器中阅读所有信息源提供的内容，包括微信公众号、简书、知乎、博客、图虫、Lofter、Instagram。。。
+*   [tsui66/suno-ai-music](https://github.com/tsui66/suno-ai-music) - Suno Muisc Downloader & Music MV Generator.
+
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+
+*   [mgmeyers/obsidian-copy-block-link](https://github.com/mgmeyers/obsidian-copy-block-link) - Get links to blocks and headings from Obsidian's right click menu.
+
+*   [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
+
+*   [chick26/obsidian-sync-yuque](https://github.com/chick26/obsidian-sync-yuque) - Obsidian Sync Yuque \[obsidian 同步文档到语雀插件]
+
+*   [eightHundreds/obsidian-dida-sync](https://github.com/eightHundreds/obsidian-dida-sync) - 滴答清单同步到obsidian(ticktick sync to obsidian)
+
+*   [HeroBlackInk/ultimate-todoist-sync-for-obsidian](https://github.com/HeroBlackInk/ultimate-todoist-sync-for-obsidian) -
+
+*   [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
+
+*   [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
+
+*   [Higurashi-kagome/wereader](https://github.com/Higurashi-kagome/wereader) - 一个浏览器扩展：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者比较有帮助。
+
+*   [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
+
+*   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
+
+*   [Quorafind/Obsidian-Float-Search](https://github.com/Quorafind/Obsidian-Float-Search) - A plugin for searching text by using Obsidian default search view.
+
+*   [ivan-lednev/better-search-views](https://github.com/ivan-lednev/better-search-views) - Outliner-like breadcrumb trees for search, backlinks and embedded queries
+
+*   [Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban) - an obsidian plugin that can pull data from douban to your markdown file
+
+*   [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
+
+*   [jia6y/flomo-to-obsidian](https://github.com/jia6y/flomo-to-obsidian) - Make Flomo Memos to Obsidian Notes
+
+*   [reuseman/flashcards-obsidian](https://github.com/reuseman/flashcards-obsidian) - 🎴 An Anki plugin for Obsidian.md
+
+*   [kingwrcy/obsidian-mblog](https://github.com/kingwrcy/obsidian-mblog) -
+
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+
+*   [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
+
+*   [hellowmonkey-site/tool-box](https://github.com/hellowmonkey-site/tool-box) - 程序员常用工具箱，图片压缩、图片裁剪、ico生成、二维码生成、二维码解码、m3u8下载等，基于electron
+
+*   [hellowmonkey-site/movie-front](https://github.com/hellowmonkey-site/movie-front) - 有点好看，干干净净的视频在线播放应用
+
+*   [maqi1520/mdx-notes](https://github.com/maqi1520/mdx-notes) - ⛷ Cross-platform note-taking software, public layout editor, using MDX ⛷ 跨平台笔记软件，公众号排版编辑器，使用MDX来排版
+
+*   [Well2333/nonebot-plugin-bilichat](https://github.com/Well2333/nonebot-plugin-bilichat) - 一个废物写的屁用没有还一堆bug甚至不如停更三年的bot的垃圾项目罢了
+
+*   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
+
+*   [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
+
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+
+*   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+
+*   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 
 ## HTML
 
 *   [rebout7200/text2img](https://github.com/rebout7200/text2img) - 实现将 AI （例如：ChatGPT、Gemini、Grok等AI）生成的文本转换为图片
 
 *   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
-
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，1分钟部署完毕， 支持 docker 部署。⭐ 让算法为你服务，而非被算法绑架
 
 *   [The-Pocket/PocketFlow-Tutorial-Website-Chatbot](https://github.com/The-Pocket/PocketFlow-Tutorial-Website-Chatbot) - "Set & Forget" AI Chatbot for Your Website - It Learns Your Website Automatically
 
@@ -956,245 +1014,187 @@
 
 *   [mittsu333/MarkedView-for-Android](https://github.com/mittsu333/MarkedView-for-Android) - The MarkedView is the markdown text viewer.
 
-## TypeScript
+## miscellaneous
 
-*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+*   [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents) - An orchestrated sub agent dev team powered by claude code
 
-*   [other-blowsnow/n8n-nodes-wechat-work](https://github.com/other-blowsnow/n8n-nodes-wechat-work) - n8n 企业微信
+*   [OpenBuddy/OpenBuddy](https://github.com/OpenBuddy/OpenBuddy) - Open Multilingual Chatbot for Everyone
 
-*   [other-blowsnow/n8n-nodes-wechat-offiaccount](https://github.com/other-blowsnow/n8n-nodes-wechat-offiaccount) - n8n 微信公众号
+*   [lxc00215/claudia](https://github.com/lxc00215/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 
-*   [deluxebear/n8n](https://github.com/deluxebear/n8n) - 持续跟进官方最新版本
+*   [devdacian/ai-auditor-primers](https://github.com/devdacian/ai-auditor-primers) - Primers for Specialist AI Smart Contract Auditors
 
-*   [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
+*   [jixserver/free-for-dev](https://github.com/jixserver/free-for-dev) -  A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-*   [egoist/chatwise-releases](https://github.com/egoist/chatwise-releases) - The fastest AI Chatbot for any LLM
+*   [RaiDrive/RaiDrive.Translation](https://github.com/RaiDrive/RaiDrive.Translation) - RaiDrive Translation
 
-*   [yeahhe365/All-Model-Chat](https://github.com/yeahhe365/All-Model-Chat) - All Model Chat 是一款功能强大、支持多模态输入的聊天机器人界面，旨在提供与 Google Gemini API 家族无缝交互的极致体验。它集成了动态模型选择、多模态文件输入、流式响应、全面的聊天历史管理以及广泛的自定义选项，为您带来无与伦比的 AI 互动体验。
+*   [xgit01/sgkrank](https://github.com/xgit01/sgkrank) - 2024最新免费社工库排行
 
-*   [Narratium/Narratium.ai](https://github.com/Narratium/Narratium.ai) - Open-source platform for AI-driven storytelling, worldbuilding, and immersive roleplay
+*   [XihOfFy/FYSG\_Pub](https://github.com/XihOfFy/FYSG_Pub) - 封叶三国
 
-*   [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
 
-*   [bycszzz/pansou-ui](https://github.com/bycszzz/pansou-ui) - pansou的前端页面
+*   [HoloISO/releases](https://github.com/HoloISO/releases) - To whom shall install
 
-*   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
+*   [tesseract-ocr/tessdata\_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
 
-*   [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
+*   [tesseract-ocr/tessdata\_fast](https://github.com/tesseract-ocr/tessdata_fast) - Fast integer versions of trained LSTM models
 
-*   [linux-do/cdk](https://github.com/linux-do/cdk) - LINUX DO CD key
+*   [nonwill/GoldenDict-OCR](https://github.com/nonwill/GoldenDict-OCR) - GoldenDict++：内置大量的官方版本问题的修正；先期添加了一个简单的插件机制，并基于该机制接入了多个 OCR 划词 和 音频播放 引擎；后期在增强易用性的基础上为提高查询效率、减少运行时 CPU 及 内存 占用、降低代码维护难度，完全重构了所有的实现；将来的目标是将功能扩展和词典格式处理抽象为完整的插件实现，以进一步增强应用的扩展性和可维护性。
 
-*   [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+*   [Axlax336/Iptv\_m3u](https://github.com/Axlax336/Iptv_m3u) - 仓库不定期更新。
 
-*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+*   [CMBill/lxgw-wenkai-screen-web](https://github.com/CMBill/lxgw-wenkai-screen-web) - LXGW WenKai Screen / 霞鹜文楷屏幕阅读版 网络字体仓库
 
-*   [Coooolfan/UniBoard](https://github.com/Coooolfan/UniBoard) - 个人介绍，导航页、笔记、短链、文件分享，私有化部署。Profile、Note、ShortURL、FileSharing…… with self-host
+*   [sooooooooooooooooootheby/NeteaseCloudMusicApi](https://github.com/sooooooooooooooooootheby/NeteaseCloudMusicApi) - Binaryify/NeteaseCloudMusicApi
 
-*   [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+*   [eeacks/ToNSaveGenerator](https://github.com/eeacks/ToNSaveGenerator) - Save Generator for Terrors of Nowhere ( online: https://ton.eeacks.cc )
 
-*   [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
+*   [din4e/DifyDSL4RedTeam](https://github.com/din4e/DifyDSL4RedTeam) - 收集一些红队 Dify Workflow。
 
-*   [HiMeditator/auto-caption](https://github.com/HiMeditator/auto-caption) - A cross-platform real-time subtitle display software. 一个跨平台的实时字幕显示软件。
+*   [Winson-030/dify-DSL](https://github.com/Winson-030/dify-DSL) - dify DSL files collections
 
-*   [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper) - 浸入式学语言助手 (Immersive Language Learning Assistant)
+*   [aircrushin/awesome-dify-workflow](https://github.com/aircrushin/awesome-dify-workflow) - awesome-dify-workflow as DSL file
 
-*   [CharlieLZ/flux-kontext-template](https://github.com/CharlieLZ/flux-kontext-template) - 生财有术特供，flux-kontext开源仓库，套壳模板
+*   [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 
-*   [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+*   [zhangnanchao/ChatTTS\_colab](https://github.com/zhangnanchao/ChatTTS_colab) - 🚀 一键部署！基于 ChatTTS ，支持音色抽卡、长音频生成和分角色朗读。简单易用，无需复杂安装。
 
-*   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
+*   [zhangnanchao/Deep-Live-Cam](https://github.com/zhangnanchao/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 
-*   [iebb/NekokoLPA](https://github.com/iebb/NekokoLPA) - NekokoLPA
+*   [zhangnanchao/VideoChat](https://github.com/zhangnanchao/VideoChat) - 实时语音交互数字人，支持端到端语音方案（GLM-4-Voice - THG）和级联方案（ASR-LLM-TTS-THG）。可自定义形象与音色，无须训练，支持音色克隆，首包延迟低至3s。Real-time voice interactive digital human, supporting end-to-end voice solutions (GLM-4-Voice - THG) and cascaded solutions (ASR-LLM-TTS-THG). Customizable appearance and voice, supporting voice cloning, with initial package delay as low as 3s.
 
-*   [CodeBoy2006/falProxy](https://github.com/CodeBoy2006/falProxy) - A high-performance, self-hosted Deno proxy that makes Fal.ai's powerful models (Flux, SDXL, etc.) compatible with the standard OpenAI image generation API. Use any OpenAI client seamlessly.
+*   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 
-*   [LunaTechLab/MoonTV](https://github.com/LunaTechLab/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
+*   [zhaoyun0071/roop-windows-GUI](https://github.com/zhaoyun0071/roop-windows-GUI) - 什么环境不用配置，解压直接用的roop换脸工具
 
-*   [zimplexing/OrionTV](https://github.com/zimplexing/OrionTV) - 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。
+*   [Keldos-Li/typora-latex-theme-fonts](https://github.com/Keldos-Li/typora-latex-theme-fonts) -
 
-*   [14790897/paper-ai](https://github.com/14790897/paper-ai) - 搜索真实文献并生成引用对应文献的AI论文
+*   [SBCV/Bookstack-Windows-Docker-Desktop](https://github.com/SBCV/Bookstack-Windows-Docker-Desktop) - Tutorial to run Bookstack under Windows using Docker Desktop
 
-*   [LLM-Red-Team/minimax-free-api](https://github.com/LLM-Red-Team/minimax-free-api) - 🚀 MiniMax大模型海螺AI逆向API【特长：超自然语音】，支持MiniMax Text-01、MiniMax-VL-01模型，支持高速流式输出、语音合成、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
+*   [star0319/docker-easyconnect](https://github.com/star0319/docker-easyconnect) - # 在linux（centos）上使用VPN翻墙进校内  ### 通过将运行在 docker 的 深信服（Sangfor）非自由的代理软件 EasyConnect 作为网关 并添加路由表 实现资源访问
 
-*   [maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat) - AI机器人群聊
+*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
 
-*   [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client built with Expo
+*   [vrchat-community/creator-docs](https://github.com/vrchat-community/creator-docs) -
 
-*   [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.
+*   [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
 
-*   [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
+*   [langgptai/wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
 
-*   [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension that syncs and manages your cookies to your cloudflare
+*   [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
 
-*   [NativeMindBrowser/NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension) - NativeMind: Your fully private, open-source, on-device AI assistant
+*   [vcb-s/guides](https://github.com/vcb-s/guides) - VCB-Studio 公开教程（新版）
 
-*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+*   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 
-*   [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
+*   [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) - :books: 极客时间电子书
 
-*   [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
+*   [luolin-ai/Dify-Enterprise-WeChat-bot](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot) - 基于Dify的企业微信知识库机器人，基于企微gpt知识库的bot机器人，能够自动回复企业微信中收到的消息。这个机器人能够处理私聊和群聊，还可以记住与用户的聊天内容，从而做出更加贴合上下文的回应。此外，您还可以设置白名单来控制机器人与哪些用户或群组交互。如需自己dify网站版的机器人
 
-*   [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat with multi-model integration, extensibility, and various output formats
+*   [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
 
-*   [wizardAEI/Gomoon](https://github.com/wizardAEI/Gomoon) - Gomoon 基于大模型的桌面端效率工具
+*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+*   [overmind1980/oeasy\_history](https://github.com/overmind1980/oeasy_history) - 各种历史的搜集与整理
 
-*   [xyTom/snippai](https://github.com/xyTom/snippai) - Snip Anything Solve Everything​
+*   [overmind1980/oeasy-postgres-tutorial](https://github.com/overmind1980/oeasy-postgres-tutorial) - 实验楼地址https://www.lanqiao.cn/courses/2782 ，邀请码CHD6PJZ1，从零开始带您玩转数据库
 
-*   [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
+*   [diana7127/mpv.net-DW](https://github.com/diana7127/mpv.net-DW) - mpv.net\_CM的DW版本，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器
 
-*   [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
+*   [hooke007/mpv.net\_CM](https://github.com/hooke007/mpv.net_CM) - 🎞 mpv.net\_CM 是中文分支模组
 
-*   [pt-plugins/PT-depiler](https://github.com/pt-plugins/PT-depiler) - PT-depiler 是在原 PT-Plugin-Plus 基础上， 基于浏览器最新的 Manifest v3 标准开发的一款浏览器插件（Web Extensions）， 一个可以提升 PT 站点使用效率的工具。
+*   [cloud-fs/cloud-fs.github.io](https://github.com/cloud-fs/cloud-fs.github.io) -
 
-*   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+*   [yukaiji/buildVpn](https://github.com/yukaiji/buildVpn) - 图文教程搭建一个vpn翻墙
 
-*   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
+*   [kysdm/u2\_api](https://github.com/kysdm/u2_api) -
 
-*   [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
+*   [burpheart/Palworld-Reverse-Note](https://github.com/burpheart/Palworld-Reverse-Note) - Palworld SAVE Reverse Note  / 幻兽帕鲁逆向笔记
 
-*   [trueai-org/grok](https://github.com/trueai-org/grok) - 使用 Deno 免费代理马斯克 Grok3，免登录，国内直连，不限地区/不限网络/不限设备，打开即用。
+*   [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 
-*   [fmaclen/hollama](https://github.com/fmaclen/hollama) - A minimal LLM chat app that runs entirely in your browser
+*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
-*   [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
-*   [celerforge/freenote](https://github.com/celerforge/freenote) - Freenote is an open-source AI journal app with Markdown support. You can freely record your notes, and with AI assistance, easily search and summarize past entries, enhancing creativity capture and management. All data is stored locally on your device, ensuring privacy and security.
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
-*   [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
+*   [TensoRaws/VSET](https://github.com/TensoRaws/VSET) -
 
-*   [ShayneP/local-voice-ai](https://github.com/ShayneP/local-voice-ai) - Local voice AI powered by Ollama, Kokoro, Whisper, and LiveKit.
+*   [josStorer/sgm\_plus](https://github.com/josStorer/sgm_plus) -
 
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
+*   [liut14/my-hypersnip-setting](https://github.com/liut14/my-hypersnip-setting) - my hypersnip setting in vscode
 
-*   [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react-native.
+*   [aardio/wubi-lex](https://github.com/aardio/wubi-lex) - WIN10/11 自带微软五笔码表与短语替换与管理工具( 可将系统五笔一键替换为郑码、小鹤音形、表形码等 )，软件仅930KB( 绿色免安装 )，已自带郑码、小鹤音形、表形码、五笔86、98、091、新世纪等输入法的各种流行码表。
 
-*   [Wangxs404/video2ppt](https://github.com/Wangxs404/video2ppt) - Convert videos to Slides, including local, online videos, screen recording.
+*   [JustSleightly/ThrowaBall](https://github.com/JustSleightly/ThrowaBall) -
 
-*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
+*   [sobotka/filmic-blender](https://github.com/sobotka/filmic-blender) - Film Emulsion-Like Camera Rendering Transforms for Blender
 
-*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+*   [Thingey/thingey.github.io](https://github.com/Thingey/thingey.github.io) - YouTube to VRChat Video Player List
 
-*   [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
+*   [Jesvid/VRC-QuestLinkConverter](https://github.com/Jesvid/VRC-QuestLinkConverter) - Vrchat prefab convertidor de links de youtube para quest.
 
-*   [ximu3/vnite](https://github.com/ximu3/vnite) - A unified platform to organize your game collection, track gameplay, with real-time cloud sync across devices and detailed gameplay reports.
+*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 
-*   [magicdawn/yun-playlist-downloader](https://github.com/magicdawn/yun-playlist-downloader) - 网易云音乐 - 歌单/专辑/电台 - 下载器
+*   [Quorafind/Obsidian-Thino](https://github.com/Quorafind/Obsidian-Thino) - A quick capture plugin for Obsidian, all data from your notes.
 
-*   [boilcy/CherryCSS](https://github.com/boilcy/CherryCSS) - Cherry Studio 主题库
+*   [teamneoneko/Cats-Blender-Plugin-Unofficial-](https://github.com/teamneoneko/Cats-Blender-Plugin-Unofficial-) - A continuation of the Cats Blender Plugin which is tool designed to shorten steps needed to import and optimize models into VRChat. Compatible models are: MMD, XNALara, Mixamo, DAZ/Poser, Blender Rigify, Sims 2, Motion Builder, 3DS Max and potentially more, originally by absolute-quantum. Not Official.
 
-*   [AlistGo/desktop-release](https://github.com/AlistGo/desktop-release) -
+*   [AcChosen/Club-Orion](https://github.com/AcChosen/Club-Orion) -
 
-*   [buqiyuan/vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具
+*   [zhihaofans/Server-Chan-Android](https://github.com/zhihaofans/Server-Chan-Android) - Server酱第三方安卓客户端
 
-*   [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+*   [sekift/so-vits-models](https://github.com/sekift/so-vits-models) - 收集有关so-vits-svc、TTS、SD、LLMs的各种模型、应用以及文字、声音、图片、视频有关的model。
 
-*   [TheresaQWQ/Web2Article](https://github.com/TheresaQWQ/Web2Article) - 网页正文提取
+*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
 
-*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+*   [Purple420/Hashes-of-Safe-Scripts](https://github.com/Purple420/Hashes-of-Safe-Scripts) - Collection of hashes from safe unity scripts from my collection
 
-*   [tiddly-gittly/TidGi-Mobile](https://github.com/tiddly-gittly/TidGi-Mobile) - A Note App that is local-first, uses tid/md pure text file, all-in-one with calendar/todo/diary widget, lazy-loading, backlink & outline & Zettelkasten, and syncs with the open-source TidGi-Desktop.
+*   [mage-tianxie/Anime4K](https://github.com/mage-tianxie/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 
-*   [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details)
+*   [RYANFAN113/AAS-Latex](https://github.com/RYANFAN113/AAS-Latex) - 《自动化学报》/AAS 中文期刊模板在texlive下的latex模板。
 
-*   [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi) - 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
+*   [akkarinnw/Dress](https://github.com/akkarinnw/Dress) - 好耶  是女装
 
-*   [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io
+*   [PolygonalMind/100Avatars](https://github.com/PolygonalMind/100Avatars) - 100Avatars - 200 open-source Avatars
 
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+*   [madjin/awesome-vrchat](https://github.com/madjin/awesome-vrchat) - One-stop shop for people interested in developing content for VRchat
 
-*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+*   [eeacks/VRChat-MapDumps](https://github.com/eeacks/VRChat-MapDumps) - UdonSharp dump of maps
 
-*   [typst-community/setup-typst](https://github.com/typst-community/setup-typst) - 📑 Install Typst and add it to the PATH with package management
+*   [guygodin/VirtualDesktop](https://github.com/guygodin/VirtualDesktop) - Connect wirelessly to your computer(s) to watch movies, browse the web, play games on a giant virtual screen or stream PCVR games. Virtual Desktop is a highly optimized, native application developed for low latency, high quality streaming.
 
-*   [jayzcoder/TrguiNG](https://github.com/jayzcoder/TrguiNG) - Transmission WebUI 基于 openscopeproject/TrguiNG 汉化和改进
+*   [michaelliao/learn-python3](https://github.com/michaelliao/learn-python3) - Learn Python 3 Sample Code
 
-*   [Raphiiko/OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - 🥽 VR Sleeping Utilities
+*   [easychen/rsspush](https://github.com/easychen/rsspush) - 监测RSS变动，并发送最新内容到微信、Webhook 和 Telegram, Discord, Slack, Amazon SNS, Gotify 等数十个消息通道。
 
-*   [239573049/FastGateway](https://github.com/239573049/FastGateway) - FastGateway 一个超级简单方便的网关，基于Kestrel+Yarp实现的网关。 支持动态配置路由，支持动态配置集群，支持动态配置HTTPS证书，无需重启即可使用。
+*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 
-*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+*   [VRLabs/Ragdoll-System](https://github.com/VRLabs/Ragdoll-System) - Turn yourself into a floppy ragdoll or falling statue.
 
-*   [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端网页。
+*   [mmyo456/NeteaseCloudMusicApi](https://github.com/mmyo456/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 
-*   [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
+*   [Archmage83/tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
 
-*   [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
+*   [kaiheila/api-docs](https://github.com/kaiheila/api-docs) - KOOK开发者中心文档
 
-*   [likun7981/hlink](https://github.com/likun7981/hlink) - 批量、快速硬链工具(The batch, fast hard link toolkit)
+*   [jinl1874/e-book](https://github.com/jinl1874/e-book) - 个人制作的一些epub格式的电子书。
 
-*   [OrangeX4/hsnips](https://github.com/OrangeX4/hsnips) - HyperSnips: a powerful snippet engine for VS Code, inspired by vim's UltiSnips
+*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 
-*   [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
+*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 
-*   [vrcd-community/vrchat-docs-localization](https://github.com/vrcd-community/vrchat-docs-localization) - 一个 VRChat 文档汉化项目
+*   [weinihou/RMSBS](https://github.com/weinihou/RMSBS) - 小说翻译练手。原作韩文《귀환자의 마법은 특별해야 합니다》，英译《A Returner's Magic Should Be Special》，中译（哔哩哔哩漫画）《归还者的魔法要特别》
 
-*   [Yaozhuwa/easy-typing-obsidian](https://github.com/Yaozhuwa/easy-typing-obsidian) - This is a plugin of obsidian for users writing in an easy way.
+*   [TheBlackArms/TheBlackArmsSDX](https://github.com/TheBlackArms/TheBlackArmsSDX) - The reminisce of it all
 
-*   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+*   [Sonic853/VRChat-Creator-Companion-zh-CN](https://github.com/Sonic853/VRChat-Creator-Companion-zh-CN) - VCC 界面文本汉化包
 
-*   [MelohubAI/suno-ai-proxy](https://github.com/MelohubAI/suno-ai-proxy) - Unofficial Suno AI nodejs API
+*   [Pawdroid/shadowrocket\_for\_android](https://github.com/Pawdroid/shadowrocket_for_android) - A V2Ray client for Android, builtin lots of available servers, 安卓小火箭官方库，内置大量免费节点，欢迎下载体验。
 
-*   [tsui66/suno-ai-music](https://github.com/tsui66/suno-ai-music) - Suno Muisc Downloader & Music MV Generator.
-
-*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-
-*   [mgmeyers/obsidian-copy-block-link](https://github.com/mgmeyers/obsidian-copy-block-link) - Get links to blocks and headings from Obsidian's right click menu.
-
-*   [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
-
-*   [chick26/obsidian-sync-yuque](https://github.com/chick26/obsidian-sync-yuque) - Obsidian Sync Yuque \[obsidian 同步文档到语雀插件]
-
-*   [eightHundreds/obsidian-dida-sync](https://github.com/eightHundreds/obsidian-dida-sync) - 滴答清单同步到obsidian(ticktick sync to obsidian)
-
-*   [HeroBlackInk/ultimate-todoist-sync-for-obsidian](https://github.com/HeroBlackInk/ultimate-todoist-sync-for-obsidian) -
-
-*   [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
-
-*   [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
-
-*   [Higurashi-kagome/wereader](https://github.com/Higurashi-kagome/wereader) - 一个浏览器扩展：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者比较有帮助。
-
-*   [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
-
-*   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-
-*   [Quorafind/Obsidian-Float-Search](https://github.com/Quorafind/Obsidian-Float-Search) - A plugin for searching text by using Obsidian default search view.
-
-*   [ivan-lednev/better-search-views](https://github.com/ivan-lednev/better-search-views) - Outliner-like breadcrumb trees for search, backlinks and embedded queries
-
-*   [Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban) - an obsidian plugin that can pull data from douban to your markdown file
-
-*   [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
-
-*   [jia6y/flomo-to-obsidian](https://github.com/jia6y/flomo-to-obsidian) - Make Flomo Memos to Obsidian Notes
-
-*   [reuseman/flashcards-obsidian](https://github.com/reuseman/flashcards-obsidian) - 🎴 An Anki plugin for Obsidian.md
-
-*   [kingwrcy/obsidian-mblog](https://github.com/kingwrcy/obsidian-mblog) -
-
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-
-*   [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
-
-*   [hellowmonkey-site/tool-box](https://github.com/hellowmonkey-site/tool-box) - 程序员常用工具箱，图片压缩、图片裁剪、ico生成、二维码生成、二维码解码、m3u8下载等，基于electron
-
-*   [hellowmonkey-site/movie-front](https://github.com/hellowmonkey-site/movie-front) - 有点好看，干干净净的视频在线播放应用
-
-*   [maqi1520/mdx-notes](https://github.com/maqi1520/mdx-notes) - ⛷ Cross-platform note-taking software, public layout editor, using MDX ⛷ 跨平台笔记软件，公众号排版编辑器，使用MDX来排版
-
-*   [Well2333/nonebot-plugin-bilichat](https://github.com/Well2333/nonebot-plugin-bilichat) - 一个废物写的屁用没有还一堆bug甚至不如停更三年的bot的垃圾项目罢了
-
-*   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
-
-*   [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
-
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-
-*   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-
-*   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
+*   [xzonepiece/rss\_for\_everything](https://github.com/xzonepiece/rss_for_everything) - 在一个RSS阅读器中阅读所有信息源提供的内容，包括微信公众号、简书、知乎、博客、图虫、Lofter、Instagram。。。
 
 ## C\#
 
