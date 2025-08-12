@@ -82,6 +82,8 @@
 
 *   [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 
+*   [nekohy/duck2api](https://github.com/nekohy/duck2api) - Duckduckgo to OpenAI API Proxy
+
 *   [bycszzz/pansou-ui](https://github.com/bycszzz/pansou-ui) - pansou的前端页面
 
 *   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
@@ -113,8 +115,6 @@
 *   [iebb/NekokoLPA](https://github.com/iebb/NekokoLPA) - NekokoLPA
 
 *   [CodeBoy2006/falProxy](https://github.com/CodeBoy2006/falProxy) - A high-performance, self-hosted Deno proxy that makes Fal.ai's powerful models (Flux, SDXL, etc.) compatible with the standard OpenAI image generation API. Use any OpenAI client seamlessly.
-
-*   [LunaTechLab/MoonTV](https://github.com/LunaTechLab/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
 
 *   [zimplexing/OrionTV](https://github.com/zimplexing/OrionTV) - 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。
 
@@ -306,7 +306,7 @@
 
 *   [OpenSilver/OllamaManager](https://github.com/OpenSilver/OllamaManager) -
 
-*   [006lp/AkashGen2API](https://github.com/006lp/AkashGen2API) -
+*   [006lp/AkashGen2API-Vercel](https://github.com/006lp/AkashGen2API-Vercel) -
 
 *   [other-blowsnow/n8n-i18n-chinese](https://github.com/other-blowsnow/n8n-i18n-chinese) - n8n 配置多语言
 
