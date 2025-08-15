@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [ActionScript](#actionscript)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Python](#python)
@@ -58,13 +59,17 @@
 *   [Stylus](#stylus)
 *   [Clojure](#clojure)
 
+## ActionScript
+
+*   [FerryYoungFan/VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) - 一只蟑螂桌面“宠物” Cockroach Desktop "Pet"
+
 ## TypeScript
 
 *   [alterem/mark-pic](https://github.com/alterem/mark-pic) - 一个现代化的 Markdown 转图片工具，支持实时预览、自定义样式和一键导出。
 
 *   [kamjin3086/chatless](https://github.com/kamjin3086/chatless) - 💻一款简洁实用轻量级的本地AI对话客户端，采用Tauri2.0和Next.js编写  A simple, practical, and lightweight local AI chat client, written in Tauri 2.0 & Next.js.
 
-*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social
 
 *   [other-blowsnow/n8n-nodes-wechat-work](https://github.com/other-blowsnow/n8n-nodes-wechat-work) - n8n 企业微信
 
@@ -297,8 +302,6 @@
 *   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 
 *   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-
-*   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 
 ## JavaScript
 
@@ -572,7 +575,7 @@
 
 *   [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG System"
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram手机应用推送，1分钟部署完毕， 支持 docker 部署。⭐ 让算法为你服务，而非被算法绑架
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram手机应用推送资讯，无需编程基础，1分钟部署完毕， 支持 docker 部署。⭐ 让算法为你服务，而非被算法绑架
 
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
@@ -1444,8 +1447,6 @@
 
 *   [vrcd-community/VPMReposSynchronizer](https://github.com/vrcd-community/VPMReposSynchronizer) - A Synchronizer to sync VPM Repos.
 
-*   [kleineluka/junelite](https://github.com/kleineluka/junelite) - Make Unity prettier ✨ A free, open-source, and redistributable post-processing stack for Unity and VRChat. 🌈
-
 *   [VirtualVisions/VowganPrefabs](https://github.com/VirtualVisions/VowganPrefabs) - All of the VRChat Prefabs that Vowgan has created for Booth and Patreon since 2020
 
 *   [parameter-pollution/UdonAudioDesigner](https://github.com/parameter-pollution/UdonAudioDesigner) - An in-game audio soundscape designer for VRChat written in udon sharp.
@@ -2068,7 +2069,7 @@
 
 *   [aiyakuaile/easy\_tv\_live](https://github.com/aiyakuaile/easy_tv_live) - Easy TV Live App, a lightweight IPTV player, supports all platforms and Android TV big screens. Welcome to download and experience!  极简TV App，一款轻量级IPTV播放器，支持全平台以及安卓电视大屏欢迎下载体验!
 
-*   [niuhuan/pansy](https://github.com/niuhuan/pansy) - A illustration client for pixiv.
+*   [niuhuan/pansy](https://github.com/niuhuan/pansy) - A illustration client. (PIXIV)
 
 *   [nightmare-space/code\_lfa](https://github.com/nightmare-space/code_lfa) - Implementation of the VS Code editor natively on Android.
 
@@ -2315,6 +2316,8 @@
 ## HLSL
 
 *   [AcChosen/VR-Stage-Lighting-GI-ShaderPack](https://github.com/AcChosen/VR-Stage-Lighting-GI-ShaderPack) - This repository contains the base main standard shader and projector shader that supports VRSLGI, including a seperate cginc file named `VRSLGI-Functions.cginc` which contains code to create your own shaders that support the VRSL GI system. All files in this repository are open source under the MIT License.
+
+*   [kleineluka/junelite](https://github.com/kleineluka/junelite) - Make Unity prettier ✨ A free, open-source, and redistributable post-processing stack for Unity and VRChat. 🌈
 
 *   [kaiware007/UnityHexTilingShader](https://github.com/kaiware007/UnityHexTilingShader) -
 
