@@ -1125,7 +1125,7 @@
 
 *   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
-*   [TensoRaws/VSET](https://github.com/TensoRaws/VSET) -
+*   [TensoRaws/VSET](https://github.com/TensoRaws/VSET) - VSET
 
 *   [josStorer/sgm\_plus](https://github.com/josStorer/sgm_plus) -
 
