@@ -61,6 +61,8 @@
 
 ## JavaScript
 
+*   [eoao/cloud-mail](https://github.com/eoao/cloud-mail) - cloudflare email 邮箱  临时邮箱 邮件发送 mail
+
 *   [xy2yp/StarGazer](https://github.com/xy2yp/StarGazer) - 一款开源、优雅、高效的 GitHub Stars 管理工具，于万千星辰中，点亮你的每一份收藏。 An Open-source, Elegant, and Efficient GitHub Stars Management Tool. Illuminating Every Treasure You've Collected.
 
 *   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
@@ -73,7 +75,7 @@
 
 *   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 
-*   [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐安装即用的3D桌面伴侣、微信/QQ机器人、B站直播机器人！支持RAG、网络搜索、长期记忆、代码解释器、表情包、MCP、A2A、Comfyui接入等功能！⭐Install the ready-to-use 3D desktop significant other, WeChat /QQ robot, Bilibili live robot! Support RAG, web search, long-term memory, code interpreter, emoji, MCP, A2A, Comfyui access and more!
+*   [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐零门槛的3D桌面伴侣、微信/QQ机器人、B站直播机器人全平台桌面应用！支持RAG、网络搜索、长期记忆、代码解释器、表情包、MCP、A2A、Comfyui接入等功能！⭐Zero threshold 3D desktop significant other, WeChat /QQ robots, Bilibili live broadcast robots present on all major platforms desktop applications! Support RAG, web search, long-term memory, code interpreter, emoji, MCP, A2A, Comfyui access and other functions!
 
 *   [pollinations/pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
 
@@ -440,6 +442,8 @@
 *   [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端网页。
 
 *   [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
+
+*   [TensoRaws/VSET](https://github.com/TensoRaws/VSET) - VSET
 
 *   [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
 
@@ -813,8 +817,6 @@
 
 *   [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 
-*   [letr007/CCTVVideoDownloader](https://github.com/letr007/CCTVVideoDownloader) - CCTVVideoDownloader是一款网络视频流解析处理工具
-
 *   [mixmoe/HibiAPI](https://github.com/mixmoe/HibiAPI) - 一个实现了多种常用站点的易用化API的程序 / A program that implements easy-to-use APIs for a variety of commonly used sites.
 
 *   [YutoMaeda1209/VRChatGPT](https://github.com/YutoMaeda1209/VRChatGPT) - A program that allows you to chat on VRChat using ChatGPT.
@@ -1039,7 +1041,7 @@
 
 *   [XihOfFy/FYSG\_Pub](https://github.com/XihOfFy/FYSG_Pub) - 封叶三国
 
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
 
 *   [HoloISO/releases](https://github.com/HoloISO/releases) - To whom shall install
 
@@ -1047,7 +1049,7 @@
 
 *   [tesseract-ocr/tessdata\_fast](https://github.com/tesseract-ocr/tessdata_fast) - Fast integer versions of trained LSTM models
 
-*   [nonwill/GoldenDict-OCR](https://github.com/nonwill/GoldenDict-OCR) - GoldenDict++：内置大量的官方版本问题的修正；先期添加了一个简单的插件机制，并基于该机制接入了多个 OCR 划词 和 音频播放 引擎；后期在增强易用性的基础上为提高查询效率、减少运行时 CPU 及 内存 占用、降低代码维护难度，完全重构了所有的实现；将来的目标是将功能扩展和词典格式处理抽象为完整的插件实现，以进一步增强应用的扩展性和可维护性。
+*   [nonwill/GoldenDict-OCR](https://github.com/nonwill/GoldenDict-OCR) - GoldenDict++：Optimizations for faster dictionary loading and searching, even with large dictionary collections.  OCR integration for text recognition, enhanced media playback, and more robust full-text search capabilities. 内置大量官方版本问题的修正，以插件形式接入多个OCR划词和音频播放引擎，在增强易用性的基础上为提高查询效率、减少运行时CPU及内存占用、降低代码维护难度，完全重构了所有的实现。
 
 *   [Axlax336/Iptv\_m3u](https://github.com/Axlax336/Iptv_m3u) - 仓库不定期更新。
 
@@ -1126,8 +1128,6 @@
 *   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 *   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-
-*   [TensoRaws/VSET](https://github.com/TensoRaws/VSET) - VSET
 
 *   [josStorer/sgm\_plus](https://github.com/josStorer/sgm_plus) -
 
@@ -1787,6 +1787,8 @@
 
 *   [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
 
+*   [letr007/CCTVVideoDownloader](https://github.com/letr007/CCTVVideoDownloader) - CCTVVideoDownloader是一款网络视频流解析处理工具
+
 *   [Unity-Technologies/MeshSyncDCCPlugins](https://github.com/Unity-Technologies/MeshSyncDCCPlugins) - DCC plugins for MeshSync in Unity. Supported tools: Maya, Maya LT, 3ds Max, Motion Builder, Modo, Blender, Metasequoia
 
 *   [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
@@ -1914,8 +1916,6 @@
 *   [wukongdaily/diy-nas-onescript](https://github.com/wukongdaily/diy-nas-onescript) - 这是一个适用于在深度系统/debian桌面系统上部署nas常用软件的脚本。快速安装必备软件，虚拟机、硬盘直通。适合办公和轻NAS二合一的场景。
 
 *   [DDS-Derek/MoviePilot](https://github.com/DDS-Derek/MoviePilot) - NAS媒体库自动化管理工具
-
-*   [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
 
 ## Kotlin
 
