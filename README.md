@@ -857,7 +857,7 @@
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
-*   [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
+*   [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents. Fully Open Source.
 
 *   [ximu3/vnite](https://github.com/ximu3/vnite) - A unified platform to organize your game collection, track gameplay, with real-time cloud sync across devices and detailed gameplay reports.
 
@@ -1789,7 +1789,7 @@
 
 *   [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
 
-*   [letr007/CCTVVideoDownloader](https://github.com/letr007/CCTVVideoDownloader) - CCTVVideoDownloader是一款网络视频流解析处理工具
+*   [letr007/CCTVVideoDownloader](https://github.com/letr007/CCTVVideoDownloader) - 一款适用于央视网的网络视频流解析处理工具
 
 *   [Unity-Technologies/MeshSyncDCCPlugins](https://github.com/Unity-Technologies/MeshSyncDCCPlugins) - DCC plugins for MeshSync in Unity. Supported tools: Maya, Maya LT, 3ds Max, Motion Builder, Modo, Blender, Metasequoia
 
