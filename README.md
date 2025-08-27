@@ -103,8 +103,6 @@
 
 *   [cat3399/deepresearch](https://github.com/cat3399/deepresearch) - 一个openai api格式的开源deepresearch方案，专注于提高搜索质量
 
-*   [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
-
 *   [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 
 *   [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) - GPT chat with emotional expressions.
@@ -780,6 +778,8 @@
 *   [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 
 *   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+
+*   [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 
 *   [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
 
@@ -1625,7 +1625,7 @@
 
 *   [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 
-*   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - 智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation.
+*   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 
 *   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 
@@ -1699,7 +1699,7 @@
 
 *   [devSlow/aigc](https://github.com/devSlow/aigc) -
 
-*   [Ryson-32/AI-Magnet-Assistant](https://github.com/Ryson-32/AI-Magnet-Assistant) - AI Magnet Assistant is an intelligent magnet link search and optimization tool. It aggregates results from multiple engines, enhances non-structured pages with AI, and helps you rank and curate clean results. AI磁力助手是一款智能磁力链接搜索和优化工具。它聚合了来自多个引擎的结果，利用人工智能增强非结构化页面，并帮助您对干净的结果进行排名和整理。
+*   [Ryson-32/AI-Magnet-Assistant](https://github.com/Ryson-32/AI-Magnet-Assistant) - AI Magnet Assistant: Aggregates multi-engine magnet links with AI optimization for smart filtering and organization. AI磁力助手：聚合多引擎磁力链接，AI优化搜索结果，智能筛选和整理。
 
 *   [Coooolfan/UniBoard](https://github.com/Coooolfan/UniBoard) - 个人介绍，导航页、笔记、短链、文件分享，私有化部署。Profile、Note、ShortURL、FileSharing…… with self-host
 
