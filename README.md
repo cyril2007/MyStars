@@ -61,6 +61,8 @@
 
 ## Python
 
+*   [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+
 *   [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 
 *   [OpenMOSS/MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD) - MOSS-TTSD is a spoken dialogue generation model that enables expressive dialogue speech synthesis in both Chinese and English, supporting zero-shot multi-speaker voice cloning, and long-form speech generation.
@@ -617,8 +619,6 @@
 
 *   [overmind1980/oeasy-linux-backup](https://github.com/overmind1980/oeasy-linux-backup) - 在这里存储着oeasy教您玩转linux系列课程的md、html文件,还有一些学习资料,希望有更多的资料.
 
-*   [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports end-to-end encryption and allows for setting the synchronization interval. This repository contains both the plugin and the server-side source code
-
 *   [jaywcjlove/oscnews](https://github.com/jaywcjlove/oscnews) - Chrome 插件，查看开源中国软件更新资讯，文档导航，GitHub 趋势榜，linux命令索引，浏览历史记录和时钟页面。
 
 *   [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
@@ -779,8 +779,6 @@
 
 *   [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 
-*   [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
-
 *   [HiMeditator/auto-caption](https://github.com/HiMeditator/auto-caption) - A cross-platform real-time subtitle display software. 一个跨平台的实时字幕显示软件。
 
 *   [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper) - 浸入式学语言助手 (Immersive Language Learning Assistant)
@@ -896,6 +894,8 @@
 *   [jayzcoder/TrguiNG](https://github.com/jayzcoder/TrguiNG) - Transmission WebUI 基于 openscopeproject/TrguiNG 汉化和改进
 
 *   [Raphiiko/OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - 🥽 VR Sleeping Utilities
+
+*   [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports end-to-end encryption and allows for setting the synchronization interval. This repository contains both the plugin and the server-side source code
 
 *   [239573049/FastGateway](https://github.com/239573049/FastGateway) - FastGateway 一个超级简单方便的网关，基于Kestrel+Yarp实现的网关。 支持动态配置路由，支持动态配置集群，支持动态配置HTTPS证书，无需重启即可使用。
 
@@ -1819,8 +1819,6 @@
 
 *   [sulliops/OculusKiller](https://github.com/sulliops/OculusKiller) - C++ program which kills all Oculus Client processes in one click, invalidating the need to go through Task Manager and end tasks individually.
 
-*   [sylikc/jpegview](https://github.com/sylikc/jpegview) - Fork of JPEGView by David Kleiner - fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images with a minimal GUI.  Basic on-the-fly image processing is provided - allowing adjusting typical parameters as sharpness, color balance, rotation, perspective, contrast and local under-/overexposure.
-
 ## Rust
 
 *   [gwy15/danmu2ass](https://github.com/gwy15/danmu2ass) - 将哔哩哔哩的 弹幕 转化为 ass 字幕文件，实时预览
@@ -1828,6 +1826,8 @@
 *   [lanyeeee/hitomi-downloader](https://github.com/lanyeeee/hitomi-downloader) - A GUI-based multi-threaded downloader for hitomi hitomi.la  一个带GUI的用于 hitomi hitomi.la 的多线程下载器
 
 *   [Sjj1024/PacBao](https://github.com/Sjj1024/PacBao) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
+
+*   [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
 
 *   [djkcyl/rifs](https://github.com/djkcyl/rifs) - 🦀 基于 Rust 构建的现代化高性能图床服务，支持实时转换、智能缓存和多种现代图片格式
 
