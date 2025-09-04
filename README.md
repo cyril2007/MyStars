@@ -305,7 +305,7 @@
 
 *   [ocyisheng/FaceFusion-ChineseWording](https://github.com/ocyisheng/FaceFusion-ChineseWording) - FaceFusion 开源换脸程序，汉化程序
 
-*   [TensoRaws/AnimePipeline](https://github.com/TensoRaws/AnimePipeline) - Auto encode new anime episode
+*   [EutropicAI/AnimePipeline](https://github.com/EutropicAI/AnimePipeline) - Auto encode new anime episode
 
 *   [VRChatNext/Shocking-VRChat](https://github.com/VRChatNext/Shocking-VRChat) -
 
@@ -775,7 +775,7 @@
 
 *   [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 
-*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 
 *   [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 
@@ -905,7 +905,7 @@
 
 *   [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 
-*   [TensoRaws/VSET](https://github.com/TensoRaws/VSET) - VSET
+*   [EutropicAI/VSET](https://github.com/EutropicAI/VSET) - VSET
 
 *   [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
 
