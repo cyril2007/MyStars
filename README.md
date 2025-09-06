@@ -8,13 +8,13 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [ActionScript](#actionscript)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
-*   [C#](#c)
 *   [C](#c-1)
 *   [Go](#go)
 *   [Vue](#vue)
@@ -58,6 +58,382 @@
 *   [Objective-C](#objective-c)
 *   [Stylus](#stylus)
 *   [Clojure](#clojure)
+
+## C\#
+
+*   [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+
+*   [hirona98/CocoroDock](https://github.com/hirona98/CocoroDock) -
+
+*   [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) - A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.
+
+*   [jxlpzqc/TMSpeech](https://github.com/jxlpzqc/TMSpeech) - 腾讯会议摸鱼工具
+
+*   [wu-yafeng/QQSG\_DecodePkg](https://github.com/wu-yafeng/QQSG_DecodePkg) - QQSG拆包工具源码
+
+*   [Sunnyliumingsheng/AutoUI](https://github.com/Sunnyliumingsheng/AutoUI) -
+
+*   [MATRIX-feather/LLin](https://github.com/MATRIX-feather/LLin) - 从mfosu中分离出来的下载加速 & 游戏内音乐播放器
+
+*   [fengymi/emby-plugin-danmu](https://github.com/fengymi/emby-plugin-danmu) - emby弹幕插件
+
+*   [LorisYounger/ChatVPet](https://github.com/LorisYounger/ChatVPet) - 桌宠语言模型. 基于桌宠聊天数据训练而来
+
+*   [trueai-org/midjourney-proxy](https://github.com/trueai-org/midjourney-proxy) - 🦄 The world's largest Midjourney drawing API, generating over 1 million drawings daily, supporting Discord Youchuan Midjourney 🐂！
+
+*   [z3y/Graphlit](https://github.com/z3y/Graphlit) - A node shader editor for Toon and PBR shaders
+
+*   [REDSIM/VRCLightVolumes](https://github.com/REDSIM/VRCLightVolumes) - Nextgen voxel based light probes replacement for VRChat
+
+*   [Ikeiwa/Unity-Baked-Volumetrics](https://github.com/Ikeiwa/Unity-Baked-Volumetrics) - A work in progress graphics solution for completely baked volumetric lighting, meant to be very lightweight and inexpensive.
+
+*   [swax/UnityMCP-VRC](https://github.com/swax/UnityMCP-VRC) - MCP Server for Unity with help for creating VRChat worlds
+
+*   [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
+
+*   [WangQAQ/UdonEncryptLib](https://github.com/WangQAQ/UdonEncryptLib) - A Lib in Vrchat for Encrypt & decrypt
+
+*   [Ikbenmathijs/VRC-ProTV-Subtitles](https://github.com/Ikbenmathijs/VRC-ProTV-Subtitles) - A subtitle system for the ProTV video player by ArchiTechAnon for VRChat
+
+*   [Centauri2442/VRCSubtitle](https://github.com/Centauri2442/VRCSubtitle) - UdonSharp based subtitle system designed for use within VRChat
+
+*   [flexits/HotCornersWin](https://github.com/flexits/HotCornersWin) - Add macOS hot corners function to Windows 10
+
+*   [James-LG/AutoCursorLock](https://github.com/James-LG/AutoCursorLock) - Locks cursor to specified windows while in focus. Good for games that don't properly lock the cursor.
+
+*   [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
+
+*   [notscuffed/repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
+
+*   [cuiliang/ClickShow](https://github.com/cuiliang/ClickShow) - 鼠标点击特效
+
+*   [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
+
+*   [chr233/ASFEnhance](https://github.com/chr233/ASFEnhance) - ASF 扩展命令插件 / External commands for ArchiSteamFarm
+
+*   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+
+*   [UdonLab/PosterUI](https://github.com/UdonLab/PosterUI) -
+
+*   [vrctxl/VideoTXL](https://github.com/vrctxl/VideoTXL) - Sync and local video players for VRChat with design consideration for events.
+
+*   [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support Mihomo
+
+*   [karaoke-dev/karaoke](https://github.com/karaoke-dev/karaoke) - Will be the best karaoke system.
+
+*   [bdunderscore/attach-to-me](https://github.com/bdunderscore/attach-to-me) -
+
+*   [GoldenPotato137/PotatoVN](https://github.com/GoldenPotato137/PotatoVN) - 一款Visual Novel管理软件
+
+*   [killop/UnityResourceSolution](https://github.com/killop/UnityResourceSolution) - 青霜-UnityResourceSolution
+
+*   [yiyungent/KnifeHub](https://github.com/yiyungent/KnifeHub) - 🧰 简单易用的效率工具平台
+
+*   [JasonXuDeveloper/Nino](https://github.com/JasonXuDeveloper/Nino) - Ultimate high-performance binary serialization library for C#.
+
+*   [fancyxnet/Cracker.CommandLine](https://github.com/fancyxnet/Cracker.CommandLine) - 纯手写命令行
+
+*   [falseeeeeeeeee/ShaderLibrary](https://github.com/falseeeeeeeeee/ShaderLibrary) - 希望开源能够帮到所有人
+
+*   [KirosHan/Palworld-server-protector-DotNet](https://github.com/KirosHan/Palworld-server-protector-DotNet) - Palworld幻兽帕鲁服务端守护+存档备份+内存监控+优雅重启+Rcon指令
+
+*   [yaobus/SIPAM](https://github.com/yaobus/SIPAM) - IP地址分配管理系统
+
+*   [Archeb/opentrace](https://github.com/Archeb/opentrace) - A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。
+
+*   [nilaoda/N\_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
+
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+
+*   [zLulus/NotePractice](https://github.com/zLulus/NotePractice) - My\_Note 笔记练习demo
+
+*   [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker) - 用于白板一体机的桌面部件，有小黑板（布置作业）、启动台、课程表
+
+*   [WeihanLi/DesignPatterns](https://github.com/WeihanLi/DesignPatterns) - DesignPatterns samples by CSharp《大话设计模式》 中设计模式总结/C#(.NET)代码
+
+*   [MingsonZheng/Personal-Learning-Library](https://github.com/MingsonZheng/Personal-Learning-Library) - 个人学习笔记仓库（.NET、k8s、Go、微服务、云原生）🐮🍺
+
+*   [Awbugl/ProjectGenesis](https://github.com/Awbugl/ProjectGenesis) - 构建真实宇宙，撰写创世之书。  Construct Real Universe. Then leave a GenesisBook.
+
+*   [TastSong/GameProgrammerStudyNotes](https://github.com/TastSong/GameProgrammerStudyNotes) - 游戏开发学习笔记
+
+*   [MarsonShine/Books](https://github.com/MarsonShine/Books) - 读书笔记
+
+*   [ALI1416/ScreenShare](https://github.com/ALI1416/ScreenShare) - Local Network Screen Share 局域网屏幕共享
+
+*   [chutianshu1981/AwesomeUnityTutorial](https://github.com/chutianshu1981/AwesomeUnityTutorial) - 精选官方高质量教程作为入门学习内容，选择最优学习路线，让学习过程“如丝般顺滑”；力求做全网最易学，知识最全面的游戏开发教程。Select the official high-quality tutorials as the introductory learning content, choose the best learning route to make the learning process "smooth as silk"; strive to be the easiest to learn and the most comprehensive game development tutorial
+
+*   [Drizzle365/Moments](https://github.com/Drizzle365/Moments) - 一个 C# 开发的博客朋友圈平台。
+
+*   [DigitalPlatform/chord](https://github.com/DigitalPlatform/chord) - 新一代分布式图书馆软件
+
+*   [taecg/ShaderReference](https://github.com/taecg/ShaderReference) - 针对Unity的Shader参考大全
+
+*   [ks233/ja-learner](https://github.com/ks233/ja-learner) - 📖简易日语学习 / 视觉小说阅读辅助工具
+
+*   [hitchao/Jvedio](https://github.com/hitchao/Jvedio) - Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件
+
+*   [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
+
+*   [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) - 🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。
+
+*   [pdone/FreeControl](https://github.com/pdone/FreeControl) - 在PC上控制Android设备
+
+*   [xasset/xasset](https://github.com/xasset/xasset) - 提升你的生产力。
+
+*   [1y0n/AV\_Evasion\_Tool](https://github.com/1y0n/AV_Evasion_Tool) - 掩日 - 免杀执行器生成工具
+
+*   [XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining) - 【Unity杂货铺】unity大杂烩~
+
+*   [yasirkula/UnityTextToTextMeshProUpgradeTool](https://github.com/yasirkula/UnityTextToTextMeshProUpgradeTool) - Upgrade Text, InputField, Dropdown and TextMesh objects to their TextMesh Pro variants in Unity
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+
+*   [vrchatapi/vrchatapi-csharp](https://github.com/vrchatapi/vrchatapi-csharp) - 🟣VRChat API Library for C#
+
+*   [Varneon/VUdon-Logger](https://github.com/Varneon/VUdon-Logger) - Runtime logger for UdonSharp
+
+*   [anatawa12/VPMPackageAutoInstaller](https://github.com/anatawa12/VPMPackageAutoInstaller) - An project to install vpm package published in non-official registry with unitypackage file.
+
+*   [Varneon/UdonExplorer](https://github.com/Varneon/UdonExplorer) - Unity Editor extension for easily exploring all VRCSDK3 UdonBehaviours in your Unity scene
+
+*   [Narazaka/VRChat\_UserMovingFloor](https://github.com/Narazaka/VRChat_UserMovingFloor) - VRChat用乗り物床面追従システム
+
+*   [esnya/UdonRadioCommunications](https://github.com/esnya/UdonRadioCommunications) - Simplified radio communication system for VRChat Udon worlds.
+
+*   [zhakamizhako/VRCOpenWorldMovementLogic](https://github.com/zhakamizhako/VRCOpenWorldMovementLogic) - Open World Movement Logic extension for Sacchan's Flight and Vehicles
+
+*   [VirtualAviationJapan/Virtual-CNS](https://github.com/VirtualAviationJapan/Virtual-CNS) - \[WIP] Communication, Navigation, Surveillance on VRChat
+
+*   [Misaka-L/MisakaBiliApi](https://github.com/Misaka-L/MisakaBiliApi) - 一个提供哔哩哔哩视频流解析的 Api 项目
+
+*   [Unity-Technologies/Animation-Instancing](https://github.com/Unity-Technologies/Animation-Instancing) - This technique is designed to instance Characters(SkinnedMeshRender).
+
+*   [ColinLeung-NiloCat/UnityURP-MobileScreenSpacePlanarReflection](https://github.com/ColinLeung-NiloCat/UnityURP-MobileScreenSpacePlanarReflection) - Reusable RendererFeature of MobileScreenSpacePlanarReflection
+
+*   [ina-amagami/unity-overwriter](https://github.com/ina-amagami/unity-overwriter) - Unityに同名ファイルをドラッグ＆ドロップした際に上書きできるようにする
+
+*   [QianMo/X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library) - Unity Post Processing Stack Library | Unity引擎的高品质后处理库
+
+*   [Unity-Technologies/Graphics](https://github.com/Unity-Technologies/Graphics) - Unity Graphics - Including Scriptable Render Pipeline
+
+*   [Kreyadian/Simple-Whitelist](https://github.com/Kreyadian/Simple-Whitelist) -
+
+*   [Iconoclass/UdonSharpDayNightController](https://github.com/Iconoclass/UdonSharpDayNightController) -
+
+*   [ChanyaVRC/OscCore](https://github.com/ChanyaVRC/OscCore) - A performance-oriented OSC library for .NET Standard
+
+*   [EvaisaDev/UnityNetcodePatcher](https://github.com/EvaisaDev/UnityNetcodePatcher) - An assembly patcher which replicates the ILPostProcessing step unity does in order to make NetworkBehaviours work
+
+*   [hfcRed/Animation-Repathing](https://github.com/hfcRed/Animation-Repathing) - Feature rich Unity Editor tool to help streamline the process of changing the paths of animations
+
+*   [copyliu/bililive\_dm](https://github.com/copyliu/bililive_dm) - B站弹幕姬 - B站直播彈幕工具
+
+*   [lyuma/Av3Emulator](https://github.com/lyuma/Av3Emulator) - Emulator for VRChat's Avatars 3.0 system, built on the Unity PlayableGraph API
+
+*   [unity3d-jp/MeshSync](https://github.com/unity3d-jp/MeshSync) - A package for synchronizing meshes/models editing in DCC tools into Unity in real time.
+
+*   [nesrak1/AssetsTools.NET](https://github.com/nesrak1/AssetsTools.NET) - Read and write unity assets/bundle files, based on https://github.com/SeriousCache/UABE
+
+*   [stalomeow/StarRailNPRShader](https://github.com/stalomeow/StarRailNPRShader) - Fan-made shaders for Unity URP attempting to replicate the shading of Honkai: Star Rail.
+
+*   [keijiro/Minis](https://github.com/keijiro/Minis) - Minis: MIDI input extension for Unity Input System
+
+*   [Erumite/Eremite\_VRC\_Udon](https://github.com/Erumite/Eremite_VRC_Udon) - Various scripts and utilities for VRChat's Worlds 3.0 / Udon
+
+*   [Unity-Technologies/VolumetricLighting](https://github.com/Unity-Technologies/VolumetricLighting) - Lighting effects implemented for the Adam demo: volumetric fog, area lights and tube lights
+
+*   [robcupisz/LightShafts](https://github.com/robcupisz/LightShafts) - A light shafts (volumetric shadows) effect for Unity.
+
+*   [OmochiNobiru/DPSShaderGenerator2](https://github.com/OmochiNobiru/DPSShaderGenerator2) - The previous DPSShaderGenerator repo was accidentally deleted.
+
+*   [jokerIsPunk/find-your-friends](https://github.com/jokerIsPunk/find-your-friends) - Teleport to your friends from this UI panel. Unity assets for use with the VRChat SDK3.
+
+*   [MerlinVR/UdonSharp](https://github.com/MerlinVR/UdonSharp) - An experimental compiler for compiling C# to Udon assembly
+
+*   [orels1/UdonToolkit](https://github.com/orels1/UdonToolkit) - A set of purpose-built Udon Behaviours and tools to make your own
+
+*   [VRCFury/VRCFury](https://github.com/VRCFury/VRCFury) - This is the source code for VRCFury. For information, visit vrcfury.com
+
+*   [AoiKamishiro/VRChatPrefabs](https://github.com/AoiKamishiro/VRChatPrefabs) - Various assets for VRChat!
+
+*   [JLChnToZ/Unity-Animation-Hierarchy-Editor](https://github.com/JLChnToZ/Unity-Animation-Hierarchy-Editor) -
+
+*   [JLChnToZ/Animalab](https://github.com/JLChnToZ/Animalab) - Use your text editor to manipulate animator controllers for Unity.
+
+*   [JLChnToZ/VRCAGE](https://github.com/JLChnToZ/VRCAGE) - Anti Gravity Engine for VRChat worlds - An advanced player/pickupable gimmicks physics system
+
+*   [eauploader/EAUploader-for-VRChat](https://github.com/eauploader/EAUploader-for-VRChat) -
+
+*   [notek/rocky](https://github.com/notek/rocky) - VRChat TV System based on YouTube playlist.
+
+*   [bdunderscore/ndmf](https://github.com/bdunderscore/ndmf) -
+
+*   [Unity-Technologies/Standard-Assets-Characters](https://github.com/Unity-Technologies/Standard-Assets-Characters) - Unity Standard Asset Controllers
+
+*   [d4rkc0d3r/d4rkAvatarOptimizer](https://github.com/d4rkc0d3r/d4rkAvatarOptimizer) - d4rkpl4y3r's VRChat Avatar 3.0 optimizer
+
+*   [gpsnmeajp/EasyVirtualMotionCaptureForUnity](https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity) - VMCProtocol Receiver asset for Unity. Easy to use! / バーチャルモーションキャプチャーなどVMCProtocolを受信してUnityに反映するスクリプトです。
+
+*   [lilxyzw/lilycalInventory](https://github.com/lilxyzw/lilycalInventory) - Modify avatar at build time.
+
+*   [kurotu/VRCQuestTools](https://github.com/kurotu/VRCQuestTools) - Unity editor extension to support uploading VRChat avatars for Oculus Quest
+
+*   [whc2001/PianoCatSongDataExtractor](https://github.com/whc2001/PianoCatSongDataExtractor) - Extract MIDI songs from PianoCat update pack
+
+*   [sturdyspoon/unity-movement-ai](https://github.com/sturdyspoon/unity-movement-ai) - A Unity library for common movement AI
+
+*   [srcnalt/OpenAI-Unity](https://github.com/srcnalt/OpenAI-Unity) - An unofficial OpenAI Unity Package that aims to help you use OpenAI API directly in Unity Game engine.
+
+*   [anatawa12/unity-gist-pack](https://github.com/anatawa12/unity-gist-pack) - An easy way to install & update anatawa12's gists at once.
+
+*   [anatawa12/ContinuousAvatarUploader](https://github.com/anatawa12/ContinuousAvatarUploader) - The tool to upload multiple avatars continuously with tagging version
+
+*   [anatawa12/CustomLocalization4EditorExtension](https://github.com/anatawa12/CustomLocalization4EditorExtension) - A library for Unity extensions which want to have custom locale for translation instead of unity's locale.
+
+*   [bdunderscore/modular-avatar](https://github.com/bdunderscore/modular-avatar) -
+
+*   [Blabzillaweasel/AudioLink-USharpVideo-Adapter](https://github.com/Blabzillaweasel/AudioLink-USharpVideo-Adapter) - A plugin to easily add Audiolink integration to the USharpVideo Player while maintaining the ability to switch between Video & Stream mode.
+
+*   [ReinaS-64892/TexTransTool](https://github.com/ReinaS-64892/TexTransTool) - Non-destructive modification to Texture!
+
+*   [Cysharp/Utf8StreamReader](https://github.com/Cysharp/Utf8StreamReader) - Utf8 based StreamReader for high performance text processing.
+
+*   [AcChosen/VRSL-AudioDMX](https://github.com/AcChosen/VRSL-AudioDMX) - A standalone add-on for VR Stage Lighting that enables sending basic DMX data through audio signals into VRChat's Udon.
+
+*   [anatawa12/AvatarOptimizer](https://github.com/anatawa12/AvatarOptimizer) - AAO: Avatar Optimizer: Non Destructive Avatar Optimization Utilities
+
+*   [vrcd-community/VPMReposSynchronizer](https://github.com/vrcd-community/VPMReposSynchronizer) - A Synchronizer to sync VPM Repos.
+
+*   [VirtualVisions/VowganPrefabs](https://github.com/VirtualVisions/VowganPrefabs) - All of the VRChat Prefabs that Vowgan has created for Booth and Patreon since 2020
+
+*   [parameter-pollution/UdonAudioDesigner](https://github.com/parameter-pollution/UdonAudioDesigner) - An in-game audio soundscape designer for VRChat written in udon sharp.
+
+*   [Packer/VRC-USharp-Scripts](https://github.com/Packer/VRC-USharp-Scripts) - Packer's VR Chat Udon Sharp scripts, for all to use in thier own worlds.
+
+*   [CampbellCrowley/VRC-UdonSharp-Keyboard](https://github.com/CampbellCrowley/VRC-UdonSharp-Keyboard) - A keyboard for VRChat Udon written in U#.
+
+*   [tommaier123/UdonSharpDayNightController](https://github.com/tommaier123/UdonSharpDayNightController) -
+
+*   [aiya000/VRChat-UdonSharpCommon](https://github.com/aiya000/VRChat-UdonSharpCommon) - A unity asset  to support making your VRChat world with commonly UdonSharp scripts!
+
+*   [iffn/iffnsUdonSharpTutorialsForVRChat](https://github.com/iffn/iffnsUdonSharpTutorialsForVRChat) -
+
+*   [dawid-t/Mesh-Combiner](https://github.com/dawid-t/Mesh-Combiner) - Mesh Combiner is a little tool which can combine different meshes into one mesh in Unity for reduce the amount of batches / draw calls, making your game more optimized.
+
+*   [d4rkc0d3r/AV3ToggleUtil](https://github.com/d4rkc0d3r/AV3ToggleUtil) - Utility to quickly create toggles for VRChat SDK 3.0 Avatars
+
+*   [JLChnToZ/SkinnedMeshCombiner](https://github.com/JLChnToZ/SkinnedMeshCombiner) - Skinned Mesh Combiner Tools
+
+*   [Umbra999/Analytics-Preventer](https://github.com/Umbra999/Analytics-Preventer) - Prevents Analytics for Websites and Games
+
+*   [Pokeyi/VRC-Haptics-Profile](https://github.com/Pokeyi/VRC-Haptics-Profile) - Controller haptics profile for VRChat.
+
+*   [DubyaDude/VRChat-Analytics-Blocker](https://github.com/DubyaDude/VRChat-Analytics-Blocker) - A collection of easy to use tools to block analytics collection tailored towards VRChat players
+
+*   [duduRodrigues/UnityRTGI](https://github.com/duduRodrigues/UnityRTGI) - A real-time geometry importer for Unity Engine
+
+*   [MochiesCode/Mochies-Unity-Shaders](https://github.com/MochiesCode/Mochies-Unity-Shaders) -
+
+*   [niwaniwa/KineLVideoPlayer](https://github.com/niwaniwa/KineLVideoPlayer) - KineLVideoPlayer
+
+*   [Thryrallo/ThryEditor](https://github.com/Thryrallo/ThryEditor) - General Unity Shader Inspector/Editor with focus on vrchat
+
+*   [Auburn/FastNoise\_CSharp](https://github.com/Auburn/FastNoise_CSharp) - FastNoise C# Version
+
+*   [mewlist/MewNoiseGen](https://github.com/mewlist/MewNoiseGen) - 3D or 2D Noise Texture Generator for Unity3D
+
+*   [PiMaker/ltcgi](https://github.com/PiMaker/ltcgi) - Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat.
+
+*   [JLChnToZ/VVMW](https://github.com/JLChnToZ/VVMW) - ⏩ VizVid - Brand new original video player frontend for VRChat, aims for flexibility.
+
+*   [jacklul/USharpVideo-Subtitles](https://github.com/jacklul/USharpVideo-Subtitles) - This prefab adds subtitles support to USharpVideo (or any other video player) in VRChat
+
+*   [net2cn/Anime4KSharp](https://github.com/net2cn/Anime4KSharp) - C# implementation of Anime4K that runs only on CPU just for learning.
+
+*   [nitrog0d/DesktopCamera](https://github.com/nitrog0d/DesktopCamera) - A VRChat mod that allows Desktop users to use the VRChat Camera feature and makes it easier to use for VR users.
+
+*   [ureishi/QvPen](https://github.com/ureishi/QvPen) - VRChat World Pen.
+
+*   [esperecyan/VRMConverterForVRChat](https://github.com/esperecyan/VRMConverterForVRChat) -
+
+*   [Vard-and-Temmie/Udon-Record-player](https://github.com/Vard-and-Temmie/Udon-Record-player) - An interactive vinyl record player for vrchat
+
+*   [CyanLaser/CyanEmu](https://github.com/CyanLaser/CyanEmu) - CyanEmu is a VRChat client emulator in Unity. Includes a player controller with interact system. Works with SDK2 and SDK3.
+
+*   [Pokeyi/VRC-Omni-Action](https://github.com/Pokeyi/VRC-Omni-Action) - Multi-purpose user-action/event and function-handling component for VRChat.
+
+*   [VRCBilliards/vrcbce](https://github.com/VRCBilliards/vrcbce) - VRCBilliards: Community Edition 1.x
+
+*   [scarletcafe/vrchat-udon-hashlib](https://github.com/scarletcafe/vrchat-udon-hashlib) -
+
+*   [vr-voyage/vrchat-worldlock-autosetup](https://github.com/vr-voyage/vrchat-worldlock-autosetup) - A small Unity tool to setup World Locked objects on avatars (SDK 3.0 at the moment)
+
+*   [vr-voyage/direct-model-importer-vrchat](https://github.com/vr-voyage/direct-model-importer-vrchat) - A prefab to recreate image-encoded 3D models inside VRChat
+
+*   [Foorack/UdonXML](https://github.com/Foorack/UdonXML) - UdonXML is an XML parser written in Udon for VRChat!
+
+*   [Asitir/UdonUI](https://github.com/Asitir/UdonUI) - Vrc Udon 的第三方UI编辑器
+
+*   [Thryrallo/VRC-Avatar-Performance-Tools](https://github.com/Thryrallo/VRC-Avatar-Performance-Tools) -
+
+*   [Sonic853/UdonVideoSubtitleReader](https://github.com/Sonic853/UdonVideoSubtitleReader) -
+
+*   [Sonic853/UdonLabToolkit](https://github.com/Sonic853/UdonLabToolkit) - 853's Udon Lab Toolkit(Made with UdonSharp)
+
+*   [UdonLab/UdonUrlLoader](https://github.com/UdonLab/UdonUrlLoader) -
+
+*   [VRLabs/World-Constraint](https://github.com/VRLabs/World-Constraint) - A world-fixed object, held in place with a constraint.
+
+*   [VRLabs/Follower](https://github.com/VRLabs/Follower) - A constraint-based follower.
+
+*   [vrm-c/UniVRM](https://github.com/vrm-c/UniVRM) - UniVRM is a gltf-based VRM format implementation for Unity. English is here https://vrm.dev/en/ . 日本語 はこちら https://vrm.dev/
+
+*   [Krysiek/CuteDancer](https://github.com/Krysiek/CuteDancer) - Unity package for VRChat avatars with animation of dances synchronized between players.
+
+*   [hypar-io/Elements](https://github.com/hypar-io/Elements) - The smallest useful BIM.
+
+*   [Varneon/VUdon-ArrayExtensions](https://github.com/Varneon/VUdon-ArrayExtensions) - Collection of array extension methods compatible with UdonSharp 1.x which adds partial feature set from List\<T>
+
+*   [UdonLab/UdonArrayPlus](https://github.com/UdonLab/UdonArrayPlus) -
+
+*   [hfcRed/Among-Us-Follower](https://github.com/hfcRed/Among-Us-Follower) - Among Us companion for your VRChat Avatar
+
+*   [Superbstingray/DistanceCullingMirrors](https://github.com/Superbstingray/DistanceCullingMirrors) - Udon script that exposes additional options for mirrors giving the ability to set distance based culling per layer functioning like an adjustable far clip distance.
+
+*   [devdotkuru/KuruTweak](https://github.com/devdotkuru/KuruTweak) - Allows you to quickly create and edit a config file for VRChat.
+
+*   [Pokeyi/VRC-Raycast-Laser](https://github.com/Pokeyi/VRC-Raycast-Laser) - Raycast laser renderer and point-plotter for VRChat.
+
+*   [Narazaka/AvatarMenuCreaterForMA](https://github.com/Narazaka/AvatarMenuCreaterForMA) - Easily create a VRChat avatar menu with modular avatars
+
+*   [RiskiVR/RiskiPlayer](https://github.com/RiskiVR/RiskiPlayer) - Simple and fancy video player for VRChat with an on-screen interface, and simplified layout.
+
+*   [blepmlem/VRChat-Expression-Utility](https://github.com/blepmlem/VRChat-Expression-Utility) - Create new expressions for your VRC avatar without doing all the tedious work! Skip the balancing act of handling parameters, layers, transitions, conditions, etc, and just make cool stuff!
+
+*   [rurre/PumkinsAvatarTools](https://github.com/rurre/PumkinsAvatarTools) - A toolbox for easily setting up VRChat avatars in Unity. Adds functionality to the editor and automates some of the tedious tasks.
+
+*   [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
+
+*   [arition/SubRenamer](https://github.com/arition/SubRenamer) - Rename subtitles for BDRip
+
+*   [BnuuySolutions/OculusKiller](https://github.com/BnuuySolutions/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
+
+*   [MerlinVR/USharpVideo](https://github.com/MerlinVR/USharpVideo) - A basic video player made for VRChat using Udon and UdonSharp
+
+*   [FACS01-01/VRC-Hotswap](https://github.com/FACS01-01/VRC-Hotswap) - Script for performing a Hotswap when uploading avatars to VRChat
+
+*   [Myrkie/VRCWLocalLoader](https://github.com/Myrkie/VRCWLocalLoader) - Locally load any VRChat World Bundle (VRCW) into your game.
+
+*   [Project-Zenith/ZPUK](https://github.com/Project-Zenith/ZPUK) - The Zenith Unity Kit: an addon for Unity3D.
+
+*   [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
+
+*   [FACS01-01/FACS\_Utilities](https://github.com/FACS01-01/FACS_Utilities) - Tools to help you edit and repair Unity/VRChat projects
+
+*   [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
+
+*   [AcChosen/VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting) - A collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets designed to emulate the real control, quality, and complexity of professional stage lighting into VRChat in as many ways as possible.
 
 ## Python
 
@@ -199,7 +575,7 @@
 
 *   [Akimio521/AutoFilm](https://github.com/Akimio521/AutoFilm) - 一个为Emby、Jellyfin提供服务的小工具：生成strm、动漫追番、绘制媒体库海报
 
-*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
+*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
 
 *   [OmniSVG/OmniSVG](https://github.com/OmniSVG/OmniSVG) - OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters.
 
@@ -683,7 +1059,7 @@
 
 *   [11-check-it-out/KGnotes-demo](https://github.com/11-check-it-out/KGnotes-demo) - a obsidian demo vault of KG notes
 
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
 
 *   [fishyer/utools-plugin-wucai](https://github.com/fishyer/utools-plugin-wucai) -
 
@@ -1202,382 +1578,6 @@
 *   [Sonic853/VRChat-Creator-Companion-zh-CN](https://github.com/Sonic853/VRChat-Creator-Companion-zh-CN) - VCC 界面文本汉化包
 
 *   [Pawdroid/shadowrocket\_for\_android](https://github.com/Pawdroid/shadowrocket_for_android) - A V2Ray client for Android, builtin lots of available servers, 安卓小火箭官方库，内置大量免费节点，欢迎下载体验。
-
-## C\#
-
-*   [hirona98/CocoroDock](https://github.com/hirona98/CocoroDock) -
-
-*   [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) - A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.
-
-*   [jxlpzqc/TMSpeech](https://github.com/jxlpzqc/TMSpeech) - 腾讯会议摸鱼工具
-
-*   [wu-yafeng/QQSG\_DecodePkg](https://github.com/wu-yafeng/QQSG_DecodePkg) - QQSG拆包工具源码
-
-*   [Sunnyliumingsheng/AutoUI](https://github.com/Sunnyliumingsheng/AutoUI) -
-
-*   [MATRIX-feather/LLin](https://github.com/MATRIX-feather/LLin) - 从mfosu中分离出来的下载加速 & 游戏内音乐播放器
-
-*   [fengymi/emby-plugin-danmu](https://github.com/fengymi/emby-plugin-danmu) - emby弹幕插件
-
-*   [LorisYounger/ChatVPet](https://github.com/LorisYounger/ChatVPet) - 桌宠语言模型. 基于桌宠聊天数据训练而来
-
-*   [trueai-org/midjourney-proxy](https://github.com/trueai-org/midjourney-proxy) - 🦄 The world's largest Midjourney drawing API, generating over 1 million drawings daily, supporting Discord Youchuan Midjourney 🐂！
-
-*   [z3y/Graphlit](https://github.com/z3y/Graphlit) - A node shader editor for Toon and PBR shaders
-
-*   [REDSIM/VRCLightVolumes](https://github.com/REDSIM/VRCLightVolumes) - Nextgen voxel based light probes replacement for VRChat
-
-*   [Ikeiwa/Unity-Baked-Volumetrics](https://github.com/Ikeiwa/Unity-Baked-Volumetrics) - A work in progress graphics solution for completely baked volumetric lighting, meant to be very lightweight and inexpensive.
-
-*   [swax/UnityMCP-VRC](https://github.com/swax/UnityMCP-VRC) - MCP Server for Unity with help for creating VRChat worlds
-
-*   [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
-
-*   [WangQAQ/UdonEncryptLib](https://github.com/WangQAQ/UdonEncryptLib) - A Lib in Vrchat for Encrypt & decrypt
-
-*   [Ikbenmathijs/VRC-ProTV-Subtitles](https://github.com/Ikbenmathijs/VRC-ProTV-Subtitles) - A subtitle system for the ProTV video player by ArchiTechAnon for VRChat
-
-*   [Centauri2442/VRCSubtitle](https://github.com/Centauri2442/VRCSubtitle) - UdonSharp based subtitle system designed for use within VRChat
-
-*   [flexits/HotCornersWin](https://github.com/flexits/HotCornersWin) - Add macOS hot corners function to Windows 10
-
-*   [James-LG/AutoCursorLock](https://github.com/James-LG/AutoCursorLock) - Locks cursor to specified windows while in focus. Good for games that don't properly lock the cursor.
-
-*   [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
-
-*   [notscuffed/repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
-
-*   [cuiliang/ClickShow](https://github.com/cuiliang/ClickShow) - 鼠标点击特效
-
-*   [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
-
-*   [chr233/ASFEnhance](https://github.com/chr233/ASFEnhance) - ASF 扩展命令插件 / External commands for ArchiSteamFarm
-
-*   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-
-*   [UdonLab/PosterUI](https://github.com/UdonLab/PosterUI) -
-
-*   [vrctxl/VideoTXL](https://github.com/vrctxl/VideoTXL) - Sync and local video players for VRChat with design consideration for events.
-
-*   [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support Mihomo
-
-*   [karaoke-dev/karaoke](https://github.com/karaoke-dev/karaoke) - Will be the best karaoke system.
-
-*   [bdunderscore/attach-to-me](https://github.com/bdunderscore/attach-to-me) -
-
-*   [GoldenPotato137/PotatoVN](https://github.com/GoldenPotato137/PotatoVN) - 一款Visual Novel管理软件
-
-*   [killop/UnityResourceSolution](https://github.com/killop/UnityResourceSolution) - 青霜-UnityResourceSolution
-
-*   [yiyungent/KnifeHub](https://github.com/yiyungent/KnifeHub) - 🧰 简单易用的效率工具平台
-
-*   [JasonXuDeveloper/Nino](https://github.com/JasonXuDeveloper/Nino) - Ultimate high-performance binary serialization library for C#.
-
-*   [fancyxnet/Cracker.CommandLine](https://github.com/fancyxnet/Cracker.CommandLine) - 纯手写命令行
-
-*   [falseeeeeeeeee/ShaderLibrary](https://github.com/falseeeeeeeeee/ShaderLibrary) - 希望开源能够帮到所有人
-
-*   [KirosHan/Palworld-server-protector-DotNet](https://github.com/KirosHan/Palworld-server-protector-DotNet) - Palworld幻兽帕鲁服务端守护+存档备份+内存监控+优雅重启+Rcon指令
-
-*   [yaobus/SIPAM](https://github.com/yaobus/SIPAM) - IP地址分配管理系统
-
-*   [Archeb/opentrace](https://github.com/Archeb/opentrace) - A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。
-
-*   [nilaoda/N\_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
-
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-
-*   [zLulus/NotePractice](https://github.com/zLulus/NotePractice) - My\_Note 笔记练习demo
-
-*   [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker) - 用于白板一体机的桌面部件，有小黑板（布置作业）、启动台、课程表
-
-*   [WeihanLi/DesignPatterns](https://github.com/WeihanLi/DesignPatterns) - DesignPatterns samples by CSharp《大话设计模式》 中设计模式总结/C#(.NET)代码
-
-*   [MingsonZheng/Personal-Learning-Library](https://github.com/MingsonZheng/Personal-Learning-Library) - 个人学习笔记仓库（.NET、k8s、Go、微服务、云原生）🐮🍺
-
-*   [Awbugl/ProjectGenesis](https://github.com/Awbugl/ProjectGenesis) - 构建真实宇宙，撰写创世之书。  Construct Real Universe. Then leave a GenesisBook.
-
-*   [TastSong/GameProgrammerStudyNotes](https://github.com/TastSong/GameProgrammerStudyNotes) - 游戏开发学习笔记
-
-*   [MarsonShine/Books](https://github.com/MarsonShine/Books) - 读书笔记
-
-*   [ALI1416/ScreenShare](https://github.com/ALI1416/ScreenShare) - Local Network Screen Share 局域网屏幕共享
-
-*   [chutianshu1981/AwesomeUnityTutorial](https://github.com/chutianshu1981/AwesomeUnityTutorial) - 精选官方高质量教程作为入门学习内容，选择最优学习路线，让学习过程“如丝般顺滑”；力求做全网最易学，知识最全面的游戏开发教程。Select the official high-quality tutorials as the introductory learning content, choose the best learning route to make the learning process "smooth as silk"; strive to be the easiest to learn and the most comprehensive game development tutorial
-
-*   [Drizzle365/Moments](https://github.com/Drizzle365/Moments) - 一个 C# 开发的博客朋友圈平台。
-
-*   [DigitalPlatform/chord](https://github.com/DigitalPlatform/chord) - 新一代分布式图书馆软件
-
-*   [taecg/ShaderReference](https://github.com/taecg/ShaderReference) - 针对Unity的Shader参考大全
-
-*   [ks233/ja-learner](https://github.com/ks233/ja-learner) - 📖简易日语学习 / 视觉小说阅读辅助工具
-
-*   [hitchao/Jvedio](https://github.com/hitchao/Jvedio) - Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件
-
-*   [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
-
-*   [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) - 🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。
-
-*   [pdone/FreeControl](https://github.com/pdone/FreeControl) - 在PC上控制Android设备
-
-*   [xasset/xasset](https://github.com/xasset/xasset) - 提升你的生产力。
-
-*   [1y0n/AV\_Evasion\_Tool](https://github.com/1y0n/AV_Evasion_Tool) - 掩日 - 免杀执行器生成工具
-
-*   [XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining) - 【Unity杂货铺】unity大杂烩~
-
-*   [yasirkula/UnityTextToTextMeshProUpgradeTool](https://github.com/yasirkula/UnityTextToTextMeshProUpgradeTool) - Upgrade Text, InputField, Dropdown and TextMesh objects to their TextMesh Pro variants in Unity
-
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-*   [vrchatapi/vrchatapi-csharp](https://github.com/vrchatapi/vrchatapi-csharp) - 🟣VRChat API Library for C#
-
-*   [Varneon/VUdon-Logger](https://github.com/Varneon/VUdon-Logger) - Runtime logger for UdonSharp
-
-*   [anatawa12/VPMPackageAutoInstaller](https://github.com/anatawa12/VPMPackageAutoInstaller) - An project to install vpm package published in non-official registry with unitypackage file.
-
-*   [Varneon/UdonExplorer](https://github.com/Varneon/UdonExplorer) - Unity Editor extension for easily exploring all VRCSDK3 UdonBehaviours in your Unity scene
-
-*   [Narazaka/VRChat\_UserMovingFloor](https://github.com/Narazaka/VRChat_UserMovingFloor) - VRChat用乗り物床面追従システム
-
-*   [esnya/UdonRadioCommunications](https://github.com/esnya/UdonRadioCommunications) - Simplified radio communication system for VRChat Udon worlds.
-
-*   [zhakamizhako/VRCOpenWorldMovementLogic](https://github.com/zhakamizhako/VRCOpenWorldMovementLogic) - Open World Movement Logic extension for Sacchan's Flight and Vehicles
-
-*   [VirtualAviationJapan/Virtual-CNS](https://github.com/VirtualAviationJapan/Virtual-CNS) - \[WIP] Communication, Navigation, Surveillance on VRChat
-
-*   [Misaka-L/MisakaBiliApi](https://github.com/Misaka-L/MisakaBiliApi) - 一个提供哔哩哔哩视频流解析的 Api 项目
-
-*   [Unity-Technologies/Animation-Instancing](https://github.com/Unity-Technologies/Animation-Instancing) - This technique is designed to instance Characters(SkinnedMeshRender).
-
-*   [ColinLeung-NiloCat/UnityURP-MobileScreenSpacePlanarReflection](https://github.com/ColinLeung-NiloCat/UnityURP-MobileScreenSpacePlanarReflection) - Reusable RendererFeature of MobileScreenSpacePlanarReflection
-
-*   [ina-amagami/unity-overwriter](https://github.com/ina-amagami/unity-overwriter) - Unityに同名ファイルをドラッグ＆ドロップした際に上書きできるようにする
-
-*   [QianMo/X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library) - Unity Post Processing Stack Library | Unity引擎的高品质后处理库
-
-*   [Unity-Technologies/Graphics](https://github.com/Unity-Technologies/Graphics) - Unity Graphics - Including Scriptable Render Pipeline
-
-*   [Kreyadian/Simple-Whitelist](https://github.com/Kreyadian/Simple-Whitelist) -
-
-*   [Iconoclass/UdonSharpDayNightController](https://github.com/Iconoclass/UdonSharpDayNightController) -
-
-*   [ChanyaVRC/OscCore](https://github.com/ChanyaVRC/OscCore) - A performance-oriented OSC library for .NET Standard
-
-*   [EvaisaDev/UnityNetcodePatcher](https://github.com/EvaisaDev/UnityNetcodePatcher) - An assembly patcher which replicates the ILPostProcessing step unity does in order to make NetworkBehaviours work
-
-*   [hfcRed/Animation-Repathing](https://github.com/hfcRed/Animation-Repathing) - Feature rich Unity Editor tool to help streamline the process of changing the paths of animations
-
-*   [copyliu/bililive\_dm](https://github.com/copyliu/bililive_dm) - B站弹幕姬 - B站直播彈幕工具
-
-*   [lyuma/Av3Emulator](https://github.com/lyuma/Av3Emulator) - Emulator for VRChat's Avatars 3.0 system, built on the Unity PlayableGraph API
-
-*   [unity3d-jp/MeshSync](https://github.com/unity3d-jp/MeshSync) - A package for synchronizing meshes/models editing in DCC tools into Unity in real time.
-
-*   [nesrak1/AssetsTools.NET](https://github.com/nesrak1/AssetsTools.NET) - Read and write unity assets/bundle files, based on https://github.com/SeriousCache/UABE
-
-*   [stalomeow/StarRailNPRShader](https://github.com/stalomeow/StarRailNPRShader) - Fan-made shaders for Unity URP attempting to replicate the shading of Honkai: Star Rail.
-
-*   [keijiro/Minis](https://github.com/keijiro/Minis) - Minis: MIDI input extension for Unity Input System
-
-*   [Erumite/Eremite\_VRC\_Udon](https://github.com/Erumite/Eremite_VRC_Udon) - Various scripts and utilities for VRChat's Worlds 3.0 / Udon
-
-*   [Unity-Technologies/VolumetricLighting](https://github.com/Unity-Technologies/VolumetricLighting) - Lighting effects implemented for the Adam demo: volumetric fog, area lights and tube lights
-
-*   [robcupisz/LightShafts](https://github.com/robcupisz/LightShafts) - A light shafts (volumetric shadows) effect for Unity.
-
-*   [OmochiNobiru/DPSShaderGenerator2](https://github.com/OmochiNobiru/DPSShaderGenerator2) - The previous DPSShaderGenerator repo was accidentally deleted.
-
-*   [jokerIsPunk/find-your-friends](https://github.com/jokerIsPunk/find-your-friends) - Teleport to your friends from this UI panel. Unity assets for use with the VRChat SDK3.
-
-*   [MerlinVR/UdonSharp](https://github.com/MerlinVR/UdonSharp) - An experimental compiler for compiling C# to Udon assembly
-
-*   [orels1/UdonToolkit](https://github.com/orels1/UdonToolkit) - A set of purpose-built Udon Behaviours and tools to make your own
-
-*   [VRCFury/VRCFury](https://github.com/VRCFury/VRCFury) - This is the source code for VRCFury. For information, visit vrcfury.com
-
-*   [AoiKamishiro/VRChatPrefabs](https://github.com/AoiKamishiro/VRChatPrefabs) - Various assets for VRChat!
-
-*   [JLChnToZ/Unity-Animation-Hierarchy-Editor](https://github.com/JLChnToZ/Unity-Animation-Hierarchy-Editor) -
-
-*   [JLChnToZ/Animalab](https://github.com/JLChnToZ/Animalab) - Use your text editor to manipulate animator controllers for Unity.
-
-*   [JLChnToZ/VRCAGE](https://github.com/JLChnToZ/VRCAGE) - Anti Gravity Engine for VRChat worlds - An advanced player/pickupable gimmicks physics system
-
-*   [eauploader/EAUploader-for-VRChat](https://github.com/eauploader/EAUploader-for-VRChat) -
-
-*   [notek/rocky](https://github.com/notek/rocky) - VRChat TV System based on YouTube playlist.
-
-*   [bdunderscore/ndmf](https://github.com/bdunderscore/ndmf) -
-
-*   [Unity-Technologies/Standard-Assets-Characters](https://github.com/Unity-Technologies/Standard-Assets-Characters) - Unity Standard Asset Controllers
-
-*   [d4rkc0d3r/d4rkAvatarOptimizer](https://github.com/d4rkc0d3r/d4rkAvatarOptimizer) - d4rkpl4y3r's VRChat Avatar 3.0 optimizer
-
-*   [gpsnmeajp/EasyVirtualMotionCaptureForUnity](https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity) - VMCProtocol Receiver asset for Unity. Easy to use! / バーチャルモーションキャプチャーなどVMCProtocolを受信してUnityに反映するスクリプトです。
-
-*   [lilxyzw/lilycalInventory](https://github.com/lilxyzw/lilycalInventory) - Modify avatar at build time.
-
-*   [kurotu/VRCQuestTools](https://github.com/kurotu/VRCQuestTools) - Unity editor extension to support uploading VRChat avatars for Oculus Quest
-
-*   [whc2001/PianoCatSongDataExtractor](https://github.com/whc2001/PianoCatSongDataExtractor) - Extract MIDI songs from PianoCat update pack
-
-*   [sturdyspoon/unity-movement-ai](https://github.com/sturdyspoon/unity-movement-ai) - A Unity library for common movement AI
-
-*   [srcnalt/OpenAI-Unity](https://github.com/srcnalt/OpenAI-Unity) - An unofficial OpenAI Unity Package that aims to help you use OpenAI API directly in Unity Game engine.
-
-*   [anatawa12/unity-gist-pack](https://github.com/anatawa12/unity-gist-pack) - An easy way to install & update anatawa12's gists at once.
-
-*   [anatawa12/ContinuousAvatarUploader](https://github.com/anatawa12/ContinuousAvatarUploader) - The tool to upload multiple avatars continuously with tagging version
-
-*   [anatawa12/CustomLocalization4EditorExtension](https://github.com/anatawa12/CustomLocalization4EditorExtension) - A library for Unity extensions which want to have custom locale for translation instead of unity's locale.
-
-*   [bdunderscore/modular-avatar](https://github.com/bdunderscore/modular-avatar) -
-
-*   [Blabzillaweasel/AudioLink-USharpVideo-Adapter](https://github.com/Blabzillaweasel/AudioLink-USharpVideo-Adapter) - A plugin to easily add Audiolink integration to the USharpVideo Player while maintaining the ability to switch between Video & Stream mode.
-
-*   [ReinaS-64892/TexTransTool](https://github.com/ReinaS-64892/TexTransTool) - Non-destructive modification to Texture!
-
-*   [Cysharp/Utf8StreamReader](https://github.com/Cysharp/Utf8StreamReader) - Utf8 based StreamReader for high performance text processing.
-
-*   [AcChosen/VRSL-AudioDMX](https://github.com/AcChosen/VRSL-AudioDMX) - A standalone add-on for VR Stage Lighting that enables sending basic DMX data through audio signals into VRChat's Udon.
-
-*   [anatawa12/AvatarOptimizer](https://github.com/anatawa12/AvatarOptimizer) - AAO: Avatar Optimizer: Non Destructive Avatar Optimization Utilities
-
-*   [vrcd-community/VPMReposSynchronizer](https://github.com/vrcd-community/VPMReposSynchronizer) - A Synchronizer to sync VPM Repos.
-
-*   [VirtualVisions/VowganPrefabs](https://github.com/VirtualVisions/VowganPrefabs) - All of the VRChat Prefabs that Vowgan has created for Booth and Patreon since 2020
-
-*   [parameter-pollution/UdonAudioDesigner](https://github.com/parameter-pollution/UdonAudioDesigner) - An in-game audio soundscape designer for VRChat written in udon sharp.
-
-*   [Packer/VRC-USharp-Scripts](https://github.com/Packer/VRC-USharp-Scripts) - Packer's VR Chat Udon Sharp scripts, for all to use in thier own worlds.
-
-*   [CampbellCrowley/VRC-UdonSharp-Keyboard](https://github.com/CampbellCrowley/VRC-UdonSharp-Keyboard) - A keyboard for VRChat Udon written in U#.
-
-*   [tommaier123/UdonSharpDayNightController](https://github.com/tommaier123/UdonSharpDayNightController) -
-
-*   [aiya000/VRChat-UdonSharpCommon](https://github.com/aiya000/VRChat-UdonSharpCommon) - A unity asset  to support making your VRChat world with commonly UdonSharp scripts!
-
-*   [iffn/iffnsUdonSharpTutorialsForVRChat](https://github.com/iffn/iffnsUdonSharpTutorialsForVRChat) -
-
-*   [dawid-t/Mesh-Combiner](https://github.com/dawid-t/Mesh-Combiner) - Mesh Combiner is a little tool which can combine different meshes into one mesh in Unity for reduce the amount of batches / draw calls, making your game more optimized.
-
-*   [d4rkc0d3r/AV3ToggleUtil](https://github.com/d4rkc0d3r/AV3ToggleUtil) - Utility to quickly create toggles for VRChat SDK 3.0 Avatars
-
-*   [JLChnToZ/SkinnedMeshCombiner](https://github.com/JLChnToZ/SkinnedMeshCombiner) - Skinned Mesh Combiner Tools
-
-*   [Umbra999/Analytics-Preventer](https://github.com/Umbra999/Analytics-Preventer) - Prevents Analytics for Websites and Games
-
-*   [Pokeyi/VRC-Haptics-Profile](https://github.com/Pokeyi/VRC-Haptics-Profile) - Controller haptics profile for VRChat.
-
-*   [DubyaDude/VRChat-Analytics-Blocker](https://github.com/DubyaDude/VRChat-Analytics-Blocker) - A collection of easy to use tools to block analytics collection tailored towards VRChat players
-
-*   [duduRodrigues/UnityRTGI](https://github.com/duduRodrigues/UnityRTGI) - A real-time geometry importer for Unity Engine
-
-*   [MochiesCode/Mochies-Unity-Shaders](https://github.com/MochiesCode/Mochies-Unity-Shaders) -
-
-*   [niwaniwa/KineLVideoPlayer](https://github.com/niwaniwa/KineLVideoPlayer) - KineLVideoPlayer
-
-*   [Thryrallo/ThryEditor](https://github.com/Thryrallo/ThryEditor) - General Unity Shader Inspector/Editor with focus on vrchat
-
-*   [Auburn/FastNoise\_CSharp](https://github.com/Auburn/FastNoise_CSharp) - FastNoise C# Version
-
-*   [mewlist/MewNoiseGen](https://github.com/mewlist/MewNoiseGen) - 3D or 2D Noise Texture Generator for Unity3D
-
-*   [PiMaker/ltcgi](https://github.com/PiMaker/ltcgi) - Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat.
-
-*   [JLChnToZ/VVMW](https://github.com/JLChnToZ/VVMW) - ⏩ VizVid - Brand new original video player frontend for VRChat, aims for flexibility.
-
-*   [jacklul/USharpVideo-Subtitles](https://github.com/jacklul/USharpVideo-Subtitles) - This prefab adds subtitles support to USharpVideo (or any other video player) in VRChat
-
-*   [net2cn/Anime4KSharp](https://github.com/net2cn/Anime4KSharp) - C# implementation of Anime4K that runs only on CPU just for learning.
-
-*   [nitrog0d/DesktopCamera](https://github.com/nitrog0d/DesktopCamera) - A VRChat mod that allows Desktop users to use the VRChat Camera feature and makes it easier to use for VR users.
-
-*   [ureishi/QvPen](https://github.com/ureishi/QvPen) - VRChat World Pen.
-
-*   [esperecyan/VRMConverterForVRChat](https://github.com/esperecyan/VRMConverterForVRChat) -
-
-*   [Vard-and-Temmie/Udon-Record-player](https://github.com/Vard-and-Temmie/Udon-Record-player) - An interactive vinyl record player for vrchat
-
-*   [CyanLaser/CyanEmu](https://github.com/CyanLaser/CyanEmu) - CyanEmu is a VRChat client emulator in Unity. Includes a player controller with interact system. Works with SDK2 and SDK3.
-
-*   [Pokeyi/VRC-Omni-Action](https://github.com/Pokeyi/VRC-Omni-Action) - Multi-purpose user-action/event and function-handling component for VRChat.
-
-*   [VRCBilliards/vrcbce](https://github.com/VRCBilliards/vrcbce) - VRCBilliards: Community Edition 1.x
-
-*   [scarletcafe/vrchat-udon-hashlib](https://github.com/scarletcafe/vrchat-udon-hashlib) -
-
-*   [vr-voyage/vrchat-worldlock-autosetup](https://github.com/vr-voyage/vrchat-worldlock-autosetup) - A small Unity tool to setup World Locked objects on avatars (SDK 3.0 at the moment)
-
-*   [vr-voyage/direct-model-importer-vrchat](https://github.com/vr-voyage/direct-model-importer-vrchat) - A prefab to recreate image-encoded 3D models inside VRChat
-
-*   [Foorack/UdonXML](https://github.com/Foorack/UdonXML) - UdonXML is an XML parser written in Udon for VRChat!
-
-*   [Asitir/UdonUI](https://github.com/Asitir/UdonUI) - Vrc Udon 的第三方UI编辑器
-
-*   [Thryrallo/VRC-Avatar-Performance-Tools](https://github.com/Thryrallo/VRC-Avatar-Performance-Tools) -
-
-*   [Sonic853/UdonVideoSubtitleReader](https://github.com/Sonic853/UdonVideoSubtitleReader) -
-
-*   [Sonic853/UdonLabToolkit](https://github.com/Sonic853/UdonLabToolkit) - 853's Udon Lab Toolkit(Made with UdonSharp)
-
-*   [UdonLab/UdonUrlLoader](https://github.com/UdonLab/UdonUrlLoader) -
-
-*   [VRLabs/World-Constraint](https://github.com/VRLabs/World-Constraint) - A world-fixed object, held in place with a constraint.
-
-*   [VRLabs/Follower](https://github.com/VRLabs/Follower) - A constraint-based follower.
-
-*   [vrm-c/UniVRM](https://github.com/vrm-c/UniVRM) - UniVRM is a gltf-based VRM format implementation for Unity. English is here https://vrm.dev/en/ . 日本語 はこちら https://vrm.dev/
-
-*   [Krysiek/CuteDancer](https://github.com/Krysiek/CuteDancer) - Unity package for VRChat avatars with animation of dances synchronized between players.
-
-*   [hypar-io/Elements](https://github.com/hypar-io/Elements) - The smallest useful BIM.
-
-*   [Varneon/VUdon-ArrayExtensions](https://github.com/Varneon/VUdon-ArrayExtensions) - Collection of array extension methods compatible with UdonSharp 1.x which adds partial feature set from List\<T>
-
-*   [UdonLab/UdonArrayPlus](https://github.com/UdonLab/UdonArrayPlus) -
-
-*   [hfcRed/Among-Us-Follower](https://github.com/hfcRed/Among-Us-Follower) - Among Us companion for your VRChat Avatar
-
-*   [Superbstingray/DistanceCullingMirrors](https://github.com/Superbstingray/DistanceCullingMirrors) - Udon script that exposes additional options for mirrors giving the ability to set distance based culling per layer functioning like an adjustable far clip distance.
-
-*   [devdotkuru/KuruTweak](https://github.com/devdotkuru/KuruTweak) - Allows you to quickly create and edit a config file for VRChat.
-
-*   [Pokeyi/VRC-Raycast-Laser](https://github.com/Pokeyi/VRC-Raycast-Laser) - Raycast laser renderer and point-plotter for VRChat.
-
-*   [Narazaka/AvatarMenuCreaterForMA](https://github.com/Narazaka/AvatarMenuCreaterForMA) - Easily create a VRChat avatar menu with modular avatars
-
-*   [RiskiVR/RiskiPlayer](https://github.com/RiskiVR/RiskiPlayer) - Simple and fancy video player for VRChat with an on-screen interface, and simplified layout.
-
-*   [blepmlem/VRChat-Expression-Utility](https://github.com/blepmlem/VRChat-Expression-Utility) - Create new expressions for your VRC avatar without doing all the tedious work! Skip the balancing act of handling parameters, layers, transitions, conditions, etc, and just make cool stuff!
-
-*   [rurre/PumkinsAvatarTools](https://github.com/rurre/PumkinsAvatarTools) - A toolbox for easily setting up VRChat avatars in Unity. Adds functionality to the editor and automates some of the tedious tasks.
-
-*   [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
-
-*   [arition/SubRenamer](https://github.com/arition/SubRenamer) - Rename subtitles for BDRip
-
-*   [BnuuySolutions/OculusKiller](https://github.com/BnuuySolutions/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
-
-*   [MerlinVR/USharpVideo](https://github.com/MerlinVR/USharpVideo) - A basic video player made for VRChat using Udon and UdonSharp
-
-*   [FACS01-01/VRC-Hotswap](https://github.com/FACS01-01/VRC-Hotswap) - Script for performing a Hotswap when uploading avatars to VRChat
-
-*   [Myrkie/VRCWLocalLoader](https://github.com/Myrkie/VRCWLocalLoader) - Locally load any VRChat World Bundle (VRCW) into your game.
-
-*   [Project-Zenith/ZPUK](https://github.com/Project-Zenith/ZPUK) - The Zenith Unity Kit: an addon for Unity3D.
-
-*   [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
-
-*   [FACS01-01/FACS\_Utilities](https://github.com/FACS01-01/FACS_Utilities) - Tools to help you edit and repair Unity/VRChat projects
-
-*   [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
-
-*   [AcChosen/VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting) - A collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets designed to emulate the real control, quality, and complexity of professional stage lighting into VRChat in as many ways as possible.
-
-*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 
 ## C
 
