@@ -1059,8 +1059,6 @@
 
 *   [11-check-it-out/KGnotes-demo](https://github.com/11-check-it-out/KGnotes-demo) - a obsidian demo vault of KG notes
 
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
-
 *   [fishyer/utools-plugin-wucai](https://github.com/fishyer/utools-plugin-wucai) -
 
 *   [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
@@ -1214,6 +1212,8 @@
 *   [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
 
 *   [trueai-org/grok](https://github.com/trueai-org/grok) - 使用 Deno 免费代理马斯克 Grok3，免登录，国内直连，不限地区/不限网络/不限设备，打开即用。
+
+*   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
 
 *   [fmaclen/hollama](https://github.com/fmaclen/hollama) - A minimal LLM chat app that runs entirely in your browser
 
@@ -1709,8 +1709,6 @@
 
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
-*   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
-
 *   [sooooooooooooooooootheby/Netease\_analyze](https://github.com/sooooooooooooooooootheby/Netease_analyze) - 这是一个网易云音乐无损解析站点
 
 *   [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。
@@ -1852,6 +1850,8 @@
 *   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 
 *   [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
 
 *   [Kieaer/Anti-Ripper](https://github.com/Kieaer/Anti-Ripper) - Detect Avatar ripper user using VRCX Database
 
