@@ -501,7 +501,7 @@
 
 *   [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG System"
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
@@ -647,7 +647,7 @@
 
 *   [iyzyi/hexo-docker-with-typecho2hexo](https://github.com/iyzyi/hexo-docker-with-typecho2hexo) - hexo-docker & typecho文章自动备份到hexo
 
-*   [Cooooldwind/163ListDownloader\_NexT](https://github.com/Cooooldwind/163ListDownloader_NexT) - 163ListDownloader的下一代。本仓库用于存储发行版本。
+*   [Cooooldwind/163ListDownloader\_NexT](https://github.com/Cooooldwind/163ListDownloader_NexT) - 163ListDownloader的下一代。本仓库用于存储发行版本。虽然但是你也弃坑拜拜。
 
 *   [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 
