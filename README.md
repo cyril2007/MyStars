@@ -1745,7 +1745,7 @@
 
 ## C++
 
-*   [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - 视觉小说翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator, support HOOK / OCR / Clipboard
+*   [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - 视觉小说翻译器 / Visual Novel Translator
 
 *   [M0rtale/QQSG-Hacker](https://github.com/M0rtale/QQSG-Hacker) - QQ三国读写机制，带D3D9绘制
 
