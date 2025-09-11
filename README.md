@@ -31,12 +31,12 @@
 *   [GDScript](#gdscript)
 *   [AutoHotkey](#autohotkey)
 *   [PHP](#php)
-*   [SCSS](#scss)
+*   [CSS](#css)
 *   [Batchfile](#batchfile)
 *   [ShaderLab](#shaderlab)
 *   [Lua](#lua)
 *   [Less](#less)
-*   [CSS](#css)
+*   [SCSS](#scss)
 *   [Dockerfile](#dockerfile)
 *   [QML](#qml)
 *   [AutoIt](#autoit)
@@ -2071,7 +2071,7 @@
 
 *   [niuhuan/pansy](https://github.com/niuhuan/pansy) - A illustration client. (PIXIV)
 
-*   [nightmare-space/code\_lfa](https://github.com/nightmare-space/code_lfa) - Implementation of the VS Code editor natively on Android.
+*   [nightmare-space/code\_lfa](https://github.com/nightmare-space/code_lfa) - Port VS Code to Android and support local operation
 
 ## GDScript
 
@@ -2127,11 +2127,21 @@
 
 *   [ledccn/IYUUAutoReseed](https://github.com/ledccn/IYUUAutoReseed) - IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持远程连接等。
 
-## SCSS
+## CSS
 
 *   [BoningtonChen/CherryStudio\_themes](https://github.com/BoningtonChen/CherryStudio_themes) - Custom Themes for Cherry Studio
 
-*   [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
+*   [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
+
+*   [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI. （该项目不再维护。）
+
+*   [L-M-Sherlock/SuperMemoTutorial](https://github.com/L-M-Sherlock/SuperMemoTutorial) - SuperMemo 渐进学习大型指北
+
+*   [L-M-Sherlock/AnkigaokaoTutorial](https://github.com/L-M-Sherlock/AnkigaokaoTutorial) - 一本结合高考的 Anki 入门书
+
+*   [d8349565/comic](https://github.com/d8349565/comic) -
+
+*   [straight-tamago/misaka](https://github.com/straight-tamago/misaka) -  iOS & tvOS customisation tool for KFD & MDC
 
 ## Batchfile
 
@@ -2195,19 +2205,9 @@
 
 *   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × ENHANCEMENT PLUGIN for Typora/Markdown.
 
-## CSS
+## SCSS
 
-*   [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
-
-*   [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI. （该项目不再维护。）
-
-*   [L-M-Sherlock/SuperMemoTutorial](https://github.com/L-M-Sherlock/SuperMemoTutorial) - SuperMemo 渐进学习大型指北
-
-*   [L-M-Sherlock/AnkigaokaoTutorial](https://github.com/L-M-Sherlock/AnkigaokaoTutorial) - 一本结合高考的 Anki 入门书
-
-*   [d8349565/comic](https://github.com/d8349565/comic) -
-
-*   [straight-tamago/misaka](https://github.com/straight-tamago/misaka) -  iOS & tvOS customisation tool for KFD & MDC
+*   [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 
 ## Dockerfile
 
