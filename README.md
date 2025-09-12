@@ -911,7 +911,7 @@
 
 *   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 
-*   [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐零门槛的3D桌面伴侣！支持接入QQ、B站直播、RAG、联网、长期记忆、 酒馆角色卡、代码沙盒、表情包、浏览器控制、Dify、 Home Assistant、MCP、A2A、Comfyui等功能！⭐ A 3D desktop companion with zero barriers! Supports integration with QQ, Bilibili live, RAG, web search, long-term memory, sillyTavern Card, code sandbox, meme packs, browser control, Home Assistant, Dify, MCP, A2A, ComfyUI, more!
+*   [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐零门槛的3D桌面伴侣！支持接入QQ、B站直播、RAG、联网、长期记忆、 酒馆角色卡、代码沙盒、表情包、浏览器控制、Dify、 Home Assistant、MCP、A2A、Comfyui、数字人口播等功能！⭐ A 3D desktop companion with zero barriers! Supports integration with QQ, Bilibili live, RAG, web search, long-term memory, sillyTavern Card, code sandbox, meme packs, browser control, HA, Dify, MCP, A2A, ComfyUI,Digital Human broadcast,more!
 
 *   [pollinations/pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
 
@@ -943,7 +943,7 @@
 
 *   [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 *   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
