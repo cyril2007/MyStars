@@ -646,8 +646,6 @@
 
 *   [JeffersonQin/lightnovel\_epub](https://github.com/JeffersonQin/lightnovel_epub) - 🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库
 
-*   [aidan-labs/stt-tts-agent](https://github.com/aidan-labs/stt-tts-agent) - Offline local AI voice agent using Ollama and LLMs.
-
 *   [mezbaul-h/june](https://github.com/mezbaul-h/june) - Local voice chatbot for engaging conversations, powered by Ollama, Hugging Face Transformers, and  Coqui TTS Toolkit
 
 *   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
@@ -1747,6 +1745,8 @@
 *   [ihengshuai/ktv-select\_music-system](https://github.com/ihengshuai/ktv-select_music-system) - KTV点歌系统,含后台管理系统(完整版)
 
 *   [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端
+
+*   [vrcx-team/VRCX](https://github.com/vrcx-team/VRCX) - Friendship management tool for VRChat
 
 ## C++
 
