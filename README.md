@@ -540,9 +540,9 @@
 
 *   [QwenLM/Qwen3-Embedding](https://github.com/QwenLM/Qwen3-Embedding) -
 
-*   [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG System"
+*   [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
@@ -592,7 +592,7 @@
 
 *   [AlfreScarlet/MoeChat](https://github.com/AlfreScarlet/MoeChat) - 一个超低延迟的基于GPT-SoVITS语音合成的语音交互系统
 
-*   [Xxiii8322766509/NagaAgent](https://github.com/Xxiii8322766509/NagaAgent) - 娜迦本地智能体，基于多智能体与多MCP兼容架构的通用型 AI 助手
+*   [Xxiii8322766509/NagaAgent](https://github.com/Xxiii8322766509/NagaAgent) - 娜迦本地智能体，基于博弈论多智能体与多MCP兼容架构的通用型 AI 助手
 
 *   [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 
