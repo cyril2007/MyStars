@@ -497,6 +497,8 @@
 
 *   [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 
+*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
+
 *   [lipku/LiveTalking](https://github.com/lipku/LiveTalking) - Real time interactive streaming digital human
 
 *   [Alpaca4610/nonebot\_plugin\_random\_reply](https://github.com/Alpaca4610/nonebot_plugin_random_reply) - 根据当前语境在群聊内随机攻击群友，基于LLM智能体和语境回复表情包，让bot拟人地参与群聊的轻量插件
@@ -913,8 +915,6 @@
 
 *   [LucunJi/kaiheila-musicbot](https://github.com/LucunJi/kaiheila-musicbot) - This bot plays music in your Kaiheila server channel! / 开黑啦点歌 & BGM 机器人
 
-*   [Well2333/SneakyBot](https://github.com/Well2333/SneakyBot) - 将QQ内收到的若干种类信息(如闪照)保存并对特定对象提示，用于划水的机器人，基于 NoneBot2 开发
-
 *   [Well2333/nonebot-plugin-bilichat](https://github.com/Well2333/nonebot-plugin-bilichat) - 一个废物写的屁用没有还一堆bug甚至不如停更三年的bot的垃圾项目罢了
 
 *   [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
@@ -1175,7 +1175,7 @@
 
 *   [Narratium/Narratium.ai](https://github.com/Narratium/Narratium.ai) - Open-source platform for AI-driven storytelling, worldbuilding, and immersive roleplay
 
-*   [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+*   [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 
 *   [nekohy/duck2api](https://github.com/nekohy/duck2api) - Duckduckgo to OpenAI API Proxy
 
@@ -1400,8 +1400,6 @@
 ## HTML
 
 *   [rebout7200/text2img](https://github.com/rebout7200/text2img) - 实现将 AI （例如：ChatGPT、Gemini、Grok等AI）生成的文本转换为图片
-
-*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 
 *   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
@@ -2050,6 +2048,8 @@
 *   [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 
 *   [nanchen2251/StudyForAndroid](https://github.com/nanchen2251/StudyForAndroid) - :fire: Study + Android + 学习资源 + 百科全书 + 持续更新干货
+
+*   [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 
 ## Markdown
 
