@@ -353,7 +353,7 @@
 
 *   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-*   [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
+*   [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ Very easy to use process form table chart solution. 很易用的流程 / 表单 / 表格 / 图表解决方案
 
 *   [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
 
@@ -1779,7 +1779,7 @@
 
 *   [keijiro/KlakSpout](https://github.com/keijiro/KlakSpout) - Spout plugin for Unity
 
-*   [SeriousCache/UABE](https://github.com/SeriousCache/UABE) - Asset Bundle Extractor
+*   [SeriousCache/UABE](https://github.com/SeriousCache/UABE) - Asset Bundle Extractor. No longer supported. Consider using https://github.com/nesrak1/UABEA
 
 *   [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
 
@@ -1861,7 +1861,7 @@
 
 *   [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 
 *   [Kieaer/Anti-Ripper](https://github.com/Kieaer/Anti-Ripper) - Detect Avatar ripper user using VRCX Database
 
