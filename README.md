@@ -779,7 +779,7 @@
 
 *   [MashiroSaber03/Saber-Translator](https://github.com/MashiroSaber03/Saber-Translator) - ✨ 一款小白也能轻松使用的漫画翻译工具，旨在帮助漫画爱好者轻松跨越语言障碍，畅享原汁原味的日文漫画。  利用先进的 AI 技术，智能检测漫画中的对话气泡，精准识别日文文本，并快速翻译成流畅自然的中文。  ✨ 无论是图片还是 PDF 格式的漫画，Saber-Translator 都能轻松应对，让你无压力阅读心爱的漫画作品。
 
-*   [eoao/cloud-mail](https://github.com/eoao/cloud-mail) - cloudflare email 邮箱  临时邮箱 邮件发送 mail
+*   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - cloudflare email 邮箱  临时邮箱 邮件发送 mail
 
 *   [xy2yp/StarGazer](https://github.com/xy2yp/StarGazer) - 一款开源、优雅、高效的 GitHub Stars 管理工具，于万千星辰中，点亮你的每一份收藏。 An Open-source, Elegant, and Efficient GitHub Stars Management Tool. Illuminating Every Treasure You've Collected.
 
@@ -965,8 +965,6 @@
 
 *   [xeokit/xeokit-bim-viewer](https://github.com/xeokit/xeokit-bim-viewer) - Built with xeokit SDK. IFC, BIM and Point Cloud 3D Viewer as a package. Enables AEC & GIS applications with double precision global coordinates.
 
-*   [xeokit/xeokit-sdk](https://github.com/xeokit/xeokit-sdk) - 3D BIM IFC Viewer SDK for AEC engineering applications. Open Source JavaScript Toolkit based on pure WebGL for top performance, real-world coordinates and full double precision
-
 *   [ThatOpen/web-ifc-three](https://github.com/ThatOpen/web-ifc-three) - The official IFC Loader for Three.js.
 
 *   [cesiumlab/XbsjEarthUI](https://github.com/cesiumlab/XbsjEarthUI) - XbsjEarthUI是基于Cesium和EarthSDK的三维GIS/BIM的UI模板，可以基于此定制自己的三维App
@@ -999,7 +997,7 @@
 
 *   [binbyu/Reader](https://github.com/binbyu/Reader) - A win32 txt file reader
 
-*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - A very useful timer (🍅Pomodoro Clock)
+*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - 💖A tiny (803KB) but mighty timer in pure C. Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%).
 
 *   [TanixLu/pyfuze](https://github.com/TanixLu/pyfuze) - Package Python projects into executables
 
@@ -1449,6 +1447,8 @@
 
 *   [lanbao2021/share](https://github.com/lanbao2021/share) - 分享蓝同学收集的软件资源、使用心得...
 
+*   [xeokit/xeokit-sdk](https://github.com/xeokit/xeokit-sdk) - 3D BIM IFC Viewer SDK for AEC engineering applications. Open Source JavaScript Toolkit based on pure WebGL for top performance, real-world coordinates and full double precision
+
 *   [VitexThorn/Anime-Avatar-Generating\_With-DCGAN](https://github.com/VitexThorn/Anime-Avatar-Generating_With-DCGAN) - 本科期间毕业设计项目，基于Pytorch框架，搭建DCGAN实现二次元头像自动生成系统，包括了前后端。水平有限，比较粗糙
 
 *   [mmyo456/template-package-listing](https://github.com/mmyo456/template-package-listing) - VCC 包列表模板存储库
@@ -1464,6 +1464,8 @@
 *   [lxc00215/claudia](https://github.com/lxc00215/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 
 *   [devdacian/ai-auditor-primers](https://github.com/devdacian/ai-auditor-primers) - Primers for Specialist AI Smart Contract Auditors
+
+*   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 
 *   [jixserver/free-for-dev](https://github.com/jixserver/free-for-dev) -  A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
@@ -1642,8 +1644,6 @@
 *   [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 
 *   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
-
-*   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 
 *   [AkimioJR/MediaWarp](https://github.com/AkimioJR/MediaWarp) - EmbyServer/Jellyfin 中间件：优化播放 Strm 文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，推荐配合AutoFilm使用
 
