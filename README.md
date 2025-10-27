@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
@@ -19,7 +20,6 @@
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
-*   [Vue](#vue)
 *   [C++](#c-2)
 *   [Shell](#shell)
 *   [Lua](#lua)
@@ -60,6 +60,54 @@
 *   [Objective-C](#objective-c-1)
 *   [Stylus](#stylus)
 *   [Clojure](#clojure)
+
+## Vue
+
+*   [DragonChenCL/ai-doctor](https://github.com/DragonChenCL/ai-doctor) - ai多医生会诊
+
+*   [devSlow/aigc](https://github.com/devSlow/aigc) -
+
+*   [Ryson-32/AI-Magnet-Assistant](https://github.com/Ryson-32/AI-Magnet-Assistant) - AI Magnet Assistant: Aggregates multi-engine magnet links with AI optimization for smart filtering and organization. AI磁力助手：聚合多引擎磁力链接，AI优化搜索结果，智能筛选和整理。
+
+*   [Coooolfan/UniBoard](https://github.com/Coooolfan/UniBoard) - 个人介绍，导航页、笔记、短链、文件分享、探针，私有化部署。Profile、Note、ShortURL、FileSharing、probeMonitor…… with self-host
+
+*   [LuSrackhall/KeyTone](https://github.com/LuSrackhall/KeyTone) - KeyTone is a software with Go as its core, capable of simulating the sound of key presses in real-time. 「KeyTone 是一款以golang为核心的软件，可以实时模拟按键敲击的声音。」
+
+*   [synctv-org/synctv-web](https://github.com/synctv-org/synctv-web) - Provides a Web UI for SyncTV
+
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+
+*   [sooooooooooooooooootheby/Netease\_analyze](https://github.com/sooooooooooooooooootheby/Netease_analyze) - 这是一个网易云音乐无损解析站点
+
+*   [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。
+
+*   [tonera/fluxsd](https://github.com/tonera/fluxsd) - Open source image and text AIGC system
+
+*   [yangjian102621/geekai](https://github.com/yangjian102621/geekai) - AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。
+
+*   [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
+
+*   [eeg1412/wikimoeNodeJSBlog](https://github.com/eeg1412/wikimoeNodeJSBlog) - 猛男自用博客系统，基于nodejs，mongodb，nuxt3
+
+*   [Misaka-L/messages-board](https://github.com/Misaka-L/messages-board) - Messages board
+
+*   [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
+
+*   [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) - Mobile application for Audiobookshelf
+
+*   [Bernankez/BilibiliFans](https://github.com/Bernankez/BilibiliFans) - A tool making bilibili fans card.
+
+*   [sahadev/vue-component-creater-ui](https://github.com/sahadev/vue-component-creater-ui) - 拖拽式Vue组件代码生成编辑器（VCC）
+
+*   [vrcd-community/vpm-repos-syncronizer-web](https://github.com/vrcd-community/vpm-repos-syncronizer-web) - The fronend for VPMReposSyncronizer
+
+*   [XiangZi7/GlassMusicPlayer](https://github.com/XiangZi7/GlassMusicPlayer) - 简约风 高颜值 毛玻璃 Vue Player Music
+
+*   [maomao1996/Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵 基于 Vue 的在线音乐播放器 Online music player
+
+*   [ihengshuai/ktv-select\_music-system](https://github.com/ihengshuai/ktv-select_music-system) - KTV点歌系统,含后台管理系统(完整版)
+
+*   [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端
 
 ## JavaScript
 
@@ -303,7 +351,7 @@
 
 *   [biliup/biliup-app](https://github.com/biliup/biliup-app) - b站全平台投稿客户端，支持多p投稿，稿件编辑
 
-*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 
 *   [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 
@@ -687,7 +735,7 @@
 
 *   [AlfreScarlet/MoeChat](https://github.com/AlfreScarlet/MoeChat) - 一个超低延迟的基于GPT-SoVITS语音合成的语音交互系统
 
-*   [Xxiii8322766509/NagaAgent](https://github.com/Xxiii8322766509/NagaAgent) - 娜迦本地智能体，基于博弈论多智能体与多MCP兼容架构的通用型 AI 助手
+*   [Xxiii8322766509/NagaAgent](https://github.com/Xxiii8322766509/NagaAgent) - A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration.
 
 *   [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 
@@ -1669,8 +1717,6 @@
 
 *   [Sonic853/VRChat-Creator-Companion-zh-CN](https://github.com/Sonic853/VRChat-Creator-Companion-zh-CN) - VCC 界面文本汉化包
 
-*   [Pawdroid/shadowrocket\_for\_android](https://github.com/Pawdroid/shadowrocket_for_android) - A V2Ray client for Android, builtin lots of available servers, 安卓小火箭官方库，内置大量免费节点，欢迎下载体验。
-
 ## Go
 
 *   [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
@@ -1746,52 +1792,6 @@
 *   [jsopn/vrc-lyrics](https://github.com/jsopn/vrc-lyrics) - Display the track and its lyrics in a VRChat's chatbox using the OSC
 
 *   [synctv-org/synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video
-
-## Vue
-
-*   [devSlow/aigc](https://github.com/devSlow/aigc) -
-
-*   [Ryson-32/AI-Magnet-Assistant](https://github.com/Ryson-32/AI-Magnet-Assistant) - AI Magnet Assistant: Aggregates multi-engine magnet links with AI optimization for smart filtering and organization. AI磁力助手：聚合多引擎磁力链接，AI优化搜索结果，智能筛选和整理。
-
-*   [Coooolfan/UniBoard](https://github.com/Coooolfan/UniBoard) - 个人介绍，导航页、笔记、短链、文件分享、探针，私有化部署。Profile、Note、ShortURL、FileSharing、probeMonitor…… with self-host
-
-*   [LuSrackhall/KeyTone](https://github.com/LuSrackhall/KeyTone) - KeyTone is a software with Go as its core, capable of simulating the sound of key presses in real-time. 「KeyTone 是一款以golang为核心的软件，可以实时模拟按键敲击的声音。」
-
-*   [synctv-org/synctv-web](https://github.com/synctv-org/synctv-web) - Provides a Web UI for SyncTV
-
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-
-*   [sooooooooooooooooootheby/Netease\_analyze](https://github.com/sooooooooooooooooootheby/Netease_analyze) - 这是一个网易云音乐无损解析站点
-
-*   [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。
-
-*   [tonera/fluxsd](https://github.com/tonera/fluxsd) - Open source image and text AIGC system
-
-*   [yangjian102621/geekai](https://github.com/yangjian102621/geekai) - AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。
-
-*   [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
-
-*   [eeg1412/wikimoeNodeJSBlog](https://github.com/eeg1412/wikimoeNodeJSBlog) - 猛男自用博客系统，基于nodejs，mongodb，nuxt3
-
-*   [Misaka-L/messages-board](https://github.com/Misaka-L/messages-board) - Messages board
-
-*   [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
-
-*   [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) - Mobile application for Audiobookshelf
-
-*   [Bernankez/BilibiliFans](https://github.com/Bernankez/BilibiliFans) - A tool making bilibili fans card.
-
-*   [sahadev/vue-component-creater-ui](https://github.com/sahadev/vue-component-creater-ui) - 拖拽式Vue组件代码生成编辑器（VCC）
-
-*   [vrcd-community/vpm-repos-syncronizer-web](https://github.com/vrcd-community/vpm-repos-syncronizer-web) - The fronend for VPMReposSyncronizer
-
-*   [XiangZi7/GlassMusicPlayer](https://github.com/XiangZi7/GlassMusicPlayer) - 简约风 高颜值 毛玻璃 Vue Player Music
-
-*   [maomao1996/Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵 基于 Vue 的在线音乐播放器 Online music player
-
-*   [ihengshuai/ktv-select\_music-system](https://github.com/ihengshuai/ktv-select_music-system) - KTV点歌系统,含后台管理系统(完整版)
-
-*   [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端
 
 ## C++
 
