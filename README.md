@@ -263,6 +263,8 @@
 
 *   [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
 
+*   [Wangxs404/video2ppt](https://github.com/Wangxs404/video2ppt) - Convert videos to Slides, including local, online videos, screen recording.
+
 *   [likilu2002/IPTV](https://github.com/likilu2002/IPTV) - 📺IPTV电视直播，IPv6源\[全网可用]，完善的台标，几近完美的EPG节目预告🎈\[强迫症福音]
 
 *   [droidrun/droidrun](https://github.com/droidrun/droidrun) -
@@ -953,8 +955,6 @@
 
 *   [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react-native.
 
-*   [Wangxs404/video2ppt](https://github.com/Wangxs404/video2ppt) - Convert videos to Slides, including local, online videos, screen recording.
-
 *   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1543,7 +1543,7 @@
 
 *   [mmyo456/template-package-listing](https://github.com/mmyo456/template-package-listing) - VCC 包列表模板存储库
 
-*   [mmyo456/events-calendar](https://github.com/mmyo456/events-calendar) -
+*   [gugudiary/events-calendar](https://github.com/gugudiary/events-calendar) -
 
 ## miscellaneous
 
@@ -2073,7 +2073,7 @@
 
 ## Dart
 
-*   [funnycups/petto](https://github.com/funnycups/petto) - An AIPet made for Live2DViewerEX
+*   [funnycups/petto](https://github.com/funnycups/petto) - An intelligent Live2D desktop assistant
 
 *   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
