@@ -407,7 +407,7 @@
 
 *   [lgc-NB2Dev/nonebot-plugin-pjsk](https://github.com/lgc-NB2Dev/nonebot-plugin-pjsk) - Project Sekai 表情包制作
 
-*   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.视频翻译/语音转录/字幕配音工具
+*   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.
 
 *   [dannylty/holoscrape](https://github.com/dannylty/holoscrape) - Scraper and Visualiser for YouTube Livestream Chat
 
