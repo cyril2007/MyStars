@@ -211,8 +211,6 @@
 
 *   [madjin/awesome-vrchat](https://github.com/madjin/awesome-vrchat) - One-stop shop for people interested in developing content for VRchat
 
-*   [eeacks/VRChat-MapDumps](https://github.com/eeacks/VRChat-MapDumps) - UdonSharp dump of maps
-
 *   [guygodin/VirtualDesktop](https://github.com/guygodin/VirtualDesktop) - Connect wirelessly to your computer(s) to watch movies, browse the web, play games on a giant virtual screen or stream PCVR games. Virtual Desktop is a highly optimized, native application developed for low latency, high quality streaming.
 
 *   [michaelliao/learn-python3](https://github.com/michaelliao/learn-python3) - Learn Python 3 Sample Code
@@ -1091,7 +1089,7 @@
 
 ## TypeScript
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 一个用于管理和切换 Claude Code 和 Codex 不同供应商配置的桌面应用
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop app for managing and switching provider configurations & MCP servers for Claude Code and Codex.
 
 *   [TigerHix/komu](https://github.com/TigerHix/komu) - A kawaii self-hosted manga reader for Japanese learners!
 
@@ -1740,6 +1738,8 @@
 *   [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
 
 *   [FACS01-01/FACS\_Utilities](https://github.com/FACS01-01/FACS_Utilities) - Tools to help you edit and repair Unity/VRChat projects
+
+*   [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 
 ## ActionScript
 
