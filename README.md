@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Dockerfile](#dockerfile)
@@ -21,7 +22,6 @@
 *   [C#](#c-2)
 *   [ActionScript](#actionscript)
 *   [HTML](#html)
-*   [Go](#go)
 *   [Shell](#shell)
 *   [Lua](#lua)
 *   [Swift](#swift)
@@ -61,7 +61,91 @@
 *   [Stylus](#stylus)
 *   [Clojure](#clojure)
 
+## Go
+
+*   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
+
+*   [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
+
+*   [Veloera/Veloera](https://github.com/Veloera/Veloera) -
+
+*   [ca-x/ccany](https://github.com/ca-x/ccany) - Proxy Claude Code to Any Open API
+
+*   [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
+
+*   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
+
+*   [AkimioJR/MediaWarp](https://github.com/AkimioJR/MediaWarp) - EmbyServer/Jellyfin 中间件：优化播放 Strm 文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，推荐配合AutoFilm使用
+
+*   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
+
+*   [chengxue2020/feiyang-IPTV-org](https://github.com/chengxue2020/feiyang-IPTV-org) - 肥羊的4K/8K超高清IPTV直播源&&直播代码仓库
+
+*   [fruitbars/simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deployment.
+
+*   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
+
+*   [BlueSkyXN-Backup/alist](https://github.com/BlueSkyXN-Backup/alist) - Alist-3.40.0
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+
+*   [tinkernels/zerossl-ip-cert](https://github.com/tinkernels/zerossl-ip-cert) - Automation tool for issuing ZeroSSL IP certificates
+
+*   [lwabish/typecho-api](https://github.com/lwabish/typecho-api) - 为typecho增加api支持;一键从typora发布到typecho
+
+*   [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配
+
+*   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
+
+*   [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
+
+*   [mindoc-org/mindoc-daemon](https://github.com/mindoc-org/mindoc-daemon) - daemon for mindoc
+
+*   [mindoc-org/mindoc](https://github.com/mindoc-org/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
+
+*   [TruthHun/BookStack](https://github.com/TruthHun/BookStack) - BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。
+
+*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+
+*   [msterzhang/onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
+
+*   [thshu/onelist](https://github.com/thshu/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
+
+*   [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
+
+*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
+
+*   [hoppscotch/hopp-cli](https://github.com/hoppscotch/hopp-cli) - 🤖 HTTP CLI client for https://hoppscotch.io
+
+*   [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
+
+*   [mzky/m4s-converter](https://github.com/mzky/m4s-converter) - 一个跨平台小工具，将bilibili缓存的m4s格式音视频文件合并成mp4
+
+*   [nxtrace/NTrace-V1](https://github.com/nxtrace/NTrace-V1) - NextTrace Dev
+
+*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+
+*   [onlyLTY/dockerCopilot](https://github.com/onlyLTY/dockerCopilot) - 一键更新容器
+
+*   [onlyLTY/dockerCopilotZspace](https://github.com/onlyLTY/dockerCopilotZspace) - dc的极空间版本，因为和ugreen差别越来越大。所以分开仓库
+
+*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+*   [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway
+
+*   [disingn/sunotoapi](https://github.com/disingn/sunotoapi) - 将 sunoAi web转成 openai 格式进行调用
+
+*   [jsopn/vrc-lyrics](https://github.com/jsopn/vrc-lyrics) - Display the track and its lyrics in a VRChat's chatbox using the OSC
+
+*   [synctv-org/synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video
+
 ## TypeScript
+
+*   [Stardm0/MoonTV](https://github.com/Stardm0/MoonTV) - 🎬 MoonTV 是一个开箱即用的、跨平台的影视聚合播放器。本项目现基于2.0.1开始自行维护更新(提醒： cloudflare部署有封pages的风险)
+
+*   [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 【停止更新】本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
+
+*   [samqin123/MoonTV](https://github.com/samqin123/MoonTV) -
 
 *   [QiaoKes/fntv-electron](https://github.com/QiaoKes/fntv-electron) - 飞牛影视PC版 electron封装
 
@@ -467,7 +551,7 @@
 
 *   [AkimioJR/AutoFilm](https://github.com/AkimioJR/AutoFilm) - 一个为Emby、Jellyfin提供服务的小工具：生成strm、动漫追番、绘制媒体库海报
 
-*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
+*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多消息平台（QQ, Telegram, 企微, 飞书, 钉钉等）集成，易用的插件系统，支持接入 OpenAI, Gemini, Anthropic, Dify, Coze, 阿里云百炼应用等平台，内置知识库、Agent 智能体
 
 *   [OmniSVG/OmniSVG](https://github.com/OmniSVG/OmniSVG) - \[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters.
 
@@ -785,8 +869,6 @@
 
 *   [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 
-*   [mezum/vrcwatch](https://github.com/mezum/vrcwatch) - Supply the local time to VRChat as Avatar Parameters through OSC.
-
 ## Dockerfile
 
 *   [wy580477/musicn-container](https://github.com/wy580477/musicn-container) - 播放及下载音乐工具 musicn 容器
@@ -929,7 +1011,7 @@
 
 *   [Quorafind/Obsidian-Thino](https://github.com/Quorafind/Obsidian-Thino) - A quick capture plugin for Obsidian, all data from your notes.
 
-*   [teamneoneko/Cats-Blender-Plugin-Unofficial-](https://github.com/teamneoneko/Cats-Blender-Plugin-Unofficial-) - A continuation of the Cats Blender Plugin which is tool designed to shorten steps needed to import and optimize models into VRChat. Compatible models are: MMD, XNALara, Mixamo, DAZ/Poser, Blender Rigify, Sims 2, Motion Builder, 3DS Max and potentially more, originally by absolute-quantum. Not Official.
+*   [teamneoneko/Cats-Blender-Plugin](https://github.com/teamneoneko/Cats-Blender-Plugin) - A continuation of the Cats Blender Plugin which is tool designed to shorten steps needed to import and optimize models into VRChat. Compatible models are: MMD, XNALara, Mixamo, DAZ/Poser, Blender Rigify, Sims 2, Motion Builder, 3DS Max and potentially more, originally by absolute-quantum.
 
 *   [AcChosen/Club-Orion](https://github.com/AcChosen/Club-Orion) -
 
@@ -1749,10 +1831,6 @@
 
 *   [MerlinVR/USharpVideo](https://github.com/MerlinVR/USharpVideo) - A basic video player made for VRChat using Udon and UdonSharp
 
-*   [FACS01-01/VRC-Hotswap](https://github.com/FACS01-01/VRC-Hotswap) - Script for performing a Hotswap when uploading avatars to VRChat
-
-*   [Myrkie/VRCWLocalLoader](https://github.com/Myrkie/VRCWLocalLoader) - Locally load any VRChat World Bundle (VRCW) into your game.
-
 ## ActionScript
 
 *   [FerryYoungFan/VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) - 一只蟑螂桌面“宠物” Cockroach Desktop "Pet"
@@ -1804,82 +1882,6 @@
 *   [mmyo456/template-package-listing](https://github.com/mmyo456/template-package-listing) - VCC 包列表模板存储库
 
 *   [gugudiary/events-calendar](https://github.com/gugudiary/events-calendar) -
-
-## Go
-
-*   [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
-
-*   [Veloera/Veloera](https://github.com/Veloera/Veloera) -
-
-*   [ca-x/ccany](https://github.com/ca-x/ccany) - Proxy Claude Code to Any Open API
-
-*   [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
-
-*   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
-
-*   [AkimioJR/MediaWarp](https://github.com/AkimioJR/MediaWarp) - EmbyServer/Jellyfin 中间件：优化播放 Strm 文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，推荐配合AutoFilm使用
-
-*   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
-
-*   [chengxue2020/feiyang-IPTV-org](https://github.com/chengxue2020/feiyang-IPTV-org) - 肥羊的4K/8K超高清IPTV直播源&&直播代码仓库
-
-*   [fruitbars/simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deployment.
-
-*   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
-
-*   [BlueSkyXN-Backup/alist](https://github.com/BlueSkyXN-Backup/alist) - Alist-3.40.0
-
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
-
-*   [tinkernels/zerossl-ip-cert](https://github.com/tinkernels/zerossl-ip-cert) - Automation tool for issuing ZeroSSL IP certificates
-
-*   [lwabish/typecho-api](https://github.com/lwabish/typecho-api) - 为typecho增加api支持;一键从typora发布到typecho
-
-*   [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配
-
-*   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
-
-*   [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-
-*   [mindoc-org/mindoc-daemon](https://github.com/mindoc-org/mindoc-daemon) - daemon for mindoc
-
-*   [mindoc-org/mindoc](https://github.com/mindoc-org/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
-
-*   [TruthHun/BookStack](https://github.com/TruthHun/BookStack) - BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。
-
-*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
-
-*   [msterzhang/onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
-
-*   [thshu/onelist](https://github.com/thshu/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
-
-*   [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
-
-*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
-
-*   [hoppscotch/hopp-cli](https://github.com/hoppscotch/hopp-cli) - 🤖 HTTP CLI client for https://hoppscotch.io
-
-*   [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
-
-*   [mzky/m4s-converter](https://github.com/mzky/m4s-converter) - 一个跨平台小工具，将bilibili缓存的m4s格式音视频文件合并成mp4
-
-*   [nxtrace/NTrace-V1](https://github.com/nxtrace/NTrace-V1) - NextTrace Dev
-
-*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-
-*   [onlyLTY/dockerCopilot](https://github.com/onlyLTY/dockerCopilot) - 一键更新容器
-
-*   [onlyLTY/dockerCopilotZspace](https://github.com/onlyLTY/dockerCopilotZspace) - dc的极空间版本，因为和ugreen差别越来越大。所以分开仓库
-
-*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-*   [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway
-
-*   [disingn/sunotoapi](https://github.com/disingn/sunotoapi) - 将 sunoAi web转成 openai 格式进行调用
-
-*   [jsopn/vrc-lyrics](https://github.com/jsopn/vrc-lyrics) - Display the track and its lyrics in a VRChat's chatbox using the OSC
-
-*   [synctv-org/synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video
 
 ## Shell
 
@@ -2334,8 +2336,6 @@
 *   [mhgar/ReShade-Magnifier](https://github.com/mhgar/ReShade-Magnifier) - A magnifier for ReShade that allows you to have magnifiers of different shapes, sizes and positions.
 
 *   [keijiro/UnityAnime4K](https://github.com/keijiro/UnityAnime4K) - Anime4K upscaler for Unity
-
-*   [robobo1221/VRChatVolumetricLight](https://github.com/robobo1221/VRChatVolumetricLight) -
 
 ## Makefile
 
