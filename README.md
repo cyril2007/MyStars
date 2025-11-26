@@ -1792,8 +1792,6 @@
 
 *   [duduRodrigues/UnityRTGI](https://github.com/duduRodrigues/UnityRTGI) - A real-time geometry importer for Unity Engine
 
-*   [MochiesCode/Mochies-Unity-Shaders](https://github.com/MochiesCode/Mochies-Unity-Shaders) -
-
 *   [niwaniwa/KineLVideoPlayer](https://github.com/niwaniwa/KineLVideoPlayer) - KineLVideoPlayer
 
 *   [Thryrallo/ThryEditor](https://github.com/Thryrallo/ThryEditor) - General Unity Shader Inspector/Editor with focus on vrchat
@@ -2335,6 +2333,8 @@
 *   [orels1/orels-Unity-Shaders](https://github.com/orels1/orels-Unity-Shaders) - A collection of practical Unity shaders for your next project
 
 *   [hyblocker/hekky-shaders](https://github.com/hyblocker/hekky-shaders) - Free version of Hekky's Shaders
+
+*   [MochiesCode/Mochies-Unity-Shaders](https://github.com/MochiesCode/Mochies-Unity-Shaders) -
 
 *   [mhgar/ReShade-Magnifier](https://github.com/mhgar/ReShade-Magnifier) - A magnifier for ReShade that allows you to have magnifiers of different shapes, sizes and positions.
 
