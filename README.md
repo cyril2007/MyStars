@@ -1940,7 +1940,7 @@
 
 *   [wukongdaily/diy-nas-onescript](https://github.com/wukongdaily/diy-nas-onescript) - 这是一个适用于在深度系统/debian桌面系统上部署nas常用软件的脚本。快速安装必备软件，虚拟机、硬盘直通。适合办公和轻NAS二合一的场景。
 
-*   [DDS-Derek/MoviePilot](https://github.com/DDS-Derek/MoviePilot) - NAS媒体库自动化管理工具
+*   [DDSRem-Dev/MoviePilot](https://github.com/DDSRem-Dev/MoviePilot) - NAS媒体库自动化管理工具
 
 ## Lua
 
