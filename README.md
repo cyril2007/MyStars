@@ -326,8 +326,6 @@
 
 *   [cyril2007/docker-biliproapi-1](https://github.com/cyril2007/docker-biliproapi-1) - B站视频解析docker一键部署
 
-*   [MashiroSaber03/Saber-Translator](https://github.com/MashiroSaber03/Saber-Translator) - ✨ 一款小白也能轻松使用的漫画翻译工具，旨在帮助漫画爱好者轻松跨越语言障碍，畅享原汁原味的日文漫画。  利用先进的 AI 技术，智能检测漫画中的对话气泡，精准识别日文文本，并快速翻译成流畅自然的中文。  ✨ 无论是图片还是 PDF 格式的漫画，Saber-Translator 都能轻松应对，让你无压力阅读心爱的漫画作品。
-
 *   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - cloudflare email 邮箱  临时邮箱 邮件发送 mail
 
 *   [xy2yp/StarGazer](https://github.com/xy2yp/StarGazer) - 一款开源、优雅、高效的 GitHub Stars 管理工具，于万千星辰中，点亮你的每一份收藏。 An Open-source, Elegant, and Efficient GitHub Stars Management Tool. Illuminating Every Treasure You've Collected.
@@ -342,7 +340,7 @@
 
 *   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 
-*   [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐无处不在的AI桌面女友！可接入QQ、飞书、telegram、discord、b站、YouTube、twitch、Dify、 Home Assistant、MCP、A2A、Comfyui、酒馆角色卡、浏览器等生态！⭐ AI Desktop Girlfriend Everywhere! Compatible with QQ, Feishu, Telegram, Discord, Bilibili, YouTube, Twitch, Dify, Home Assistant, MCP, A2A, ComfyUI, Tavern Character Cards, browsers, and more ecosystems!
+*   [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐无处不在的AI桌面女友！可接入QQ、飞书、telegram、discord、b站、YouTube、twitch、Dify、 Home Assistant、MCP、A2A、Comfyui、酒馆角色卡、Cluade code等生态！⭐ AI Desktop Girlfriend Everywhere! Compatible with QQ, Feishu, Telegram, Discord, Bilibili, YouTube, Twitch, Dify, Home Assistant, MCP, A2A, ComfyUI, Tavern Character Cards, Cluade code, and more ecosystems!
 
 *   [pollinations/pollinations](https://github.com/pollinations/pollinations) - Your Friendly Open-Source Gen-AI Platform
 
@@ -1189,6 +1187,8 @@
 ## miscellaneous
 
 *   [jh10001/ONScripter-Jh](https://github.com/jh10001/ONScripter-Jh) -
+
+*   [MashiroSaber03/Saber-Translator](https://github.com/MashiroSaber03/Saber-Translator) - ✨ 一款小白也能轻松使用的漫画翻译工具，旨在帮助漫画爱好者轻松跨越语言障碍，畅享原汁原味的日文漫画。  利用先进的 AI 技术，智能检测漫画中的对话气泡，精准识别日文文本，并快速翻译成流畅自然的中文。  ✨ 无论是图片还是 PDF 格式的漫画，Saber-Translator 都能轻松应对，让你无压力阅读心爱的漫画作品。
 
 *   [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents) - An orchestrated sub agent dev team powered by claude code
 
