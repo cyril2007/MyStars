@@ -8,9 +8,11 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
+*   [miscellaneous](#miscellaneous)
+*   [Rich Text Format](#rich-text-format)
 *   [Python](#python)
 *   [C](#c)
-*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
@@ -24,7 +26,6 @@
 *   [ActionScript](#actionscript)
 *   [Shell](#shell)
 *   [Lua](#lua)
-*   [Swift](#swift)
 *   [Zig](#zig)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [ShaderLab](#shaderlab)
@@ -61,6 +62,194 @@
 *   [Objective-C](#objective-c-1)
 *   [Stylus](#stylus)
 *   [Clojure](#clojure)
+
+## Swift
+
+*   [OpenIntelWireless/HeliPort](https://github.com/OpenIntelWireless/HeliPort) - Intel Wi-Fi Client for itlwm
+
+*   [Sjj1024/PakePlus-iOS](https://github.com/Sjj1024/PakePlus-iOS) - Turn any webpage/Vue/React and so on into desktop and mobile app with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app/
+
+*   [alvr-org/alvr-visionos](https://github.com/alvr-org/alvr-visionos) - Experimental visionOS client for ALVR - SteamVR on Apple Vision Pro!
+
+*   [alexwidua/zoom-motion-blur](https://github.com/alexwidua/zoom-motion-blur) - motion blur shader built using swiftui and metal
+
+*   [michaellee123/EasyShare](https://github.com/michaellee123/EasyShare) - Easy Share File From Mac To Every Devices
+
+*   [EhPanda-Team/EhPanda](https://github.com/EhPanda-Team/EhPanda) - An unofficial E-Hentai App for iOS built with SwiftUI & TCA.
+
+## miscellaneous
+
+*   [XStar-Dev/HP\_OMEN-2Pro\_Hackintosh](https://github.com/XStar-Dev/HP_OMEN-2Pro_Hackintosh) - Hackintosh EFI For HP OMEN 2Pro (15-ax200 Laptop Series)
+
+*   [ljsy20009/OMEN-HP-Laptop-2](https://github.com/ljsy20009/OMEN-HP-Laptop-2) - 惠普暗影精灵2 EFI（i5+6300HD+530HD+GTX960+ALC295）
+
+*   [Arecall/OMEN-by-HP-Laptop-2](https://github.com/Arecall/OMEN-by-HP-Laptop-2) - 惠普暗影精灵2黑苹果EFI引导，完整度已达到98%。可能不同的机器会出现兼容问题，希望你能有一定的动手能力。
+
+*   [jh10001/ONScripter-Jh](https://github.com/jh10001/ONScripter-Jh) -
+
+*   [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents) - An orchestrated sub agent dev team powered by claude code
+
+*   [OpenBuddy/OpenBuddy](https://github.com/OpenBuddy/OpenBuddy) - Open Multilingual Chatbot for Everyone
+
+*   [lxc00215/claudia](https://github.com/lxc00215/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+
+*   [devdacian/ai-auditor-primers](https://github.com/devdacian/ai-auditor-primers) - Primers for Specialist AI Smart Contract Auditors
+
+*   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
+
+*   [jixserver/free-for-dev](https://github.com/jixserver/free-for-dev) -  A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [RaiDrive/RaiDrive.Translation](https://github.com/RaiDrive/RaiDrive.Translation) - RaiDrive Translation
+
+*   [xgit01/sgkrank](https://github.com/xgit01/sgkrank) - 2024最新免费社工库排行
+
+*   [XihOfFy/FYSG\_Pub](https://github.com/XihOfFy/FYSG_Pub) - 封叶三国
+
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+
+*   [HoloISO/releases](https://github.com/HoloISO/releases) - To whom shall install
+
+*   [tesseract-ocr/tessdata\_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
+
+*   [tesseract-ocr/tessdata\_fast](https://github.com/tesseract-ocr/tessdata_fast) - Fast integer versions of trained LSTM models
+
+*   [nonwill/GoldenDict-OCR](https://github.com/nonwill/GoldenDict-OCR) - GoldenDict++: Optimizations for faster dictionary loading and searching, even with large dictionary collections.  OCR integration for text recognition, enhanced media playback, and more robust full-text search capabilities.
+
+*   [Axlax336/Iptv\_m3u](https://github.com/Axlax336/Iptv_m3u) - 仓库不定期更新。
+
+*   [CMBill/lxgw-wenkai-screen-web](https://github.com/CMBill/lxgw-wenkai-screen-web) - LXGW WenKai Screen / 霞鹜文楷屏幕阅读版 网络字体仓库
+
+*   [sooooooooooooooooootheby/NeteaseCloudMusicApi](https://github.com/sooooooooooooooooootheby/NeteaseCloudMusicApi) - Binaryify/NeteaseCloudMusicApi
+
+*   [eeacks/ToNSaveGenerator](https://github.com/eeacks/ToNSaveGenerator) - Save Generator for Terrors of Nowhere ( online: https://ton.eeacks.cc )
+
+*   [din4e/DifyDSL4RedTeam](https://github.com/din4e/DifyDSL4RedTeam) - 收集一些红队 Dify Workflow。
+
+*   [Winson-030/dify-DSL](https://github.com/Winson-030/dify-DSL) - dify DSL files collections
+
+*   [aircrushin/awesome-dify-workflow](https://github.com/aircrushin/awesome-dify-workflow) - awesome-dify-workflow as DSL file
+
+*   [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
+
+*   [zhangnanchao/ChatTTS\_colab](https://github.com/zhangnanchao/ChatTTS_colab) - 🚀 一键部署！基于 ChatTTS ，支持音色抽卡、长音频生成和分角色朗读。简单易用，无需复杂安装。
+
+*   [zhangnanchao/Deep-Live-Cam](https://github.com/zhangnanchao/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+*   [zhangnanchao/VideoChat](https://github.com/zhangnanchao/VideoChat) - 实时语音交互数字人，支持端到端语音方案（GLM-4-Voice - THG）和级联方案（ASR-LLM-TTS-THG）。可自定义形象与音色，无须训练，支持音色克隆，首包延迟低至3s。Real-time voice interactive digital human, supporting end-to-end voice solutions (GLM-4-Voice - THG) and cascaded solutions (ASR-LLM-TTS-THG). Customizable appearance and voice, supporting voice cloning, with initial package delay as low as 3s.
+
+*   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+
+*   [zhaoyun0071/roop-windows-GUI](https://github.com/zhaoyun0071/roop-windows-GUI) - 什么环境不用配置，解压直接用的roop换脸工具
+
+*   [Keldos-Li/typora-latex-theme-fonts](https://github.com/Keldos-Li/typora-latex-theme-fonts) -
+
+*   [SBCV/Bookstack-Windows-Docker-Desktop](https://github.com/SBCV/Bookstack-Windows-Docker-Desktop) - Tutorial to run Bookstack under Windows using Docker Desktop
+
+*   [star0319/docker-easyconnect](https://github.com/star0319/docker-easyconnect) - # 在linux（centos）上使用VPN翻墙进校内  ### 通过将运行在 docker 的 深信服（Sangfor）非自由的代理软件 EasyConnect 作为网关 并添加路由表 实现资源访问
+
+*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
+
+*   [vrchat-community/creator-docs](https://github.com/vrchat-community/creator-docs) -
+
+*   [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
+
+*   [langgptai/wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
+
+*   [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
+
+*   [vcb-s/guides](https://github.com/vcb-s/guides) - VCB-Studio 公开教程（新版）
+
+*   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
+
+*   [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) - :books: 极客时间电子书
+
+*   [luolin-ai/Dify-Enterprise-WeChat-bot](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot) - 基于Dify的企业微信知识库机器人，基于企微gpt知识库的bot机器人，能够自动回复企业微信中收到的消息。这个机器人能够处理私聊和群聊，还可以记住与用户的聊天内容，从而做出更加贴合上下文的回应。此外，您还可以设置白名单来控制机器人与哪些用户或群组交互。如需自己dify网站版的机器人
+
+*   [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
+
+*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
+
+*   [overmind1980/oeasy\_history](https://github.com/overmind1980/oeasy_history) - 各种历史的搜集与整理
+
+*   [overmind1980/oeasy-postgres-tutorial](https://github.com/overmind1980/oeasy-postgres-tutorial) - 实验楼地址https://www.lanqiao.cn/courses/2782 ，邀请码CHD6PJZ1，从零开始带您玩转数据库
+
+*   [diana7127/mpv.net-DW](https://github.com/diana7127/mpv.net-DW) - mpv.net\_CM的DW版本，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器
+
+*   [hooke007/mpv.net\_CM](https://github.com/hooke007/mpv.net_CM) - 🎞 mpv.net\_CM 是中文分支模组
+
+*   [cloud-fs/cloud-fs.github.io](https://github.com/cloud-fs/cloud-fs.github.io) -
+
+*   [yukaiji/buildVpn](https://github.com/yukaiji/buildVpn) - 图文教程搭建一个vpn翻墙
+
+*   [kysdm/u2\_api](https://github.com/kysdm/u2_api) -
+
+*   [burpheart/Palworld-Reverse-Note](https://github.com/burpheart/Palworld-Reverse-Note) - Palworld SAVE Reverse Note  / 幻兽帕鲁逆向笔记
+
+*   [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+
+*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+*   [josStorer/sgm\_plus](https://github.com/josStorer/sgm_plus) -
+
+*   [liut14/my-hypersnip-setting](https://github.com/liut14/my-hypersnip-setting) - my hypersnip setting in vscode
+
+*   [aardio/wubi-lex](https://github.com/aardio/wubi-lex) - WIN10/11 自带微软五笔码表与短语替换与管理工具( 可将系统五笔一键替换为郑码、小鹤音形、表形码等 )，软件仅930KB( 绿色免安装 )，已自带郑码、小鹤音形、表形码、五笔86、98、091、新世纪等输入法的各种流行码表。
+
+*   [JustSleightly/ThrowaBall](https://github.com/JustSleightly/ThrowaBall) -
+
+*   [sobotka/filmic-blender](https://github.com/sobotka/filmic-blender) - Film Emulsion-Like Camera Rendering Transforms for Blender
+
+*   [Thingey/thingey.github.io](https://github.com/Thingey/thingey.github.io) - YouTube to VRChat Video Player List
+
+*   [Jesvid/VRC-QuestLinkConverter](https://github.com/Jesvid/VRC-QuestLinkConverter) - Vrchat prefab convertidor de links de youtube para quest.
+
+*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+
+*   [Quorafind/Obsidian-Thino](https://github.com/Quorafind/Obsidian-Thino) - A quick capture plugin for Obsidian, all data from your notes.
+
+*   [teamneoneko/Cats-Blender-Plugin](https://github.com/teamneoneko/Cats-Blender-Plugin) - A continuation of the Cats Blender Plugin which is tool designed to shorten steps needed to import and optimize models into VRChat. Compatible models are: MMD, XNALara, Mixamo, DAZ/Poser, Blender Rigify, Sims 2, Motion Builder, 3DS Max and potentially more, originally by absolute-quantum.
+
+*   [AcChosen/Club-Orion](https://github.com/AcChosen/Club-Orion) -
+
+*   [zhihaofans/Server-Chan-Android](https://github.com/zhihaofans/Server-Chan-Android) - Server酱第三方安卓客户端
+
+*   [sekift/so-vits-models](https://github.com/sekift/so-vits-models) - 收集有关so-vits-svc、TTS、SD、LLMs的各种模型、应用以及文字、声音、图片、视频有关的model。
+
+*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
+
+*   [Purple420/Hashes-of-Safe-Scripts](https://github.com/Purple420/Hashes-of-Safe-Scripts) - Collection of hashes from safe unity scripts from my collection
+
+*   [mage-tianxie/Anime4K](https://github.com/mage-tianxie/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
+
+*   [RYANFAN113/AAS-Latex](https://github.com/RYANFAN113/AAS-Latex) - 《自动化学报》/AAS 中文期刊模板在texlive下的latex模板。
+
+*   [akkarinnw/Dress](https://github.com/akkarinnw/Dress) - 好耶  是女装
+
+*   [PolygonalMind/100Avatars](https://github.com/PolygonalMind/100Avatars) - 100Avatars - 200 open-source Avatars
+
+*   [madjin/awesome-vrchat](https://github.com/madjin/awesome-vrchat) - One-stop shop for people interested in developing content for VRchat
+
+*   [guygodin/VirtualDesktop](https://github.com/guygodin/VirtualDesktop) - Connect wirelessly to your computer(s) to watch movies, browse the web, play games on a giant virtual screen or stream PCVR games. Virtual Desktop is a highly optimized, native application developed for low latency, high quality streaming.
+
+*   [michaelliao/learn-python3](https://github.com/michaelliao/learn-python3) - Learn Python 3 Sample Code
+
+*   [easychen/rsspush](https://github.com/easychen/rsspush) - 监测RSS变动，并发送最新内容到微信、Webhook 和 Telegram, Discord, Slack, Amazon SNS, Gotify 等数十个消息通道。
+
+*   [VRLabs/Ragdoll-System](https://github.com/VRLabs/Ragdoll-System) - Turn yourself into a floppy ragdoll or falling statue.
+
+*   [mmyo456/NeteaseCloudMusicApi](https://github.com/mmyo456/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+
+*   [kaiheila/api-docs](https://github.com/kaiheila/api-docs) - KOOK开发者中心文档
+
+*   [jinl1874/e-book](https://github.com/jinl1874/e-book) - 个人制作的一些epub格式的电子书。
+
+## Rich Text Format
+
+*   [mozhu811/HP-OMEN-15-ax225TX](https://github.com/mozhu811/HP-OMEN-15-ax225TX) - :computer: i5-7300HQ, GTX1050Ti 惠普暗影精灵2 Pro 黑苹果EFI, HP OMEN 15-ax225TX Hackintosh clover efi.
 
 ## Python
 
@@ -158,7 +347,7 @@
 
 *   [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点【 当前仅推荐Docker部署，Fork/Actions方式暂停（正在与GitHub官方沟通中）】
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
 
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
@@ -174,7 +363,7 @@
 
 *   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
-*   [zai-org/GLM-V](https://github.com/zai-org/GLM-V) - GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
+*   [zai-org/GLM-V](https://github.com/zai-org/GLM-V) - GLM-4.6V/4.5V/4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
 
 *   [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
 
@@ -488,8 +677,6 @@
 
 *   [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 
-*   [Rytisgit/Anki-StylusDraw](https://github.com/Rytisgit/Anki-StylusDraw) - Draw and write using mouse and stylus with pressure support in Anki
-
 *   [ankitects/anki-addons](https://github.com/ankitects/anki-addons) - Source code for some Anki add-ons
 
 *   [ObsidianToAnki/Obsidian\_to\_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
@@ -544,8 +731,6 @@
 
 *   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
 
-*   [EstrellaXD/Auto\_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
-
 ## C
 
 *   [Lancet-z/OMEN-by-HP-Laptop-2](https://github.com/Lancet-z/OMEN-by-HP-Laptop-2) - 暗影精灵2  12.6.3可用
@@ -584,174 +769,6 @@
 
 *   [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 
-## miscellaneous
-
-*   [Arecall/OMEN-by-HP-Laptop-2](https://github.com/Arecall/OMEN-by-HP-Laptop-2) - 惠普暗影精灵2黑苹果EFI引导，完整度已达到98%。可能不同的机器会出现兼容问题，希望你能有一定的动手能力。
-
-*   [jh10001/ONScripter-Jh](https://github.com/jh10001/ONScripter-Jh) -
-
-*   [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents) - An orchestrated sub agent dev team powered by claude code
-
-*   [OpenBuddy/OpenBuddy](https://github.com/OpenBuddy/OpenBuddy) - Open Multilingual Chatbot for Everyone
-
-*   [lxc00215/claudia](https://github.com/lxc00215/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
-
-*   [devdacian/ai-auditor-primers](https://github.com/devdacian/ai-auditor-primers) - Primers for Specialist AI Smart Contract Auditors
-
-*   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
-
-*   [jixserver/free-for-dev](https://github.com/jixserver/free-for-dev) -  A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [RaiDrive/RaiDrive.Translation](https://github.com/RaiDrive/RaiDrive.Translation) - RaiDrive Translation
-
-*   [xgit01/sgkrank](https://github.com/xgit01/sgkrank) - 2024最新免费社工库排行
-
-*   [XihOfFy/FYSG\_Pub](https://github.com/XihOfFy/FYSG_Pub) - 封叶三国
-
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-
-*   [HoloISO/releases](https://github.com/HoloISO/releases) - To whom shall install
-
-*   [tesseract-ocr/tessdata\_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
-
-*   [tesseract-ocr/tessdata\_fast](https://github.com/tesseract-ocr/tessdata_fast) - Fast integer versions of trained LSTM models
-
-*   [nonwill/GoldenDict-OCR](https://github.com/nonwill/GoldenDict-OCR) - GoldenDict++: Optimizations for faster dictionary loading and searching, even with large dictionary collections.  OCR integration for text recognition, enhanced media playback, and more robust full-text search capabilities.
-
-*   [Axlax336/Iptv\_m3u](https://github.com/Axlax336/Iptv_m3u) - 仓库不定期更新。
-
-*   [CMBill/lxgw-wenkai-screen-web](https://github.com/CMBill/lxgw-wenkai-screen-web) - LXGW WenKai Screen / 霞鹜文楷屏幕阅读版 网络字体仓库
-
-*   [sooooooooooooooooootheby/NeteaseCloudMusicApi](https://github.com/sooooooooooooooooootheby/NeteaseCloudMusicApi) - Binaryify/NeteaseCloudMusicApi
-
-*   [eeacks/ToNSaveGenerator](https://github.com/eeacks/ToNSaveGenerator) - Save Generator for Terrors of Nowhere ( online: https://ton.eeacks.cc )
-
-*   [din4e/DifyDSL4RedTeam](https://github.com/din4e/DifyDSL4RedTeam) - 收集一些红队 Dify Workflow。
-
-*   [Winson-030/dify-DSL](https://github.com/Winson-030/dify-DSL) - dify DSL files collections
-
-*   [aircrushin/awesome-dify-workflow](https://github.com/aircrushin/awesome-dify-workflow) - awesome-dify-workflow as DSL file
-
-*   [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
-
-*   [zhangnanchao/ChatTTS\_colab](https://github.com/zhangnanchao/ChatTTS_colab) - 🚀 一键部署！基于 ChatTTS ，支持音色抽卡、长音频生成和分角色朗读。简单易用，无需复杂安装。
-
-*   [zhangnanchao/Deep-Live-Cam](https://github.com/zhangnanchao/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-
-*   [zhangnanchao/VideoChat](https://github.com/zhangnanchao/VideoChat) - 实时语音交互数字人，支持端到端语音方案（GLM-4-Voice - THG）和级联方案（ASR-LLM-TTS-THG）。可自定义形象与音色，无须训练，支持音色克隆，首包延迟低至3s。Real-time voice interactive digital human, supporting end-to-end voice solutions (GLM-4-Voice - THG) and cascaded solutions (ASR-LLM-TTS-THG). Customizable appearance and voice, supporting voice cloning, with initial package delay as low as 3s.
-
-*   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-
-*   [zhaoyun0071/roop-windows-GUI](https://github.com/zhaoyun0071/roop-windows-GUI) - 什么环境不用配置，解压直接用的roop换脸工具
-
-*   [Keldos-Li/typora-latex-theme-fonts](https://github.com/Keldos-Li/typora-latex-theme-fonts) -
-
-*   [SBCV/Bookstack-Windows-Docker-Desktop](https://github.com/SBCV/Bookstack-Windows-Docker-Desktop) - Tutorial to run Bookstack under Windows using Docker Desktop
-
-*   [star0319/docker-easyconnect](https://github.com/star0319/docker-easyconnect) - # 在linux（centos）上使用VPN翻墙进校内  ### 通过将运行在 docker 的 深信服（Sangfor）非自由的代理软件 EasyConnect 作为网关 并添加路由表 实现资源访问
-
-*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
-
-*   [vrchat-community/creator-docs](https://github.com/vrchat-community/creator-docs) -
-
-*   [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
-
-*   [langgptai/wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
-
-*   [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
-
-*   [vcb-s/guides](https://github.com/vcb-s/guides) - VCB-Studio 公开教程（新版）
-
-*   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
-
-*   [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) - :books: 极客时间电子书
-
-*   [luolin-ai/Dify-Enterprise-WeChat-bot](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot) - 基于Dify的企业微信知识库机器人，基于企微gpt知识库的bot机器人，能够自动回复企业微信中收到的消息。这个机器人能够处理私聊和群聊，还可以记住与用户的聊天内容，从而做出更加贴合上下文的回应。此外，您还可以设置白名单来控制机器人与哪些用户或群组交互。如需自己dify网站版的机器人
-
-*   [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
-
-*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
-
-*   [overmind1980/oeasy\_history](https://github.com/overmind1980/oeasy_history) - 各种历史的搜集与整理
-
-*   [overmind1980/oeasy-postgres-tutorial](https://github.com/overmind1980/oeasy-postgres-tutorial) - 实验楼地址https://www.lanqiao.cn/courses/2782 ，邀请码CHD6PJZ1，从零开始带您玩转数据库
-
-*   [diana7127/mpv.net-DW](https://github.com/diana7127/mpv.net-DW) - mpv.net\_CM的DW版本，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器
-
-*   [hooke007/mpv.net\_CM](https://github.com/hooke007/mpv.net_CM) - 🎞 mpv.net\_CM 是中文分支模组
-
-*   [cloud-fs/cloud-fs.github.io](https://github.com/cloud-fs/cloud-fs.github.io) -
-
-*   [yukaiji/buildVpn](https://github.com/yukaiji/buildVpn) - 图文教程搭建一个vpn翻墙
-
-*   [kysdm/u2\_api](https://github.com/kysdm/u2_api) -
-
-*   [burpheart/Palworld-Reverse-Note](https://github.com/burpheart/Palworld-Reverse-Note) - Palworld SAVE Reverse Note  / 幻兽帕鲁逆向笔记
-
-*   [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
-
-*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-
-*   [josStorer/sgm\_plus](https://github.com/josStorer/sgm_plus) -
-
-*   [liut14/my-hypersnip-setting](https://github.com/liut14/my-hypersnip-setting) - my hypersnip setting in vscode
-
-*   [aardio/wubi-lex](https://github.com/aardio/wubi-lex) - WIN10/11 自带微软五笔码表与短语替换与管理工具( 可将系统五笔一键替换为郑码、小鹤音形、表形码等 )，软件仅930KB( 绿色免安装 )，已自带郑码、小鹤音形、表形码、五笔86、98、091、新世纪等输入法的各种流行码表。
-
-*   [JustSleightly/ThrowaBall](https://github.com/JustSleightly/ThrowaBall) -
-
-*   [sobotka/filmic-blender](https://github.com/sobotka/filmic-blender) - Film Emulsion-Like Camera Rendering Transforms for Blender
-
-*   [Thingey/thingey.github.io](https://github.com/Thingey/thingey.github.io) - YouTube to VRChat Video Player List
-
-*   [Jesvid/VRC-QuestLinkConverter](https://github.com/Jesvid/VRC-QuestLinkConverter) - Vrchat prefab convertidor de links de youtube para quest.
-
-*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
-
-*   [Quorafind/Obsidian-Thino](https://github.com/Quorafind/Obsidian-Thino) - A quick capture plugin for Obsidian, all data from your notes.
-
-*   [teamneoneko/Cats-Blender-Plugin](https://github.com/teamneoneko/Cats-Blender-Plugin) - A continuation of the Cats Blender Plugin which is tool designed to shorten steps needed to import and optimize models into VRChat. Compatible models are: MMD, XNALara, Mixamo, DAZ/Poser, Blender Rigify, Sims 2, Motion Builder, 3DS Max and potentially more, originally by absolute-quantum.
-
-*   [AcChosen/Club-Orion](https://github.com/AcChosen/Club-Orion) -
-
-*   [zhihaofans/Server-Chan-Android](https://github.com/zhihaofans/Server-Chan-Android) - Server酱第三方安卓客户端
-
-*   [sekift/so-vits-models](https://github.com/sekift/so-vits-models) - 收集有关so-vits-svc、TTS、SD、LLMs的各种模型、应用以及文字、声音、图片、视频有关的model。
-
-*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
-
-*   [Purple420/Hashes-of-Safe-Scripts](https://github.com/Purple420/Hashes-of-Safe-Scripts) - Collection of hashes from safe unity scripts from my collection
-
-*   [mage-tianxie/Anime4K](https://github.com/mage-tianxie/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
-
-*   [RYANFAN113/AAS-Latex](https://github.com/RYANFAN113/AAS-Latex) - 《自动化学报》/AAS 中文期刊模板在texlive下的latex模板。
-
-*   [akkarinnw/Dress](https://github.com/akkarinnw/Dress) - 好耶  是女装
-
-*   [PolygonalMind/100Avatars](https://github.com/PolygonalMind/100Avatars) - 100Avatars - 200 open-source Avatars
-
-*   [madjin/awesome-vrchat](https://github.com/madjin/awesome-vrchat) - One-stop shop for people interested in developing content for VRchat
-
-*   [guygodin/VirtualDesktop](https://github.com/guygodin/VirtualDesktop) - Connect wirelessly to your computer(s) to watch movies, browse the web, play games on a giant virtual screen or stream PCVR games. Virtual Desktop is a highly optimized, native application developed for low latency, high quality streaming.
-
-*   [michaelliao/learn-python3](https://github.com/michaelliao/learn-python3) - Learn Python 3 Sample Code
-
-*   [easychen/rsspush](https://github.com/easychen/rsspush) - 监测RSS变动，并发送最新内容到微信、Webhook 和 Telegram, Discord, Slack, Amazon SNS, Gotify 等数十个消息通道。
-
-*   [VRLabs/Ragdoll-System](https://github.com/VRLabs/Ragdoll-System) - Turn yourself into a floppy ragdoll or falling statue.
-
-*   [mmyo456/NeteaseCloudMusicApi](https://github.com/mmyo456/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-
-*   [kaiheila/api-docs](https://github.com/kaiheila/api-docs) - KOOK开发者中心文档
-
-*   [jinl1874/e-book](https://github.com/jinl1874/e-book) - 个人制作的一些epub格式的电子书。
-
-*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
-
 ## TypeScript
 
 *   [LastLighter/Dreamifly](https://github.com/LastLighter/Dreamifly) - 一个轻量级的AI图片在线生成web工具，功能丰富，且易于上手和二次开发
@@ -776,7 +793,7 @@
 
 *   [kamjin3086/chatless](https://github.com/kamjin3086/chatless) - 💻一款简洁实用轻量级的本地AI对话客户端，采用Tauri2.0和Next.js编写  A simple, practical, and lightweight local AI chat client, written in Tauri 2.0 & Next.js.
 
-*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social
+*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month. Follow us: kilo.ai/social
 
 *   [other-blowsnow/n8n-nodes-wechat-work](https://github.com/other-blowsnow/n8n-nodes-wechat-work) - n8n 企业微信
 
@@ -1150,6 +1167,8 @@
 
 *   [ledccn/IYUUPlus](https://github.com/ledccn/IYUUPlus) - IYUUAutoReseed项目的升级版，常驻内存运行；集成WEBUI控制界面、辅种、下载、定时访问URL、动态域名DDNS等常用功能，提供完善的插件机制。
 
+*   [Rytisgit/Anki-StylusDraw](https://github.com/Rytisgit/Anki-StylusDraw) - Draw and write using mouse and stylus with pressure support in Anki
+
 *   [yekingyan/anki\_search\_on\_web](https://github.com/yekingyan/anki_search_on_web) - 在google、bing、yahoo等搜索引擎上，同步搜索本地的Anki数据。Tampermonkey script
 
 *   [1nsp1r3rnzt/chrome-anki-quick-adder](https://github.com/1nsp1r3rnzt/chrome-anki-quick-adder) - This chrome extension provides the ability to create Anki cards directly from Google Chrome on your Anki Desktop.
@@ -1465,8 +1484,6 @@
 *   [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin) - Third-party native Jellyfin client for PC/PS4/PSVita/Nintendo Switch
 
 *   [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.
-
-*   [emoose/VideoRenderer](https://github.com/emoose/VideoRenderer) - RTX HDR modded into MPC-VideoRenderer.
 
 ## Vue
 
@@ -1872,8 +1889,6 @@
 
 *   [rurre/PumkinsAvatarTools](https://github.com/rurre/PumkinsAvatarTools) - A toolbox for easily setting up VRChat avatars in Unity. Adds functionality to the editor and automates some of the tedious tasks.
 
-*   [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
-
 ## ActionScript
 
 *   [FerryYoungFan/VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) - 一只蟑螂桌面“宠物” Cockroach Desktop "Pet"
@@ -1953,18 +1968,6 @@
 *   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 
 *   [d87/mpv-persist-properties](https://github.com/d87/mpv-persist-properties) - Keeps selected property values (like volume) between player sessions
-
-## Swift
-
-*   [Sjj1024/PakePlus-iOS](https://github.com/Sjj1024/PakePlus-iOS) - Turn any webpage/Vue/React and so on into desktop and mobile app with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app/
-
-*   [alvr-org/alvr-visionos](https://github.com/alvr-org/alvr-visionos) - Experimental visionOS client for ALVR - SteamVR on Apple Vision Pro!
-
-*   [alexwidua/zoom-motion-blur](https://github.com/alexwidua/zoom-motion-blur) - motion blur shader built using swiftui and metal
-
-*   [michaellee123/EasyShare](https://github.com/michaellee123/EasyShare) - Easy Share File From Mac To Every Devices
-
-*   [EhPanda-Team/EhPanda](https://github.com/EhPanda-Team/EhPanda) - An unofficial E-Hentai App for iOS built with SwiftUI & TCA.
 
 ## Zig
 
