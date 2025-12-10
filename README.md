@@ -677,6 +677,8 @@
 
 *   [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 
+*   [Rytisgit/Anki-StylusDraw](https://github.com/Rytisgit/Anki-StylusDraw) - Draw and write using mouse and stylus with pressure support in Anki
+
 *   [ankitects/anki-addons](https://github.com/ankitects/anki-addons) - Source code for some Anki add-ons
 
 *   [ObsidianToAnki/Obsidian\_to\_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
@@ -1166,8 +1168,6 @@
 *   [agendav/agendav](https://github.com/agendav/agendav) - A CalDAV web client similar to Google Calendar
 
 *   [ledccn/IYUUPlus](https://github.com/ledccn/IYUUPlus) - IYUUAutoReseed项目的升级版，常驻内存运行；集成WEBUI控制界面、辅种、下载、定时访问URL、动态域名DDNS等常用功能，提供完善的插件机制。
-
-*   [Rytisgit/Anki-StylusDraw](https://github.com/Rytisgit/Anki-StylusDraw) - Draw and write using mouse and stylus with pressure support in Anki
 
 *   [yekingyan/anki\_search\_on\_web](https://github.com/yekingyan/anki_search_on_web) - 在google、bing、yahoo等搜索引擎上，同步搜索本地的Anki数据。Tampermonkey script
 
