@@ -109,7 +109,7 @@
 
 *   [OpenIntelWireless/HeliPort](https://github.com/OpenIntelWireless/HeliPort) - Intel Wi-Fi Client for itlwm
 
-*   [Sjj1024/PakePlus-iOS](https://github.com/Sjj1024/PakePlus-iOS) - Turn any webpage/Vue/React and so on into desktop and mobile app with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app/
+*   [Sjj1024/PakePlus-iOS](https://github.com/Sjj1024/PakePlus-iOS) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 *   [alvr-org/alvr-visionos](https://github.com/alvr-org/alvr-visionos) - Experimental visionOS client for ALVR - SteamVR on Apple Vision Pro!
 
@@ -232,8 +232,6 @@
 *   [Axlax336/Iptv\_m3u](https://github.com/Axlax336/Iptv_m3u) - 仓库不定期更新。
 
 *   [CMBill/lxgw-wenkai-screen-web](https://github.com/CMBill/lxgw-wenkai-screen-web) - LXGW WenKai Screen / 霞鹜文楷屏幕阅读版 网络字体仓库
-
-*   [sooooooooooooooooootheby/NeteaseCloudMusicApi](https://github.com/sooooooooooooooooootheby/NeteaseCloudMusicApi) - Binaryify/NeteaseCloudMusicApi
 
 *   [eeacks/ToNSaveGenerator](https://github.com/eeacks/ToNSaveGenerator) - Save Generator for Terrors of Nowhere ( online: https://ton.eeacks.cc )
 
@@ -360,6 +358,8 @@
 *   [kaiheila/api-docs](https://github.com/kaiheila/api-docs) - KOOK开发者中心文档
 
 *   [jinl1874/e-book](https://github.com/jinl1874/e-book) - 个人制作的一些epub格式的电子书。
+
+*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 
 ## Rich Text Format
 
@@ -608,8 +608,6 @@
 *   [Cooooldwind/163ListDownloader\_NexT](https://github.com/Cooooldwind/163ListDownloader_NexT) - 163ListDownloader的下一代。本仓库用于存储发行版本。虽然但是你也弃坑拜拜。
 
 *   [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
-
-*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
 *   [ASLP-lab/DiffRhythm](https://github.com/ASLP-lab/DiffRhythm) - Di♪♪Rhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion
 
@@ -1341,13 +1339,15 @@
 
 *   [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
 
+*   [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
+
 ## HTML
 
 *   [neosun100/DeepSeek-OCR-WebUI](https://github.com/neosun100/DeepSeek-OCR-WebUI) -   🎨 Ready-to-use DeepSeek-OCR Web UI | Modern Interface | 7 Recognition Modes | Batch Processing |   Real-time Logging | Fully Responsive
 
 *   [rebout7200/text2img](https://github.com/rebout7200/text2img) - 实现将 AI （例如：ChatGPT、Gemini、Grok等AI）生成的文本转换为图片
 
-*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
+*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
@@ -1535,7 +1535,7 @@
 
 *   [LuSrackhall/KeyTone](https://github.com/LuSrackhall/KeyTone) - KeyTone is a software with Go as its core, capable of simulating the sound of key presses in real-time. 「KeyTone 是一款以golang为核心的软件，可以实时模拟按键敲击的声音。」
 
-*   [tgmeng-com/tgmeng-top-search-frontend](https://github.com/tgmeng-com/tgmeng-top-search-frontend) - 🔥 糖果梦热榜 - 前端 实时聚合全网热榜 | 支持数百+数据源 | 分钟级更新 | RSS 订阅 | 多平台推送（钉钉/飞书/企微/Telegram/NTFY/GOTIFY） | 摸鱼模式（Excel、VsCode） | 一键部署（Vercel、Netlify、Docker）前端页面：https://tgmeng.com
+*   [tgmeng-com/tgmeng-top-search-frontend](https://github.com/tgmeng-com/tgmeng-top-search-frontend) - 🔥 糖果梦热榜 - 前端 实时聚合全网热榜 | 支持数百+数据源 | 分钟级更新 | RSS 订阅 | 历史热点追踪 | 突发热点查询 | 多平台推送（钉钉/飞书/企微/Telegram/NTFY/GOTIFY） | 摸鱼模式（Excel、VsCode） | 一键部署（Vercel、Netlify、Docker）前端页面：https://tgmeng.com
 
 *   [synctv-org/synctv-web](https://github.com/synctv-org/synctv-web) - Provides a Web UI for SyncTV
 
@@ -1995,7 +1995,7 @@
 
 ## Lua
 
-*   [Sjj1024/PakePlus-Android](https://github.com/Sjj1024/PakePlus-Android) - Turn any webpage/Vue/React and so on into desktop and mobile app with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app/
+*   [Sjj1024/PakePlus-Android](https://github.com/Sjj1024/PakePlus-Android) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 *   [CogentRedTester/mpv-clipboard](https://github.com/CogentRedTester/mpv-clipboard) - Provides generic low-level clipboard commands for users and script writers.
 
@@ -2087,7 +2087,7 @@
 
 *   [kknifer7/FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
 
-*   [tgmeng-com/tgmeng-api](https://github.com/tgmeng-com/tgmeng-api) - 🔥 糖果梦热榜 - 后端 实时聚合全网热榜 | 支持数百+数据源 | 分钟级更新 | RSS 订阅 | 多平台推送（钉钉/飞书/企微/Telegram/NTFY/GOTIFY） | 摸鱼模式（Excel、VsCode） | 一键部署（GitHub Action、Docker）前端页面：https://tgmeng.com
+*   [tgmeng-com/tgmeng-api](https://github.com/tgmeng-com/tgmeng-api) - 🔥 糖果梦热榜 - 后端 实时聚合全网热榜 | 支持数百+数据源 | 分钟级更新 | RSS 订阅 | 历史热点追踪 | 突发热点查询 | 多平台推送（钉钉/飞书/企微/Telegram/NTFY/GOTIFY） | 摸鱼模式（Excel、VsCode） | 一键部署（Vercel、Netlify、Docker）前端页面：https://tgmeng.com
 
 *   [itning/yunshu-nas](https://github.com/itning/yunshu-nas) - 自建NAS系统，实现本地视频音频点播，文件存储等功能。自动视频转码，在线观看下载视频！
 
