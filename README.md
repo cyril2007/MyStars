@@ -273,7 +273,7 @@
 
 *   [pure-music/PureMusic](https://github.com/pure-music/PureMusic) - 本地、百度网盘、阿里云盘、WebDAV、GoogleDrive、OneDrive、Dropbox、Plex、Emby、Jelly、Subsonic音乐播放器，支持Android、Windows、Mac、Linux平台
 
-*   [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop.
+*   [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 
 *   [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent
 
@@ -795,7 +795,7 @@
 
 *   [ShayneP/local-voice-ai](https://github.com/ShayneP/local-voice-ai) - Local voice AI powered by Ollama, Kokoro, Whisper, and LiveKit.
 
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
 
 *   [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react-native.
 
@@ -2083,6 +2083,8 @@
 
 *   [poiyomi/PoiyomiToonShader](https://github.com/poiyomi/PoiyomiToonShader) - A feature rich toon shader for unity and VR Chat
 
+*   [hfcRed/Player-Tracker](https://github.com/hfcRed/Player-Tracker) - VRChat Avatar tool which lets you select players and attach GameObjects to them
+
 *   [acertainbluecat/VRCPlayersOnlyMirror](https://github.com/acertainbluecat/VRCPlayersOnlyMirror) - A simple mirror prefab for mirrors that show players only without any background in VRChat
 
 ## Java
@@ -2276,8 +2278,6 @@
 *   [ceceppa/godot-shaders](https://github.com/ceceppa/godot-shaders) - My shaders for Godot game engine
 
 *   [vr-voyage/vrchat-map-maker](https://github.com/vr-voyage/vrchat-map-maker) - A (very basic) map maker useable from VRChat
-
-*   [hfcRed/Player-Tracker](https://github.com/hfcRed/Player-Tracker) - VRChat Avatar tool which lets you select players and attach GameObjects to them
 
 ## Blade
 
