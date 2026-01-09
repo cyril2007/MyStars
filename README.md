@@ -351,7 +351,7 @@
 
 *   [Centauri2442/VRCSubtitle](https://github.com/Centauri2442/VRCSubtitle) - UdonSharp based subtitle system designed for use within VRChat
 
-*   [flexits/HotCornersWin](https://github.com/flexits/HotCornersWin) - Add macOS hot corners function to Windows 10
+*   [flexits/HotCornersWin](https://github.com/flexits/HotCornersWin) - macOS "hot corners" feature for Windows
 
 *   [James-LG/AutoCursorLock](https://github.com/James-LG/AutoCursorLock) - Locks cursor to specified windows while in focus. Good for games that don't properly lock the cursor.
 
@@ -393,7 +393,7 @@
 
 *   [yaobus/SIPAM](https://github.com/yaobus/SIPAM) - IP地址分配管理系统
 
-*   [Archeb/opentrace](https://github.com/Archeb/opentrace) - Open Source Visualized Network Tracing Tool for macOS, Windows, and Linux. 跨平台可视化路由追踪工具。
+*   [Archeb/opentrace](https://github.com/Archeb/opentrace) - Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux. 跨平台可视化路由追踪工具。
 
 *   [nilaoda/N\_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 
@@ -1967,6 +1967,8 @@
 
 *   [langgenius/dify-docs-archived](https://github.com/langgenius/dify-docs-archived) - The open-source repo for docs.dify.ai
 
+*   [overmind1980/oeasy-linux-tutorial](https://github.com/overmind1980/oeasy-linux-tutorial) - oeasy教您玩转linux教程。从命令行零基础 入门。逐个介绍LINUX查看系统版本、常用命令、基础知识、涵盖多种命令与原理。带您玩转linux的世界。😄
+
 *   [overmind1980/oeasy-python-tutorial](https://github.com/overmind1980/oeasy-python-tutorial) - 良心的 Python 教程，面向零基础初学者简明易懂的 Python3 入门基础课程。在linux+vim生产力环境下，从浅入深，从简单程序学到网络爬虫。可以配合蓝桥云上实验环境操作。
 
 *   [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
@@ -2109,8 +2111,6 @@
 
 *   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 
-*   [overmind1980/oeasy-linux-tutorial](https://github.com/overmind1980/oeasy-linux-tutorial) - oeasy教您玩转linux教程。从命令行零基础 入门。逐个介绍LINUX查看系统版本、常用命令、基础知识、涵盖多种命令与原理。带您玩转linux的世界。😄
-
 *   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
 *   [RinLovesYou/Stream-Soundboard](https://github.com/RinLovesYou/Stream-Soundboard) - A soundboard that doesn't store files.
@@ -2203,7 +2203,7 @@
 
 ## CSS
 
-*   [BoningtonChen/CherryStudio\_themes](https://github.com/BoningtonChen/CherryStudio_themes) - Custom Themes for Cherry Studio
+*   [Cle2ment/CherryStudio\_themes](https://github.com/Cle2ment/CherryStudio_themes) - Custom Themes for Cherry Studio
 
 *   [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
 
