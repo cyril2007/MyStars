@@ -2144,7 +2144,7 @@
 
 *   [aiyakuaile/easy\_tv\_live](https://github.com/aiyakuaile/easy_tv_live) - Easy TV Live App, a lightweight IPTV player, supports all platforms and Android TV big screens. Welcome to download and experience!  极简TV App，一款轻量级IPTV播放器，支持全平台以及安卓电视大屏欢迎下载体验!
 
-*   [niuhuan/pansy](https://github.com/niuhuan/pansy) - A illustration client. (PIXIV)
+*   [niuhuan/pansy](https://github.com/niuhuan/pansy) - A illustration client. (PIXIV) build with flutter and rust
 
 ## GDScript
 
