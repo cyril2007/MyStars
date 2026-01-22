@@ -1844,8 +1844,6 @@
 
 *   [LuSrackhall/KeyTone](https://github.com/LuSrackhall/KeyTone) - KeyTone is a software with Go as its core, capable of simulating the sound of key presses in real-time. 「KeyTone 是一款以golang为核心的软件，可以实时模拟按键敲击的声音。」
 
-*   [tgmeng-com/tgmeng-top-search-frontend](https://github.com/tgmeng-com/tgmeng-top-search-frontend) - 🔥 糖果梦热榜 - 前端 实时聚合全网热榜 | 支持数百+数据源 | 分钟级更新 | RSS 订阅 | 历史热点追踪 | 突发热点查询 | 多平台推送（钉钉/飞书/企微/Telegram/NTFY/GOTIFY） | 摸鱼模式（Excel、VsCode） | 一键部署（Vercel、Netlify、Docker）前端页面：https://tgmeng.com
-
 *   [synctv-org/synctv-web](https://github.com/synctv-org/synctv-web) - Provides a Web UI for SyncTV
 
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
@@ -2197,6 +2195,8 @@
 *   [xiaomlove/nexusphp](https://github.com/xiaomlove/nexusphp) - A private tracker application base on NexusPHP
 
 *   [HDInnovations/UNIT3D](https://github.com/HDInnovations/UNIT3D) - UNIT3D is a private torrent tracker built using Laravel, Livewire and AlpineJS.
+
+*   [ledccn/IYUUAutoReseed](https://github.com/ledccn/IYUUAutoReseed) - IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持远程连接等。
 
 ## CSS
 
