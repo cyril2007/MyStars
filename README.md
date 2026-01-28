@@ -116,7 +116,7 @@
 
 *   [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 A Unified AI Model Management & Distribution System. Aggregate all your LLMs into one app and access them via an OpenAI-compatible API, with native support for Claude (Messages) and Gemini formats.
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 
 *   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
@@ -195,8 +195,6 @@
 *   [VRLabs/VRCSchool](https://github.com/VRLabs/VRCSchool) - The VRCSchool Documentation Website
 
 *   [Rain120/qq-music-api](https://github.com/Rain120/qq-music-api) - QQ 音乐API koa2实现
-
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 
 *   [AlekPet/ComfyUI\_Custom\_Nodes\_AlekPet](https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet) - Custom nodes that extend the capabilities of Comfyui
 
@@ -314,7 +312,7 @@
 
 ## C\#
 
-*   [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor) - 一款轻量、可定制的开源桌面硬件监控软件 — 实时监测 CPU、GPU、内存、磁盘、网络等系统性能。支持横竖屏显示、多语言、主题切换、透明度显示、三色报警，界面简洁且高度可配置。A lightweight and customizable desktop hardware monitoring tool — real-time monitoring of system performance such as CPU, GPU, memory, disk, and network.
+*   [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor) - 一款轻量级、高度可定制的 Windows桌面和任务栏硬件性能监控工具，支持监测 CPU、GPU、内存、磁盘、网速、FPS 计数、插件扩展及内存清理。A lightweight, customizable hardware monitor for the Windows desktop & taskbar. Features CPU/GPU/RAM/Network monitoring, FPS counter, plugin support, and memory optimization.
 
 *   [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 
@@ -1139,6 +1137,8 @@
 *   [Thingey/thingey.github.io](https://github.com/Thingey/thingey.github.io) - YouTube to VRChat Video Player List
 
 *   [Jesvid/VRC-QuestLinkConverter](https://github.com/Jesvid/VRC-QuestLinkConverter) - Vrchat prefab convertidor de links de youtube para quest.
+
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 
 *   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 
