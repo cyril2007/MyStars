@@ -1212,7 +1212,7 @@
 
 *   [GuanYixuan/pyJianYingDraft](https://github.com/GuanYixuan/pyJianYingDraft) - 轻量、灵活、易上手的Python剪映草稿生成及导出工具，构建全自动化视频剪辑/混剪流水线。本项目的CapCut版本正于 https://github.com/GuanYixuan/pyCapCut 内开发
 
-*   [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 4.5: A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Mulitmodal Live Streaming on Your Phone
+*   [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
 
 *   [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 
@@ -1572,7 +1572,7 @@
 
 *   [yorikvanhavre/FreeCAD-NativeIFC](https://github.com/yorikvanhavre/FreeCAD-NativeIFC) - A FreeCAD module to work with IFC files natively
 
-*   [Yusarina/Rina-s-Blender-Tools](https://github.com/Yusarina/Rina-s-Blender-Tools) - A set of tools to help shorten steps needed to optimize models into VRChat or other Games.
+*   [RinaDev-xyz/Rina-s-Blender-Tools](https://github.com/RinaDev-xyz/Rina-s-Blender-Tools) - A set of tools to help shorten steps needed to optimize models into VRChat or other Games.
 
 *   [MMD-Blender/blender\_mmd\_tools](https://github.com/MMD-Blender/blender_mmd_tools) - MMD Tools is a blender addon for importing/exporting Models and Motions of MikuMikuDance.
 
@@ -1758,7 +1758,7 @@
 
 *   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 
-*   [AkimioJR/MediaWarp](https://github.com/AkimioJR/MediaWarp) - EmbyServer/Jellyfin/飞牛影视 中间件：优化播放 Strm 文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，推荐配合AutoFilm使用
+*   [AkimioJR/MediaWarp](https://github.com/AkimioJR/MediaWarp) - EmbyServer/Jellyfin/飞牛影视 中间件：优化播放 Strm 文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，推荐配合AutoFilm使用，交流群：https://t.me/AkimioJR\_MediaWarp
 
 *   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 
