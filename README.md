@@ -1758,7 +1758,7 @@
 
 *   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 
-*   [AkimioJR/MediaWarp](https://github.com/AkimioJR/MediaWarp) - EmbyServer/Jellyfin/飞牛影视 中间件：优化播放 Strm 文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，推荐配合AutoFilm使用，交流群：https://t.me/AkimioJR\_MediaWarp
+*   [AkimioJR/MediaWarp](https://github.com/AkimioJR/MediaWarp) - Emby/Jellyfin/飞牛影视中间件：优化播放 Strm 文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，推荐配合AutoFilm使用，交流群：https://t.me/AkimioJR\_MediaWarp
 
 *   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 
