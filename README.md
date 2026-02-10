@@ -856,13 +856,15 @@
 
 *   [huoshen80/ReinaManager](https://github.com/huoshen80/ReinaManager) - A galgame/visual-novel manager,Under development......
 
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+
 *   [TigerHix/komu](https://github.com/TigerHix/komu) - A kawaii self-hosted manga reader for Japanese learners!
 
 *   [alterem/mark-pic](https://github.com/alterem/mark-pic) - 一个现代化的 Markdown 转图片工具，支持实时预览、自定义样式和一键导出。
 
 *   [kamjin3086/chatless](https://github.com/kamjin3086/chatless) - 💻一款简洁实用轻量级的本地AI对话客户端，采用Tauri2.0和Next.js编写  A simple, practical, and lightweight local AI chat client, written in Tauri 2.0 & Next.js.
 
-*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
+*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 
 *   [other-blowsnow/n8n-nodes-wechat-work](https://github.com/other-blowsnow/n8n-nodes-wechat-work) - n8n 企业微信
 
@@ -1216,7 +1218,7 @@
 
 *   [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 
-*   [OpenMOSS/MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD) - MOSS-TTSD is a spoken dialogue generation model that enables expressive dialogue speech synthesis in both Chinese and English, supporting zero-shot multi-speaker voice cloning, and long-form speech generation.
+*   [OpenMOSS/MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD) - MOSS-TTSD is a spoken dialogue generation model designed for expressive multi-speaker synthesis. It features long-context modeling,  flexible speaker control, and multilingual support, while enabling zero-shot voice cloning from short audio references.
 
 *   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
 
@@ -1332,7 +1334,7 @@
 
 *   [AlfreScarlet/MoeChat](https://github.com/AlfreScarlet/MoeChat) - 一个超低延迟的基于GPT-SoVITS语音合成的语音交互系统
 
-*   [Xxiii8322766509/NagaAgent](https://github.com/Xxiii8322766509/NagaAgent) - A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration.
+*   [RTGS2017/NagaAgent](https://github.com/RTGS2017/NagaAgent) - A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration.
 
 *   [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 
@@ -1568,7 +1570,7 @@
 
 *   [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 
-*   [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - CapsWriter 的离线版，一个好用的 PC 端的语音输入工具，支持热词、LLM处理。
+*   [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - 一个好用的 PC 端的语音输入工具，支持热词、LLM处理。按下CapsLock或鼠标侧键X2，说话，松开自动上屏。
 
 *   [yorikvanhavre/FreeCAD-NativeIFC](https://github.com/yorikvanhavre/FreeCAD-NativeIFC) - A FreeCAD module to work with IFC files natively
 
@@ -1707,8 +1709,6 @@
 *   [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR-1/2, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python.
 
 *   [imhuso/cunzhi](https://github.com/imhuso/cunzhi) - 告别AI提前终止烦恼，助力AI更加持久
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 
 *   [gwy15/danmu2ass](https://github.com/gwy15/danmu2ass) - 将哔哩哔哩的 弹幕 转化为 ass 字幕文件，实时预览
 
