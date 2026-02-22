@@ -272,8 +272,6 @@
 
 *   [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 
-*   [xujizhong/video-translate](https://github.com/xujizhong/video-translate) - ✨ AI驱动的浏览器实时视频字幕翻译工具。✨ AI-Powered Browser Real-Time Video Subtitle Translation Tool
-
 *   [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
 
 *   [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
@@ -2197,6 +2195,8 @@
 *   [xiaomlove/nexusphp](https://github.com/xiaomlove/nexusphp) - A private tracker application base on NexusPHP
 
 *   [HDInnovations/UNIT3D](https://github.com/HDInnovations/UNIT3D) - UNIT3D is a private torrent tracker built using Laravel, Livewire and AlpineJS.
+
+*   [ledccn/IYUUAutoReseed](https://github.com/ledccn/IYUUAutoReseed) - IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持远程连接等。
 
 ## CSS
 
