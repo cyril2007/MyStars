@@ -276,6 +276,8 @@
 
 *   [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 
+*   [sligter/LandPPT](https://github.com/sligter/LandPPT) - 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。
+
 *   [KeyRotate/LibreTV-App](https://github.com/KeyRotate/LibreTV-App) - LibreTV 跨平台客户端（Android, Windows, Linux, MacOS等），直装免部署
 
 *   [The-Pocket/PocketFlow-Tutorial-Website-Chatbot](https://github.com/The-Pocket/PocketFlow-Tutorial-Website-Chatbot) - "Set & Forget" AI Chatbot for Your Website - It Learns Your Website Automatically
@@ -285,8 +287,6 @@
 *   [lieren2023/noname-for-dummies](https://github.com/lieren2023/noname-for-dummies) - 无名杀懒人包（棘手怀念摧毁）
 
 *   [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
-
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 
 *   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
@@ -854,6 +854,8 @@
 
 *   [huoshen80/ReinaManager](https://github.com/huoshen80/ReinaManager) - A galgame/visual-novel manager,Under development......
 
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+
 *   [TigerHix/komu](https://github.com/TigerHix/komu) - A kawaii self-hosted manga reader for Japanese learners!
 
 *   [alterem/mark-pic](https://github.com/alterem/mark-pic) - 一个现代化的 Markdown 转图片工具，支持实时预览、自定义样式和一键导出。
@@ -1312,8 +1314,6 @@
 
 *   [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 
-*   [sligter/LandPPT](https://github.com/sligter/LandPPT) - 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。
-
 *   [Tokeii0/LovelyAIMaster](https://github.com/Tokeii0/LovelyAIMaster) - 可以在windows任何地方调用AI进行输入
 
 *   [MiniMax-AI/MiniMax-M1](https://github.com/MiniMax-AI/MiniMax-M1) - MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model.
@@ -1706,8 +1706,6 @@
 
 *   [imhuso/cunzhi](https://github.com/imhuso/cunzhi) - 告别AI提前终止烦恼，助力AI更加持久
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
-
 *   [gwy15/danmu2ass](https://github.com/gwy15/danmu2ass) - 将哔哩哔哩的 弹幕 转化为 ass 字幕文件，实时预览
 
 *   [lanyeeee/hitomi-downloader](https://github.com/lanyeeee/hitomi-downloader) - A GUI-based multi-threaded downloader for hitomi hitomi.la  一个带GUI的用于 hitomi hitomi.la 的多线程下载器
@@ -1761,6 +1759,8 @@
 *   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 
 *   [chengxue2020/feiyang-IPTV-org](https://github.com/chengxue2020/feiyang-IPTV-org) - 肥羊的4K/8K超高清IPTV直播源&&直播代码仓库
+
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 
 *   [fruitbars/simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deployment.
 
