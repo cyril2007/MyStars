@@ -854,7 +854,7 @@
 
 *   [huoshen80/ReinaManager](https://github.com/huoshen80/ReinaManager) - A galgame/visual-novel manager,Under development......
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 
 *   [TigerHix/komu](https://github.com/TigerHix/komu) - A kawaii self-hosted manga reader for Japanese learners!
 
