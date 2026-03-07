@@ -390,7 +390,7 @@
 
 *   [yaobus/SIPAM](https://github.com/yaobus/SIPAM) - IP地址分配管理系统
 
-*   [Archeb/opentrace](https://github.com/Archeb/opentrace) - Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux. 跨平台可视化路由追踪工具。
+*   [Archeb/opentrace](https://github.com/Archeb/opentrace) - Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux.
 
 *   [nilaoda/N\_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 
@@ -692,7 +692,7 @@
 
 *   [kamjin3086/chatless](https://github.com/kamjin3086/chatless) - 💻一款简洁实用轻量级的本地AI对话客户端，采用Tauri2.0和Next.js编写  A simple, practical, and lightweight local AI chat client, written in Tauri 2.0 & Next.js.
 
-*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
+*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 
 *   [other-blowsnow/n8n-nodes-wechat-work](https://github.com/other-blowsnow/n8n-nodes-wechat-work) - n8n 企业微信
 
@@ -1260,7 +1260,7 @@
 
 *   [cat3399/deepresearch](https://github.com/cat3399/deepresearch) - 一个openai api格式的开源deepresearch方案，专注于提高搜索质量
 
-*   [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+*   [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
 
 *   [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 
@@ -2316,7 +2316,7 @@
 
 *   [Hhhyouy/Notes-of-mathematics](https://github.com/Hhhyouy/Notes-of-mathematics) - 这是本人考研数学三笔记
 
-*   [TJ-CSCCG/tongji-undergrad-thesis](https://github.com/TJ-CSCCG/tongji-undergrad-thesis) - :page\_facing\_up: 同济大学本科生毕业设计论文模板 | Tongji University Undergraduate Thesis Template | Overleaf / Mac / Linux / Windows / Workshop / Docker
+*   [TJ-CSCCG/tongji-undergrad-thesis](https://github.com/TJ-CSCCG/tongji-undergrad-thesis) - 同济大学本科生毕业设计论文 LaTeX 模板 | Tongji University Undergraduate Thesis LaTeX Template
 
 *   [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex) - A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
 
