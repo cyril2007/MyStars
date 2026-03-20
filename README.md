@@ -1376,8 +1376,6 @@
 
 *   [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 
-*   [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
-
 *   [chenpipi0807/PIP\_Panorama-converter](https://github.com/chenpipi0807/PIP_Panorama-converter) - 这是一个基于Python和Gradio开发的全景图转换和查看工具。它可以将普通图片转换为全景图，并使用Panorado软件查看全景图。这是一个基于Python和Gradio开发的全景图转换和查看工具。它可以将普通图片转换为全景图，并使用Panorado软件查看全景图。
 
 *   [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
@@ -1909,6 +1907,8 @@
 *   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 
 *   [CMBill/lxgw-wenkai-web](https://github.com/CMBill/lxgw-wenkai-web) - LXGW WenKai / 霞鹜文楷 网络字体仓库
 
