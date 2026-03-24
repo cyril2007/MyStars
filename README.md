@@ -374,7 +374,7 @@
 
 *   [jackloves111/EMBY.JS.CSS](https://github.com/jackloves111/EMBY.JS.CSS) -
 
-*   [PoxenStudio/talebook](https://github.com/PoxenStudio/talebook) -  Enhanced & Easy-to-use personal e-books management webserver (PoxenStudio/Talebook)
+*   [PoxenStudio/talebook](https://github.com/PoxenStudio/talebook) - 📚Enhanced & Easy-to-use personal e-books management webserver (PoxenStudio/Talebook)
 
 *   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - 🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。
 
@@ -1718,7 +1718,7 @@
 
 *   [binbyu/Reader](https://github.com/binbyu/Reader) - A win32 txt file reader
 
-*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - A tiny (995KB) but mighty timer in pure C. Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%)💘
+*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - A tiny (995KB) but mighty timer in pure C. Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%)💘Don't be shy, join here: https://discord.com/invite/W3tW2gtp6g
 
 *   [TanixLu/pyfuze](https://github.com/TanixLu/pyfuze) - Package Python projects into executables
 
