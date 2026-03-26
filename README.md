@@ -252,7 +252,7 @@
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
-*   [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents.
+*   [kortix-ai/suna](https://github.com/kortix-ai/suna) -
 
 *   [ximu3/vnite](https://github.com/ximu3/vnite) - A unified platform to organize your game collection, track gameplay, with real-time cloud sync across devices and detailed gameplay reports.
 
@@ -582,7 +582,7 @@
 
 *   [pure-music/PureMusic](https://github.com/pure-music/PureMusic) - 本地/百度网盘/阿里云盘/WebDAV/GoogleDrive/OneDrive/Plex/Emby/Jelly/Navidrome音乐播放器，支持Android、Windows、Mac、Linux平台
 
-*   [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+*   [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 
 *   [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大的AI Agent
 
