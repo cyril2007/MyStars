@@ -2316,7 +2316,7 @@
 
 *   [Hhhyouy/Notes-of-mathematics](https://github.com/Hhhyouy/Notes-of-mathematics) - 这是本人考研数学三笔记
 
-*   [TJ-CSCCG/tongji-undergrad-thesis](https://github.com/TJ-CSCCG/tongji-undergrad-thesis) - 同济大学本科生毕业设计论文 LaTeX 模板 | Tongji University Undergraduate Thesis LaTeX Template
+*   [TJ-CSCCG/TongjiThesis](https://github.com/TJ-CSCCG/TongjiThesis) - 同济大学毕业设计论文 LaTeX 模板 | TongjiThesis - LaTeX Thesis Template for Tongji University
 
 *   [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex) - A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
 
