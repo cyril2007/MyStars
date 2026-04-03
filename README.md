@@ -346,7 +346,7 @@
 
 *   [Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban) - an obsidian plugin that can pull data from douban to your markdown file
 
-*   [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
+*   [jsmorabito/obsidian-commander](https://github.com/jsmorabito/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
 
 *   [jia6y/flomo-to-obsidian](https://github.com/jia6y/flomo-to-obsidian) - Make Flomo Memos to Obsidian Notes
 
@@ -500,7 +500,7 @@
 
 *   [spoiledcat/git-for-unity](https://github.com/spoiledcat/git-for-unity) -
 
-*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel 2.0 VLESS/Trojan 多功能面板
+*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan 多功能面板
 
 *   [VRLabs/VRCSchool](https://github.com/VRLabs/VRCSchool) - The VRCSchool Documentation Website
 
