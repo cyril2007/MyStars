@@ -1428,8 +1428,6 @@
 
 *   [15dd/wenku8reader](https://github.com/15dd/wenku8reader) - 第三方轻小说文库app
 
-*   [dmzz-yyhyy/LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) - 一款基于Compose的多数据源轻小说阅读器。支持epub导出，自定义背景样式，本地书架和更新提醒等功能。
-
 *   [shubham0204/SmolChat-Android](https://github.com/shubham0204/SmolChat-Android) - Running any GGUF SLMs/LLMs locally, on-device in Android
 
 *   [fabricezhang/lcg](https://github.com/fabricezhang/lcg) - 吾爱破解第三方安卓应用
@@ -1455,8 +1453,6 @@
 *   [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
 
 *   [OpenIntelWireless/HeliPort](https://github.com/OpenIntelWireless/HeliPort) - Intel Wi-Fi Client for itlwm
-
-*   [Sjj1024/PakePlus-iOS](https://github.com/Sjj1024/PakePlus-iOS) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 *   [alvr-org/alvr-visionos](https://github.com/alvr-org/alvr-visionos) - Experimental visionOS client for ALVR - SteamVR on Apple Vision Pro!
 
@@ -1940,11 +1936,15 @@
 
 *   [rebout7200/text2img](https://github.com/rebout7200/text2img) - 实现将 AI （例如：ChatGPT、Gemini、Grok等AI）生成的文本转换为图片
 
+*   [Sjj1024/PakePlus-iOS](https://github.com/Sjj1024/PakePlus-iOS) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
+
 *   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 *   [CMBill/lxgw-wenkai-web](https://github.com/CMBill/lxgw-wenkai-web) - LXGW WenKai / 霞鹜文楷 网络字体仓库
+
+*   [dmzz-yyhyy/LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) - 一款基于Compose的多数据源轻小说阅读器。支持epub导出，自定义背景样式，本地书架和更新提醒等功能。
 
 *   [tansuotv/IPTVindex](https://github.com/tansuotv/IPTVindex) - IPTVindex 直播点播索引
 
