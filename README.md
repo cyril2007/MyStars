@@ -546,6 +546,8 @@
 
 *   [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 
+*   [sligter/LandPPT](https://github.com/sligter/LandPPT) - 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。
+
 *   [Tokeii0/LovelyAIMaster](https://github.com/Tokeii0/LovelyAIMaster) - 可以在windows任何地方调用AI进行输入
 
 *   [MiniMax-AI/MiniMax-M1](https://github.com/MiniMax-AI/MiniMax-M1) - MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model.
@@ -1198,6 +1200,8 @@
 
 *   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 
+*   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+
 ## JavaScript
 
 *   [jackloves111/EMBY.JS.CSS](https://github.com/jackloves111/EMBY.JS.CSS) -
@@ -1243,8 +1247,6 @@
 *   [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
 
 *   [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
-
-*   [sligter/LandPPT](https://github.com/sligter/LandPPT) - 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。
 
 *   [KeyRotate/LibreTV-App](https://github.com/KeyRotate/LibreTV-App) - LibreTV 跨平台客户端（Android, Windows, Linux, MacOS等），直装免部署
 
@@ -2121,8 +2123,6 @@
 *   [synlogic/Syns-Unity-Shaders](https://github.com/synlogic/Syns-Unity-Shaders) - A set of fun/useful shaders for use in VRChat and Unity itself.
 
 *   [Blake447/4D-Chess-VRC](https://github.com/Blake447/4D-Chess-VRC) - 4 Dimensional Chess prefab for use with VRChats Udon logic, utilizing UdonSharp for scripting.
-
-*   [poiyomi/PoiyomiToonShader](https://github.com/poiyomi/PoiyomiToonShader) - A feature rich toon shader for unity and VR Chat
 
 *   [hfcRed/Player-Tracker](https://github.com/hfcRed/Player-Tracker) - VRChat Avatar tool which lets you select players and attach GameObjects to them
 
