@@ -8,7 +8,8 @@
 
 ## Table of Contents
 
-*   [C#](#c)
+*   [C](#c)
+*   [C#](#c-1)
 *   [Python](#python)
 *   [Java](#java)
 *   [Lua](#lua)
@@ -16,10 +17,9 @@
 *   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
 *   [Swift](#swift)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [miscellaneous](#miscellaneous)
 *   [Rich Text Format](#rich-text-format)
-*   [C](#c-2)
 *   [Rust](#rust)
 *   [Go](#go)
 *   [Dockerfile](#dockerfile)
@@ -61,6 +61,46 @@
 *   [Objective-C](#objective-c-1)
 *   [Stylus](#stylus)
 *   [Clojure](#clojure)
+
+## C
+
+*   [Moekotori/Echoes](https://github.com/Moekotori/Echoes) - The Bit-Perfect Bridge to Your Sonic Multiverse.
+
+*   [Lancet-z/OMEN-by-HP-Laptop-2](https://github.com/Lancet-z/OMEN-by-HP-Laptop-2) - 暗影精灵2  12.6.3可用
+
+*   [HAHALOSAH/Zomigle](https://github.com/HAHALOSAH/Zomigle) -
+
+*   [hirona98/CocoroMemory](https://github.com/hirona98/CocoroMemory) -
+
+*   [binbyu/Reader](https://github.com/binbyu/Reader) - A win32 txt file reader
+
+*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - 💌A tiny (995KB) but mighty timer in pure C — almost no memory usage!❤️‍🔥 Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 💘 Don't be shy, join here🧸: https://discord.com/invite/W3tW2gtp6g
+
+*   [TanixLu/pyfuze](https://github.com/TanixLu/pyfuze) - Package Python projects into executables
+
+*   [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
+
+*   [MikeWang000000/FakeHTTP](https://github.com/MikeWang000000/FakeHTTP) - Obfuscate all your TCP connections into HTTP protocol.
+
+*   [espressif/esp-sr](https://github.com/espressif/esp-sr) - Speech recognition
+
+*   [winscp/winscp](https://github.com/winscp/winscp) - WinSCP is a popular free file manager for Windows supporting SFTP, FTP, FTPS, SCP, S3, WebDAV and local-to-local file transfers. A powerful tool to enhance your productivity with a user-friendly interface and automation options like .NET assembly.
+
+*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
+
+*   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
+
+*   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
+
+*   [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+
+*   [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
+
+*   [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
+
+*   [cpp-labs/ffmpeg](https://github.com/cpp-labs/ffmpeg) -
+
+*   [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 
 ## C\#
 
@@ -588,7 +628,7 @@
 
 *   [AkimioJR/AutoFilm](https://github.com/AkimioJR/AutoFilm) - 一个为Emby、Jellyfin提供服务的小工具：生成strm、动漫追番、绘制媒体库海报
 
-*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
 *   [OmniSVG/OmniSVG](https://github.com/OmniSVG/OmniSVG) - \[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters.
 
@@ -990,7 +1030,7 @@
 
 *   [yeahhe365/All-Model-Chat](https://github.com/yeahhe365/All-Model-Chat) - 一个全能的 AI 聊天助手，深度集成 Gemini 生态。支持多模态交互（文本/语音/图片/视频）、实时联网搜索、代码执行、长文档分析及高级推理功能。内置丰富的预设场景与个性化配置，助您探索 AI 的无限可能。
 
-*   [aichat-momo/AI-Chat](https://github.com/aichat-momo/AI-Chat) - Open-source platform for AI-driven storytelling, worldbuilding, and immersive roleplay
+*   [HappyFox001/AI-Chat](https://github.com/HappyFox001/AI-Chat) - Open-source platform for AI-driven storytelling, worldbuilding, and immersive roleplay
 
 *   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 
@@ -1199,8 +1239,6 @@
 *   [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 
 *   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-
-*   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 
 ## JavaScript
 
@@ -1706,44 +1744,6 @@
 
 *   [mozhu811/HP-OMEN-15-ax225TX](https://github.com/mozhu811/HP-OMEN-15-ax225TX) - :computer: i5-7300HQ, GTX1050Ti 惠普暗影精灵2 Pro 黑苹果EFI, HP OMEN 15-ax225TX Hackintosh clover efi.
 
-## C
-
-*   [Lancet-z/OMEN-by-HP-Laptop-2](https://github.com/Lancet-z/OMEN-by-HP-Laptop-2) - 暗影精灵2  12.6.3可用
-
-*   [HAHALOSAH/Zomigle](https://github.com/HAHALOSAH/Zomigle) -
-
-*   [hirona98/CocoroMemory](https://github.com/hirona98/CocoroMemory) -
-
-*   [binbyu/Reader](https://github.com/binbyu/Reader) - A win32 txt file reader
-
-*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - 💌A tiny (995KB) but mighty timer in pure C — almost no memory usage!❤️‍🔥 Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 💘 Don't be shy, join here🧸: https://discord.com/invite/W3tW2gtp6g
-
-*   [TanixLu/pyfuze](https://github.com/TanixLu/pyfuze) - Package Python projects into executables
-
-*   [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
-
-*   [MikeWang000000/FakeHTTP](https://github.com/MikeWang000000/FakeHTTP) - Obfuscate all your TCP connections into HTTP protocol.
-
-*   [espressif/esp-sr](https://github.com/espressif/esp-sr) - Speech recognition
-
-*   [winscp/winscp](https://github.com/winscp/winscp) - WinSCP is a popular free file manager for Windows supporting SFTP, FTP, FTPS, SCP, S3, WebDAV and local-to-local file transfers. A powerful tool to enhance your productivity with a user-friendly interface and automation options like .NET assembly.
-
-*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
-
-*   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
-
-*   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
-
-*   [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-
-*   [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
-
-*   [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
-
-*   [cpp-labs/ffmpeg](https://github.com/cpp-labs/ffmpeg) -
-
-*   [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
-
 ## Rust
 
 *   [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR-1/2, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python.
@@ -2032,7 +2032,7 @@
 
 *   [overleaf/toolkit](https://github.com/overleaf/toolkit) -
 
-*   [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
+*   [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
 
 *   [sucong426/VPN](https://github.com/sucong426/VPN) - 快速搭建个人VPN/科学上网/翻墙/教程/ssr/ss/bbr/梯子搭建/自建机场/自由上网/代理服务/VPN/2023最新教程
 
