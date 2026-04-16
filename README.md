@@ -38,7 +38,6 @@
 *   [PHP](#php)
 *   [CSS](#css)
 *   [Batchfile](#batchfile)
-*   [Cython](#cython)
 *   [Less](#less)
 *   [SCSS](#scss)
 *   [QML](#qml)
@@ -680,7 +679,7 @@
 
 *   [likilu2002/IPTV](https://github.com/likilu2002/IPTV) - 📺IPTV电视直播，IPv6源\[全网可用]，完善的台标，几近完美的EPG节目预告🎈\[强迫症福音]
 
-*   [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
+*   [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 
 *   [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 
@@ -689,6 +688,8 @@
 *   [RoversCode/seed-vc](https://github.com/RoversCode/seed-vc) - zero-shot voice conversion & singing voice conversion, with real-time support
 
 *   [PiDanShouRouZhouXD/Sakura\_Launcher\_GUI](https://github.com/PiDanShouRouZhouXD/Sakura_Launcher_GUI) - Sakura模型启动器
+
+*   [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl) - 支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT-4/Claude/Deepseek/Sakura
 
 *   [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo) - MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining
 
@@ -2221,10 +2222,6 @@
 *   [SoraShu/easyconn-socks5-for-HITsz](https://github.com/SoraShu/easyconn-socks5-for-HITsz) - 在服务器上运行easyconnect并建立socks5代理，实现win电脑上免安装easyconnect访问校园内网。
 
 *   [mmyo456/Migrate-VRC-cache-locations](https://github.com/mmyo456/Migrate-VRC-cache-locations) - 迁移VRC缓存位置
-
-## Cython
-
-*   [GalTransl/GalTransl](https://github.com/GalTransl/GalTransl) - 支持GPT-4/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT-4/Claude/Deepseek/Sakura
 
 ## Less
 
