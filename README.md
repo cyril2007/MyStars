@@ -59,7 +59,6 @@
 *   [PowerShell](#powershell)
 *   [Objective-C](#objective-c-1)
 *   [Stylus](#stylus)
-*   [Clojure](#clojure)
 
 ## C
 
@@ -649,7 +648,7 @@
 
 *   [Yuliang-Liu/MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR) - A lightweight LMM-based Document Parsing Model
 
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 
 *   [nodesire7/short\_url](https://github.com/nodesire7/short_url) - Python搭建的短链接系统，未来可能加入前台管理，目前为独立后端API
 
@@ -1122,6 +1121,8 @@
 *   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 
 *   [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react-native.
+
+*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
@@ -1897,8 +1898,6 @@
 
 *   [meorionel/Netease\_analyze](https://github.com/meorionel/Netease_analyze) - 这是一个网易云音乐无损解析站点
 
-*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
-
 *   [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。
 
 *   [tonera/fluxsd](https://github.com/tonera/fluxsd) - Open source image and text AIGC system
@@ -2124,6 +2123,8 @@
 *   [synlogic/Syns-Unity-Shaders](https://github.com/synlogic/Syns-Unity-Shaders) - A set of fun/useful shaders for use in VRChat and Unity itself.
 
 *   [Blake447/4D-Chess-VRC](https://github.com/Blake447/4D-Chess-VRC) - 4 Dimensional Chess prefab for use with VRChats Udon logic, utilizing UdonSharp for scripting.
+
+*   [poiyomi/PoiyomiToonShader](https://github.com/poiyomi/PoiyomiToonShader) - A feature rich toon shader for unity and VR Chat
 
 *   [hfcRed/Player-Tracker](https://github.com/hfcRed/Player-Tracker) - VRChat Avatar tool which lets you select players and attach GameObjects to them
 
@@ -2360,7 +2361,3 @@
 ## Stylus
 
 *   [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
-
-## Clojure
-
-*   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267
