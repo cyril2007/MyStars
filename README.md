@@ -110,7 +110,7 @@
 
 ## C
 
-*   [Moekotori/Echoes](https://github.com/Moekotori/Echoes) - The Bit-Perfect Bridge to Your Sonic Multiverse.
+*   [Moekotori/ECHO](https://github.com/Moekotori/ECHO) - The Bit-Perfect Bridge to Your Sonic Multiverse.
 
 *   [Lancet-z/OMEN-by-HP-Laptop-2](https://github.com/Lancet-z/OMEN-by-HP-Laptop-2) - 暗影精灵2  12.6.3可用
 
@@ -1670,6 +1670,8 @@
 
 *   [overmind1980/oeasy-postgres-tutorial](https://github.com/overmind1980/oeasy-postgres-tutorial) - 实验楼地址https://www.lanqiao.cn/courses/2782 ，邀请码CHD6PJZ1，从零开始带您玩转数据库
 
+*   [overmind1980/oeasy-python-tutorial](https://github.com/overmind1980/oeasy-python-tutorial) - 良心的 Python 教程，面向零基础初学者简明易懂的 Python3 入门基础课程。在linux+vim生产力环境下，从浅入深，从简单程序学到网络爬虫。可以配合蓝桥云上实验环境操作。
+
 *   [diana7127/mpv.net-DW](https://github.com/diana7127/mpv.net-DW) - mpv.net\_CM的DW版本，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器
 
 *   [hooke007/mpv.net\_CM](https://github.com/hooke007/mpv.net_CM) - 🎞 mpv.net\_CM 是中文分支模组
@@ -2023,8 +2025,6 @@
 *   [langgenius/dify-docs-archived](https://github.com/langgenius/dify-docs-archived) - The open-source repo for docs.dify.ai
 
 *   [overmind1980/oeasy-linux-tutorial](https://github.com/overmind1980/oeasy-linux-tutorial) - oeasy教您玩转linux教程。从命令行零基础 入门。逐个介绍LINUX查看系统版本、常用命令、基础知识、涵盖多种命令与原理。带您玩转linux的世界。😄
-
-*   [overmind1980/oeasy-python-tutorial](https://github.com/overmind1980/oeasy-python-tutorial) - 良心的 Python 教程，面向零基础初学者简明易懂的 Python3 入门基础课程。在linux+vim生产力环境下，从浅入深，从简单程序学到网络爬虫。可以配合蓝桥云上实验环境操作。
 
 *   [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 
