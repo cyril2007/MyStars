@@ -822,6 +822,8 @@
 
 *   [aigc-apps/EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - 📺 An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion
 
+*   [overmind1980/oeasy-python-tutorial](https://github.com/overmind1980/oeasy-python-tutorial) - 良心的 Python 教程，面向零基础初学者简明易懂的 Python3 入门基础课程。在linux+vim生产力环境下，从浅入深，从简单程序学到网络爬虫。可以配合蓝桥云上实验环境操作。
+
 *   [lgc-NB2Dev/nonebot-plugin-multincm](https://github.com/lgc-NB2Dev/nonebot-plugin-multincm) - 网易云多选点歌，使用自定义卡片，可以登录账号听 VIP 歌曲
 
 *   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -1054,7 +1056,7 @@
 
 *   [QiaoKes/fntv-electron](https://github.com/QiaoKes/fntv-electron) - 飞牛影视PC版
 
-*   [huoshen80/ReinaManager](https://github.com/huoshen80/ReinaManager) - A galgame/visual-novel manager,Under development......
+*   [huoshen80/ReinaManager](https://github.com/huoshen80/ReinaManager) - A lightweight galgame/visual-novel manager,Under development...
 
 *   [TigerHix/komu](https://github.com/TigerHix/komu) - A kawaii self-hosted manga reader for Japanese learners!
 
@@ -1169,8 +1171,6 @@
 *   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 
 *   [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react-native.
-
-*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
@@ -1670,8 +1670,6 @@
 
 *   [overmind1980/oeasy-postgres-tutorial](https://github.com/overmind1980/oeasy-postgres-tutorial) - 实验楼地址https://www.lanqiao.cn/courses/2782 ，邀请码CHD6PJZ1，从零开始带您玩转数据库
 
-*   [overmind1980/oeasy-python-tutorial](https://github.com/overmind1980/oeasy-python-tutorial) - 良心的 Python 教程，面向零基础初学者简明易懂的 Python3 入门基础课程。在linux+vim生产力环境下，从浅入深，从简单程序学到网络爬虫。可以配合蓝桥云上实验环境操作。
-
 *   [diana7127/mpv.net-DW](https://github.com/diana7127/mpv.net-DW) - mpv.net\_CM的DW版本，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器
 
 *   [hooke007/mpv.net\_CM](https://github.com/hooke007/mpv.net_CM) - 🎞 mpv.net\_CM 是中文分支模组
@@ -1899,6 +1897,8 @@
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 *   [meorionel/Netease\_analyze](https://github.com/meorionel/Netease_analyze) - 这是一个网易云音乐无损解析站点
+
+*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 
 *   [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。
 
