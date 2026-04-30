@@ -66,7 +66,7 @@
 
 *   [wushuo894/komga-cn](https://github.com/wushuo894/komga-cn) - Komga-cn 在原版基础上对 MOBI 做了支持, 修复了中文 EPUB 问题。增强封面获取逻辑，支持中文拼音首字母索引
 
-*   [pure-music/PureMusic](https://github.com/pure-music/PureMusic) - 本地/百度网盘/阿里云盘/WebDAV/GoogleDrive/OneDrive/Plex/Emby/Jelly/Navidrome音乐播放器，支持Android、Windows、Mac、Linux平台
+*   [pure-music/PureMusic](https://github.com/pure-music/PureMusic) - Cotton Music: Player for Local stored, Drive, Navidrome, Subsonic, Emby, Jellyfin, Plex.  Supports Android, iOS, and PC
 
 *   [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 
