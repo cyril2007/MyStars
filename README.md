@@ -1500,6 +1500,8 @@
 
 *   [OpenIntelWireless/HeliPort](https://github.com/OpenIntelWireless/HeliPort) - Intel Wi-Fi Client for itlwm
 
+*   [Sjj1024/PakePlus-iOS](https://github.com/Sjj1024/PakePlus-iOS) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
+
 *   [alvr-org/alvr-visionos](https://github.com/alvr-org/alvr-visionos) - Experimental visionOS client for ALVR - SteamVR on Apple Vision Pro!
 
 *   [alexwidua/zoom-motion-blur](https://github.com/alexwidua/zoom-motion-blur) - motion blur shader built using swiftui and metal
@@ -1941,8 +1943,6 @@
 ## HTML
 
 *   [rebout7200/text2img](https://github.com/rebout7200/text2img) - 实现将 AI （例如：ChatGPT、Gemini、Grok等AI）生成的文本转换为图片
-
-*   [Sjj1024/PakePlus-iOS](https://github.com/Sjj1024/PakePlus-iOS) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 *   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
