@@ -66,7 +66,7 @@
 
 *   [wushuo894/komga-cn](https://github.com/wushuo894/komga-cn) - Komga-cn 在原版基础上对 MOBI 做了支持, 修复了中文 EPUB 问题。增强封面获取逻辑，支持中文拼音首字母索引
 
-*   [pure-music/PureMusic](https://github.com/pure-music/PureMusic) - Cotton Music: Player for Local stored, Drive, Navidrome, Subsonic, Emby, Jellyfin, Plex.  Supports Android, iOS, and PC
+*   [pure-music/PureMusic](https://github.com/pure-music/PureMusic) - Cotton Music(棉花音乐): Player for Local file, Drive, Navidrome, Subsonic, Emby, Jellyfin, Plex.  Supports Android, iOS, and PC
 
 *   [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 
@@ -1578,6 +1578,8 @@
 
 *   [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin) - Third-party native Jellyfin client for PC/PS4/PSVita/Nintendo Switch
 
+*   [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.
+
 ## miscellaneous
 
 *   [XStar-Dev/HP\_OMEN-2Pro\_Hackintosh](https://github.com/XStar-Dev/HP_OMEN-2Pro_Hackintosh) - Hackintosh EFI For HP OMEN 2Pro (15-ax200 Laptop Series)
@@ -2178,8 +2180,6 @@
 
 *   [AlanDecode/PandaBangumi-Typecho-Plugin](https://github.com/AlanDecode/PandaBangumi-Typecho-Plugin) - 给博客添加精美的追番展示页吧！
 
-*   [wusongbuaa/typecho-sitemap](https://github.com/wusongbuaa/typecho-sitemap) - Sitemap for Typecho
-
 *   [BeihangHuiye/SpamLite](https://github.com/BeihangHuiye/SpamLite) - 一份简约的Typecho垃圾评论拦截插件
 
 *   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
@@ -2226,7 +2226,7 @@
 
 ## Less
 
-*   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × ENHANCEMENT PLUGIN for Typora/Markdown.
+*   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和排版增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × TYPESETTING PLUS for Typora/Markdown
 
 ## SCSS
 
