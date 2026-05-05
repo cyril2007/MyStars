@@ -38,7 +38,6 @@
 *   [PHP](#php)
 *   [CSS](#css)
 *   [Batchfile](#batchfile)
-*   [Less](#less)
 *   [SCSS](#scss)
 *   [QML](#qml)
 *   [AutoIt](#autoit)
@@ -674,7 +673,7 @@
 
 *   [AkimioJR/AutoFilm](https://github.com/AkimioJR/AutoFilm) - 一个为Emby、Jellyfin提供服务的小工具：生成strm、动漫追番、绘制媒体库海报
 
-*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
 *   [OmniSVG/OmniSVG](https://github.com/OmniSVG/OmniSVG) - \[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters.
 
@@ -789,6 +788,8 @@
 *   [Ylin97/Play-by-mpv](https://github.com/Ylin97/Play-by-mpv) - Play video URL by mpv
 
 *   [WEIFENG2333/AsrTools](https://github.com/WEIFENG2333/AsrTools) - ✨ AsrTools: Smart Voice-to-Text Tool | Efficient Batch Processing | User-Friendly Interface | No GPU Required | Supports SRT/TXT Output | Turn your audio into accurate text in an instant!
+
+*   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和排版增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × TYPESETTING PLUS for Typora/Markdown
 
 *   [whitebrise/BlurayPoster](https://github.com/whitebrise/BlurayPoster) - oppo udp with poster
 
@@ -2223,10 +2224,6 @@
 *   [SoraShu/easyconn-socks5-for-HITsz](https://github.com/SoraShu/easyconn-socks5-for-HITsz) - 在服务器上运行easyconnect并建立socks5代理，实现win电脑上免安装easyconnect访问校园内网。
 
 *   [mmyo456/Migrate-VRC-cache-locations](https://github.com/mmyo456/Migrate-VRC-cache-locations) - 迁移VRC缓存位置
-
-## Less
-
-*   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和排版增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × TYPESETTING PLUS for Typora/Markdown
 
 ## SCSS
 
