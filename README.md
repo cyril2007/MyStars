@@ -2287,7 +2287,7 @@
 
 *   [wx672/lecture-notes](https://github.com/wx672/lecture-notes) - My lecture notes and slides
 
-*   [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit) - Macro Packages and Scripts for Chinese TeX users
+*   [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit) - Chinese typesetting infrastructure for LaTeX — ctex, xeCJK, and satellite packages (XeLaTeX / LuaLaTeX / pdfLaTeX / upLaTeX)
 
 *   [OsbertWang/install-latex-guide-zh-cn](https://github.com/OsbertWang/install-latex-guide-zh-cn) - 一份简短的关于 LaTeX 安装的介绍
 
