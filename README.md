@@ -17,8 +17,9 @@
 *   [TypeScript](#typescript)
 *   [Swift](#swift)
 *   [C++](#c-1)
-*   [miscellaneous](#miscellaneous)
+*   [ASL](#asl)
 *   [Rich Text Format](#rich-text-format)
+*   [miscellaneous](#miscellaneous)
 *   [C](#c-2)
 *   [Rust](#rust)
 *   [Go](#go)
@@ -59,6 +60,7 @@
 *   [PowerShell](#powershell)
 *   [Objective-C](#objective-c-1)
 *   [Stylus](#stylus)
+*   [Clojure](#clojure)
 
 ## Kotlin
 
@@ -1276,8 +1278,6 @@
 
 *   [14790897/paper-ai](https://github.com/14790897/paper-ai) - 搜索真实文献并生成引用对应文献的AI论文
 
-*   [LLM-Red-Team/minimax-free-api](https://github.com/LLM-Red-Team/minimax-free-api) - 🚀 MiniMax大模型海螺AI逆向API【特长：超自然语音】，支持MiniMax Text-01、MiniMax-VL-01模型，支持高速流式输出、语音合成、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
-
 *   [maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat) - AI机器人群聊
 
 *   [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
@@ -1312,7 +1312,7 @@
 
 *   [pt-plugins/PT-depiler](https://github.com/pt-plugins/PT-depiler) - PT-depiler 是在原 PT-Plugin-Plus 基础上， 基于浏览器最新的 Manifest v3 标准开发的一款浏览器插件（Web Extensions）， 一个可以提升 PT 站点使用效率的工具。
 
-*   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+*   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 
 *   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 
@@ -1542,9 +1542,15 @@
 
 *   [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.
 
-## miscellaneous
+## ASL
 
 *   [XStar-Dev/HP\_OMEN-2Pro\_Hackintosh](https://github.com/XStar-Dev/HP_OMEN-2Pro_Hackintosh) - Hackintosh EFI For HP OMEN 2Pro (15-ax200 Laptop Series)
+
+## Rich Text Format
+
+*   [mozhu811/HP-OMEN-15-ax225TX](https://github.com/mozhu811/HP-OMEN-15-ax225TX) - :computer: i5-7300HQ, GTX1050Ti 惠普暗影精灵2 Pro 黑苹果EFI, HP OMEN 15-ax225TX Hackintosh clover efi.
+
+## miscellaneous
 
 *   [ljsy20009/OMEN-HP-Laptop-2](https://github.com/ljsy20009/OMEN-HP-Laptop-2) - 惠普暗影精灵2 EFI（i5+6300HD+530HD+GTX960+ALC295）
 
@@ -1707,10 +1713,6 @@
 *   [mmyo456/NeteaseCloudMusicApi](https://github.com/mmyo456/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 
 *   [kaiheila/api-docs](https://github.com/kaiheila/api-docs) - KOOK开发者中心文档
-
-## Rich Text Format
-
-*   [mozhu811/HP-OMEN-15-ax225TX](https://github.com/mozhu811/HP-OMEN-15-ax225TX) - :computer: i5-7300HQ, GTX1050Ti 惠普暗影精灵2 Pro 黑苹果EFI, HP OMEN 15-ax225TX Hackintosh clover efi.
 
 ## C
 
@@ -2361,3 +2363,7 @@
 ## Stylus
 
 *   [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
+
+## Clojure
+
+*   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc\_ggEV
