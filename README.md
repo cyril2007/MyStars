@@ -29,7 +29,6 @@
 *   [ActionScript](#actionscript)
 *   [HTML](#html)
 *   [Shell](#shell)
-*   [Zig](#zig)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [ShaderLab](#shaderlab)
 *   [Markdown](#markdown)
@@ -1762,6 +1761,8 @@
 
 *   [gwy15/danmu2ass](https://github.com/gwy15/danmu2ass) - 将哔哩哔哩的 弹幕 转化为 ass 字幕文件，实时预览
 
+*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
 *   [lanyeeee/hitomi-downloader](https://github.com/lanyeeee/hitomi-downloader) - A GUI-based multi-threaded downloader for hitomi hitomi.la  一个带GUI的用于 hitomi hitomi.la 的多线程下载器
 
 *   [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
@@ -2057,10 +2058,6 @@
 *   [wukongdaily/diy-nas-onescript](https://github.com/wukongdaily/diy-nas-onescript) - 这是一个适用于在深度系统/debian桌面系统上部署nas常用软件的脚本。快速安装必备软件，虚拟机、硬盘直通。适合办公和轻NAS二合一的场景。
 
 *   [DDSRem-Dev/MoviePilot](https://github.com/DDSRem-Dev/MoviePilot) - NAS媒体库自动化管理工具
-
-## Zig
-
-*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## Jupyter Notebook
 
