@@ -442,7 +442,7 @@
 
 *   [JasonXuDeveloper/Nino](https://github.com/JasonXuDeveloper/Nino) - Ultimate high-performance binary serialization library for C#.
 
-*   [fancyxnet/Cracker.CommandLine](https://github.com/fancyxnet/Cracker.CommandLine) - 纯手写命令行
+*   [hdonghua/Cracker.CommandLine](https://github.com/hdonghua/Cracker.CommandLine) - 纯手写命令行
 
 *   [falseeeeeeeeee/ShaderLibrary](https://github.com/falseeeeeeeeee/ShaderLibrary) - 希望开源能够帮到所有人
 
