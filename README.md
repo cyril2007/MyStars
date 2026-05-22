@@ -506,6 +506,8 @@
 
 *   [anatawa12/VPMPackageAutoInstaller](https://github.com/anatawa12/VPMPackageAutoInstaller) - An project to install vpm package published in non-official registry with unitypackage file.
 
+*   [llcheesell/LEDScreenShader](https://github.com/llcheesell/LEDScreenShader) - Realistic LED Shader for Unity
+
 *   [Varneon/UdonExplorer](https://github.com/Varneon/UdonExplorer) - Unity Editor extension for easily exploring all VRCSDK3 UdonBehaviours in your Unity scene
 
 *   [Narazaka/VRChat\_UserMovingFloor](https://github.com/Narazaka/VRChat_UserMovingFloor) - VRChat用乗り物床面追従システム
@@ -936,7 +938,7 @@
 
 *   [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) - AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它使用TTS技术【edge-tts/VITS/elevenlabs/bark/bert-vits2/睿声】生成回答并可以选择【so-vits-svc/DDSP-SVC】变声；指令协同SD画图。
 
-*   [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
+*   [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - An experimental agent that works across the browser and local file system
 
 *   [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
 
@@ -2095,8 +2097,6 @@
 *   [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) - A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.
 
 *   [candycat1992/Unity\_Shaders\_Book](https://github.com/candycat1992/Unity_Shaders_Book) - :book: 书籍《Unity Shader入门精要》源代码
-
-*   [llcheesell/LEDScreenShader](https://github.com/llcheesell/LEDScreenShader) - Realistic LED Shader for Unity
 
 *   [SquirrelyJones/DarkAndStormy](https://github.com/SquirrelyJones/DarkAndStormy) - Overcast clouds with crazy colors skybox shader for Unity3d
 
