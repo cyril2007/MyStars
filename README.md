@@ -250,7 +250,7 @@
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
-*   [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Autonomous Company Operating System
+*   [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Company AI Command Center
 
 *   [ximu3/vnite](https://github.com/ximu3/vnite) - A unified platform to organize your game collection, track gameplay, with real-time cloud sync across devices and detailed gameplay reports.
 
@@ -1322,7 +1322,7 @@
 
 *   [hexdocom/lemonai](https://github.com/hexdocom/lemonai) - Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔 Official updates   X(twitter) @LemonAI\_cc
 
-*   [nooblong/NeteaseCloudMusicApiBackup](https://github.com/nooblong/NeteaseCloudMusicApiBackup) - 前往npm获取最新nodejs18版本:https://www.npmjs.com/package/NeteaseCloudMusicApi
+*   [nooblong/NeteaseCloudMusicApiBackup](https://github.com/nooblong/NeteaseCloudMusicApiBackup) - https://www.npmjs.com/package/NeteaseCloudMusicApi
 
 *   [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
 
