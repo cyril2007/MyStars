@@ -1301,7 +1301,7 @@
 
 *   [yorikvanhavre/BIM\_Workbench](https://github.com/yorikvanhavre/BIM_Workbench) - A BIM Workbench for FreeCAD
 
-*   [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
+*   [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
 
 *   [rwv/flash-archive-project](https://github.com/rwv/flash-archive-project) - ⚡ Good old days' Adobe Flash files. (Mainly focus on Chinese Flash files)
 
@@ -1558,8 +1558,6 @@
 *   [AlekPet/ComfyUI\_Custom\_Nodes\_AlekPet](https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet) - Custom nodes that extend the capabilities of Comfyui
 
 *   [AcChosen/VRMusicFestivalWebControlPanel](https://github.com/AcChosen/VRMusicFestivalWebControlPanel) - Web control panel for controlling data inside VR Music Festival worlds as well as internal stream controls for managing in-world video streams.
-
-*   [agendav/agendav](https://github.com/agendav/agendav) - A CalDAV web client similar to Google Calendar
 
 *   [ledccn/IYUUPlus](https://github.com/ledccn/IYUUPlus) - IYUUAutoReseed项目的升级版，常驻内存运行；集成WEBUI控制界面、辅种、下载、定时访问URL、动态域名DDNS等常用功能，提供完善的插件机制。
 
@@ -2198,6 +2196,8 @@
 *   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 
 *   [Natsumi-sama/VRChat-YouTube-dl-stub](https://github.com/Natsumi-sama/VRChat-YouTube-dl-stub) - Use a local web server to serve cached videos to VRChat
+
+*   [agendav/agendav](https://github.com/agendav/agendav) - A CalDAV web client similar to Google Calendar
 
 *   [xiaomlove/nexusphp](https://github.com/xiaomlove/nexusphp) - A private tracker application base on NexusPHP
 
