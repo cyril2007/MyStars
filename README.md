@@ -882,8 +882,6 @@
 
 *   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 
-*   [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual speech understanding: ASR + emotion recognition + audio event detection. 50+ languages, 15x faster than Whisper, non-autoregressive.
-
 *   [hect0x7/JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python) - Python API for JMComic | 提供Python API访问禁漫天堂，同时支持网页端和移动端 | 禁漫天堂GitHub Actions下载器🚀
 
 *   [hirona98/CocoroCore](https://github.com/hirona98/CocoroCore) -
@@ -918,9 +916,9 @@
 
 *   [cat3399/deepresearch](https://github.com/cat3399/deepresearch) - 一个openai api格式的开源deepresearch方案，专注于提高搜索质量
 
-*   [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
+*   [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 
-*   [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
+*   [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 
 *   [CheshireCC/faster-whisper-GUI](https://github.com/CheshireCC/faster-whisper-GUI) - faster\_whisper GUI with PySide6
 
@@ -1715,6 +1713,8 @@
 *   [Lancet-z/OMEN-by-HP-Laptop-2](https://github.com/Lancet-z/OMEN-by-HP-Laptop-2) - 暗影精灵2  12.6.3可用
 
 *   [HAHALOSAH/Zomigle](https://github.com/HAHALOSAH/Zomigle) -
+
+*   [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual speech understanding: ASR + emotion recognition + audio event detection. 50+ languages, 15x faster than Whisper, non-autoregressive.
 
 *   [hirona98/CocoroMemory](https://github.com/hirona98/CocoroMemory) -
 
